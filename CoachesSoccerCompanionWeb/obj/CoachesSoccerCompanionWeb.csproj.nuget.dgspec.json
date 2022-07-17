@@ -70,6 +70,16 @@
               "target": "Package",
               "version": "[6.0.6, )"
             },
+            "RestEase": {
+              "target": "Package",
+              "version": "[1.5.7, )"
+            },
+            "RestEase.SourceGenerator": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[1.5.7, )"
+            },
             "Swashbuckle.AspNetCore": {
               "target": "Package",
               "version": "[6.3.0, )"

@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "S3PnnqAOBCygBQUelGiTbKlU9xL55AV/T/PBHamLpKtkOSAWXyQlteikwTvxK3oyZwRQWSK3mtbkihflNLI17g==",
+  "dgSpecHash": "oqxuQli5pYvHSfFu4a8UICPxbfxjMtK5X3Ujl24cFm5tHPQGx7FpXylCTJ4EOUtP74/93gr1WMAGbjs6Bqqtnw==",
   "success": true,
   "projectFilePath": "C:\\Users\\Aaron\\source\\repos\\CoachesSoccerCompanionWeb\\CoachesSoccerCompanionWeb\\CoachesSoccerCompanionWeb.csproj",
   "expectedPackageFiles": [
@@ -91,6 +91,8 @@
     "C:\\Users\\Aaron\\.nuget\\packages\\nuget.projectmodel\\5.11.0\\nuget.projectmodel.5.11.0.nupkg.sha512",
     "C:\\Users\\Aaron\\.nuget\\packages\\nuget.protocol\\5.11.0\\nuget.protocol.5.11.0.nupkg.sha512",
     "C:\\Users\\Aaron\\.nuget\\packages\\nuget.versioning\\5.11.0\\nuget.versioning.5.11.0.nupkg.sha512",
+    "C:\\Users\\Aaron\\.nuget\\packages\\restease\\1.5.7\\restease.1.5.7.nupkg.sha512",
+    "C:\\Users\\Aaron\\.nuget\\packages\\restease.sourcegenerator\\1.5.7\\restease.sourcegenerator.1.5.7.nupkg.sha512",
     "C:\\Users\\Aaron\\.nuget\\packages\\runtime.debian.8-x64.runtime.native.system.security.cryptography.openssl\\4.3.0\\runtime.debian.8-x64.runtime.native.system.security.cryptography.openssl.4.3.0.nupkg.sha512",
     "C:\\Users\\Aaron\\.nuget\\packages\\runtime.fedora.23-x64.runtime.native.system.security.cryptography.openssl\\4.3.0\\runtime.fedora.23-x64.runtime.native.system.security.cryptography.openssl.4.3.0.nupkg.sha512",
     "C:\\Users\\Aaron\\.nuget\\packages\\runtime.fedora.24-x64.runtime.native.system.security.cryptography.openssl\\4.3.0\\runtime.fedora.24-x64.runtime.native.system.security.cryptography.openssl.4.3.0.nupkg.sha512",
