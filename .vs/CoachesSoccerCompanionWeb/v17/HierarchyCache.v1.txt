@@ -1,0 +1,1203 @@
+﻿++Solution 'CoachesSoccerCompanionWeb' ‎(1 of 1 project)
+i:{00000000-0000-0000-0000-000000000000}:CoachesSoccerCompanionWeb.sln
+++CoachesSoccerCompanionWeb
+i:{00000000-0000-0000-0000-000000000000}:CoachesSoccerCompanionWeb
+++Connected Services 
+i:{d8cbeb4a-8e80-49b5-9358-6b3ffc4f3ec6}:>1154
+++Dependencies
+i:{d8cbeb4a-8e80-49b5-9358-6b3ffc4f3ec6}:>1153
+++Imports
+i:{d8cbeb4a-8e80-49b5-9358-6b3ffc4f3ec6}:>498
+++Properties
+i:{d8cbeb4a-8e80-49b5-9358-6b3ffc4f3ec6}:c:\users\aaron\source\repos\coachessoccercompanionweb\coachessoccercompanionweb\properties\
+++launchSettings.json
+i:{d8cbeb4a-8e80-49b5-9358-6b3ffc4f3ec6}:c:\users\aaron\source\repos\coachessoccercompanionweb\coachessoccercompanionweb\properties\launchsettings.json
+++serviceDependencies.json
+i:{d8cbeb4a-8e80-49b5-9358-6b3ffc4f3ec6}:c:\users\aaron\source\repos\coachessoccercompanionweb\coachessoccercompanionweb\properties\servicedependencies.json
+++serviceDependencies.local.json.user
+i:{d8cbeb4a-8e80-49b5-9358-6b3ffc4f3ec6}:c:\users\aaron\source\repos\coachessoccercompanionweb\coachessoccercompanionweb\properties\servicedependencies.local.json.user
+++wwwroot
+i:{d8cbeb4a-8e80-49b5-9358-6b3ffc4f3ec6}:c:\users\aaron\source\repos\coachessoccercompanionweb\coachessoccercompanionweb\wwwroot\
+++css
+i:{d8cbeb4a-8e80-49b5-9358-6b3ffc4f3ec6}:c:\users\aaron\source\repos\coachessoccercompanionweb\coachessoccercompanionweb\wwwroot\css\
+i:{d8cbeb4a-8e80-49b5-9358-6b3ffc4f3ec6}:c:\users\aaron\source\repos\coachessoccercompanionweb\coachessoccercompanionweb\wwwroot\lib\bootstrap\dist\css\
+++js
+i:{d8cbeb4a-8e80-49b5-9358-6b3ffc4f3ec6}:c:\users\aaron\source\repos\coachessoccercompanionweb\coachessoccercompanionweb\wwwroot\js\
+i:{d8cbeb4a-8e80-49b5-9358-6b3ffc4f3ec6}:c:\users\aaron\source\repos\coachessoccercompanionweb\coachessoccercompanionweb\wwwroot\lib\bootstrap\dist\js\
+++lib
+i:{d8cbeb4a-8e80-49b5-9358-6b3ffc4f3ec6}:c:\users\aaron\source\repos\coachessoccercompanionweb\coachessoccercompanionweb\wwwroot\lib\
+i:{d8cbeb4a-8e80-49b5-9358-6b3ffc4f3ec6}:c:\users\aaron\source\repos\coachessoccercompanionweb\coachessoccercompanionweb\bin\debug\net6.0\runtimes\unix\lib\
+i:{d8cbeb4a-8e80-49b5-9358-6b3ffc4f3ec6}:c:\users\aaron\source\repos\coachessoccercompanionweb\coachessoccercompanionweb\bin\debug\net6.0\runtimes\win\lib\
+i:{d8cbeb4a-8e80-49b5-9358-6b3ffc4f3ec6}:c:\users\aaron\source\repos\coachessoccercompanionweb\coachessoccercompanionweb\bin\debug\net6.0\runtimes\win-arm\lib\
+i:{d8cbeb4a-8e80-49b5-9358-6b3ffc4f3ec6}:c:\users\aaron\source\repos\coachessoccercompanionweb\coachessoccercompanionweb\bin\debug\net6.0\runtimes\win-arm64\lib\
+++favicon.ico
+i:{d8cbeb4a-8e80-49b5-9358-6b3ffc4f3ec6}:c:\users\aaron\source\repos\coachessoccercompanionweb\coachessoccercompanionweb\wwwroot\favicon.ico
+++Areas
+i:{d8cbeb4a-8e80-49b5-9358-6b3ffc4f3ec6}:c:\users\aaron\source\repos\coachessoccercompanionweb\coachessoccercompanionweb\areas\
+++Identity
+i:{d8cbeb4a-8e80-49b5-9358-6b3ffc4f3ec6}:c:\users\aaron\source\repos\coachessoccercompanionweb\coachessoccercompanionweb\areas\identity\
+++Pages
+i:{d8cbeb4a-8e80-49b5-9358-6b3ffc4f3ec6}:c:\users\aaron\source\repos\coachessoccercompanionweb\coachessoccercompanionweb\areas\identity\pages\
+++bin
+i:{d8cbeb4a-8e80-49b5-9358-6b3ffc4f3ec6}:c:\users\aaron\source\repos\coachessoccercompanionweb\coachessoccercompanionweb\bin\
+++Controllers
+i:{d8cbeb4a-8e80-49b5-9358-6b3ffc4f3ec6}:c:\users\aaron\source\repos\coachessoccercompanionweb\coachessoccercompanionweb\controllers\
+++CoachesController.cs
+i:{d8cbeb4a-8e80-49b5-9358-6b3ffc4f3ec6}:c:\users\aaron\source\repos\coachessoccercompanionweb\coachessoccercompanionweb\controllers\coachescontroller.cs
+++HomeController.cs
+i:{d8cbeb4a-8e80-49b5-9358-6b3ffc4f3ec6}:c:\users\aaron\source\repos\coachessoccercompanionweb\coachessoccercompanionweb\controllers\homecontroller.cs
+++PositionTimesController.cs
+i:{d8cbeb4a-8e80-49b5-9358-6b3ffc4f3ec6}:c:\users\aaron\source\repos\coachessoccercompanionweb\coachessoccercompanionweb\controllers\positiontimescontroller.cs
+++TeamsController.cs
+i:{d8cbeb4a-8e80-49b5-9358-6b3ffc4f3ec6}:c:\users\aaron\source\repos\coachessoccercompanionweb\coachessoccercompanionweb\controllers\teamscontroller.cs
+++Data
+i:{d8cbeb4a-8e80-49b5-9358-6b3ffc4f3ec6}:c:\users\aaron\source\repos\coachessoccercompanionweb\coachessoccercompanionweb\data\
+++Migrations
+i:{d8cbeb4a-8e80-49b5-9358-6b3ffc4f3ec6}:c:\users\aaron\source\repos\coachessoccercompanionweb\coachessoccercompanionweb\data\migrations\
+++00000000000000_CreateIdentitySchema.cs
+i:{d8cbeb4a-8e80-49b5-9358-6b3ffc4f3ec6}:c:\users\aaron\source\repos\coachessoccercompanionweb\coachessoccercompanionweb\data\migrations\00000000000000_createidentityschema.cs
+++20220618013448_Participant.cs
+i:{d8cbeb4a-8e80-49b5-9358-6b3ffc4f3ec6}:c:\users\aaron\source\repos\coachessoccercompanionweb\coachessoccercompanionweb\data\migrations\20220618013448_participant.cs
+++20220618014953_Coach.seed.cs
+i:{d8cbeb4a-8e80-49b5-9358-6b3ffc4f3ec6}:c:\users\aaron\source\repos\coachessoccercompanionweb\coachessoccercompanionweb\data\migrations\20220618014953_coach.seed.cs
+++20220704173348_2207040133.cs
+i:{d8cbeb4a-8e80-49b5-9358-6b3ffc4f3ec6}:c:\users\aaron\source\repos\coachessoccercompanionweb\coachessoccercompanionweb\data\migrations\20220704173348_2207040133.cs
+++20220704174213_2207040142.cs
+i:{d8cbeb4a-8e80-49b5-9358-6b3ffc4f3ec6}:c:\users\aaron\source\repos\coachessoccercompanionweb\coachessoccercompanionweb\data\migrations\20220704174213_2207040142.cs
+++20220705030902_2207041108.cs
+i:{d8cbeb4a-8e80-49b5-9358-6b3ffc4f3ec6}:c:\users\aaron\source\repos\coachessoccercompanionweb\coachessoccercompanionweb\data\migrations\20220705030902_2207041108.cs
+++20220705034927_2207041149.cs
+i:{d8cbeb4a-8e80-49b5-9358-6b3ffc4f3ec6}:c:\users\aaron\source\repos\coachessoccercompanionweb\coachessoccercompanionweb\data\migrations\20220705034927_2207041149.cs
+++20220705035312_2207041153.cs
+i:{d8cbeb4a-8e80-49b5-9358-6b3ffc4f3ec6}:c:\users\aaron\source\repos\coachessoccercompanionweb\coachessoccercompanionweb\data\migrations\20220705035312_2207041153.cs
+++20220705035947_2207041159.cs
+i:{d8cbeb4a-8e80-49b5-9358-6b3ffc4f3ec6}:c:\users\aaron\source\repos\coachessoccercompanionweb\coachessoccercompanionweb\data\migrations\20220705035947_2207041159.cs
+++20220705041750_2207051217.cs
+i:{d8cbeb4a-8e80-49b5-9358-6b3ffc4f3ec6}:c:\users\aaron\source\repos\coachessoccercompanionweb\coachessoccercompanionweb\data\migrations\20220705041750_2207051217.cs
+++ApplicationDbContextModelSnapshot.cs
+i:{d8cbeb4a-8e80-49b5-9358-6b3ffc4f3ec6}:c:\users\aaron\source\repos\coachessoccercompanionweb\coachessoccercompanionweb\data\migrations\applicationdbcontextmodelsnapshot.cs
+++ApplicationDbContext.cs
+i:{d8cbeb4a-8e80-49b5-9358-6b3ffc4f3ec6}:c:\users\aaron\source\repos\coachessoccercompanionweb\coachessoccercompanionweb\data\applicationdbcontext.cs
+++Images
+i:{d8cbeb4a-8e80-49b5-9358-6b3ffc4f3ec6}:c:\users\aaron\source\repos\coachessoccercompanionweb\coachessoccercompanionweb\images\
+++PauseStop.png
+i:{d8cbeb4a-8e80-49b5-9358-6b3ffc4f3ec6}:c:\users\aaron\source\repos\coachessoccercompanionweb\coachessoccercompanionweb\images\pausestop.png
+++Start.png
+i:{d8cbeb4a-8e80-49b5-9358-6b3ffc4f3ec6}:c:\users\aaron\source\repos\coachessoccercompanionweb\coachessoccercompanionweb\images\start.png
+++Models
+i:{d8cbeb4a-8e80-49b5-9358-6b3ffc4f3ec6}:c:\users\aaron\source\repos\coachessoccercompanionweb\coachessoccercompanionweb\models\
+++Button.cs
+++Coach.cs
+i:{d8cbeb4a-8e80-49b5-9358-6b3ffc4f3ec6}:c:\users\aaron\source\repos\coachessoccercompanionweb\coachessoccercompanionweb\models\coach.cs
+++ErrorViewModel.cs
+i:{d8cbeb4a-8e80-49b5-9358-6b3ffc4f3ec6}:c:\users\aaron\source\repos\coachessoccercompanionweb\coachessoccercompanionweb\models\errorviewmodel.cs
+++Participant.cs
+i:{d8cbeb4a-8e80-49b5-9358-6b3ffc4f3ec6}:c:\users\aaron\source\repos\coachessoccercompanionweb\coachessoccercompanionweb\models\participant.cs
+++Player.cs
+i:{d8cbeb4a-8e80-49b5-9358-6b3ffc4f3ec6}:c:\users\aaron\source\repos\coachessoccercompanionweb\coachessoccercompanionweb\models\player.cs
+++PositionTime.cs
+i:{d8cbeb4a-8e80-49b5-9358-6b3ffc4f3ec6}:c:\users\aaron\source\repos\coachessoccercompanionweb\coachessoccercompanionweb\models\positiontime.cs
+++Team.cs
+i:{d8cbeb4a-8e80-49b5-9358-6b3ffc4f3ec6}:c:\users\aaron\source\repos\coachessoccercompanionweb\coachessoccercompanionweb\models\team.cs
+++obj
+i:{d8cbeb4a-8e80-49b5-9358-6b3ffc4f3ec6}:c:\users\aaron\source\repos\coachessoccercompanionweb\coachessoccercompanionweb\obj\
+++Views
+i:{d8cbeb4a-8e80-49b5-9358-6b3ffc4f3ec6}:c:\users\aaron\source\repos\coachessoccercompanionweb\coachessoccercompanionweb\views\
+i:{d8cbeb4a-8e80-49b5-9358-6b3ffc4f3ec6}:c:\users\aaron\source\repos\coachessoccercompanionweb\coachessoccercompanionweb\obj\debug\net6.0\scopedcss\views\
+++Coaches
+i:{d8cbeb4a-8e80-49b5-9358-6b3ffc4f3ec6}:c:\users\aaron\source\repos\coachessoccercompanionweb\coachessoccercompanionweb\views\coaches\
+++Create.cshtml
+i:{d8cbeb4a-8e80-49b5-9358-6b3ffc4f3ec6}:c:\users\aaron\source\repos\coachessoccercompanionweb\coachessoccercompanionweb\views\coaches\create.cshtml
+i:{d8cbeb4a-8e80-49b5-9358-6b3ffc4f3ec6}:c:\users\aaron\source\repos\coachessoccercompanionweb\coachessoccercompanionweb\views\positiontimes\create.cshtml
+i:{d8cbeb4a-8e80-49b5-9358-6b3ffc4f3ec6}:c:\users\aaron\source\repos\coachessoccercompanionweb\coachessoccercompanionweb\views\teams\create.cshtml
+++Delete.cshtml
+i:{d8cbeb4a-8e80-49b5-9358-6b3ffc4f3ec6}:c:\users\aaron\source\repos\coachessoccercompanionweb\coachessoccercompanionweb\views\coaches\delete.cshtml
+i:{d8cbeb4a-8e80-49b5-9358-6b3ffc4f3ec6}:c:\users\aaron\source\repos\coachessoccercompanionweb\coachessoccercompanionweb\views\positiontimes\delete.cshtml
+i:{d8cbeb4a-8e80-49b5-9358-6b3ffc4f3ec6}:c:\users\aaron\source\repos\coachessoccercompanionweb\coachessoccercompanionweb\views\teams\delete.cshtml
+++Details.cshtml
+i:{d8cbeb4a-8e80-49b5-9358-6b3ffc4f3ec6}:c:\users\aaron\source\repos\coachessoccercompanionweb\coachessoccercompanionweb\views\coaches\details.cshtml
+i:{d8cbeb4a-8e80-49b5-9358-6b3ffc4f3ec6}:c:\users\aaron\source\repos\coachessoccercompanionweb\coachessoccercompanionweb\views\positiontimes\details.cshtml
+i:{d8cbeb4a-8e80-49b5-9358-6b3ffc4f3ec6}:c:\users\aaron\source\repos\coachessoccercompanionweb\coachessoccercompanionweb\views\teams\details.cshtml
+++Edit.cshtml
+i:{d8cbeb4a-8e80-49b5-9358-6b3ffc4f3ec6}:c:\users\aaron\source\repos\coachessoccercompanionweb\coachessoccercompanionweb\views\coaches\edit.cshtml
+i:{d8cbeb4a-8e80-49b5-9358-6b3ffc4f3ec6}:c:\users\aaron\source\repos\coachessoccercompanionweb\coachessoccercompanionweb\views\positiontimes\edit.cshtml
+i:{d8cbeb4a-8e80-49b5-9358-6b3ffc4f3ec6}:c:\users\aaron\source\repos\coachessoccercompanionweb\coachessoccercompanionweb\views\teams\edit.cshtml
+++Index.cshtml
+i:{d8cbeb4a-8e80-49b5-9358-6b3ffc4f3ec6}:c:\users\aaron\source\repos\coachessoccercompanionweb\coachessoccercompanionweb\views\coaches\index.cshtml
+i:{d8cbeb4a-8e80-49b5-9358-6b3ffc4f3ec6}:c:\users\aaron\source\repos\coachessoccercompanionweb\coachessoccercompanionweb\views\home\index.cshtml
+i:{d8cbeb4a-8e80-49b5-9358-6b3ffc4f3ec6}:c:\users\aaron\source\repos\coachessoccercompanionweb\coachessoccercompanionweb\views\positiontimes\index.cshtml
+i:{d8cbeb4a-8e80-49b5-9358-6b3ffc4f3ec6}:c:\users\aaron\source\repos\coachessoccercompanionweb\coachessoccercompanionweb\views\teams\index.cshtml
+++Home
+i:{d8cbeb4a-8e80-49b5-9358-6b3ffc4f3ec6}:c:\users\aaron\source\repos\coachessoccercompanionweb\coachessoccercompanionweb\views\home\
+++Privacy.cshtml
+i:{d8cbeb4a-8e80-49b5-9358-6b3ffc4f3ec6}:c:\users\aaron\source\repos\coachessoccercompanionweb\coachessoccercompanionweb\views\home\privacy.cshtml
+++PositionTimes
+i:{d8cbeb4a-8e80-49b5-9358-6b3ffc4f3ec6}:c:\users\aaron\source\repos\coachessoccercompanionweb\coachessoccercompanionweb\views\positiontimes\
+++Shared
+i:{d8cbeb4a-8e80-49b5-9358-6b3ffc4f3ec6}:c:\users\aaron\source\repos\coachessoccercompanionweb\coachessoccercompanionweb\views\shared\
+i:{d8cbeb4a-8e80-49b5-9358-6b3ffc4f3ec6}:c:\users\aaron\source\repos\coachessoccercompanionweb\coachessoccercompanionweb\obj\debug\net6.0\scopedcss\views\shared\
+++_Layout.cshtml
+i:{d8cbeb4a-8e80-49b5-9358-6b3ffc4f3ec6}:c:\users\aaron\source\repos\coachessoccercompanionweb\coachessoccercompanionweb\views\shared\_layout.cshtml
+++_LoginPartial.cshtml
+i:{d8cbeb4a-8e80-49b5-9358-6b3ffc4f3ec6}:c:\users\aaron\source\repos\coachessoccercompanionweb\coachessoccercompanionweb\views\shared\_loginpartial.cshtml
+++_ValidationScriptsPartial.cshtml
+i:{d8cbeb4a-8e80-49b5-9358-6b3ffc4f3ec6}:c:\users\aaron\source\repos\coachessoccercompanionweb\coachessoccercompanionweb\views\shared\_validationscriptspartial.cshtml
+++Error.cshtml
+i:{d8cbeb4a-8e80-49b5-9358-6b3ffc4f3ec6}:c:\users\aaron\source\repos\coachessoccercompanionweb\coachessoccercompanionweb\views\shared\error.cshtml
+++Teams
+i:{d8cbeb4a-8e80-49b5-9358-6b3ffc4f3ec6}:c:\users\aaron\source\repos\coachessoccercompanionweb\coachessoccercompanionweb\views\teams\
+++_ViewImports.cshtml
+i:{d8cbeb4a-8e80-49b5-9358-6b3ffc4f3ec6}:c:\users\aaron\source\repos\coachessoccercompanionweb\coachessoccercompanionweb\views\_viewimports.cshtml
+++_ViewStart.cshtml
+i:{d8cbeb4a-8e80-49b5-9358-6b3ffc4f3ec6}:c:\users\aaron\source\repos\coachessoccercompanionweb\coachessoccercompanionweb\views\_viewstart.cshtml
+i:{d8cbeb4a-8e80-49b5-9358-6b3ffc4f3ec6}:c:\users\aaron\source\repos\coachessoccercompanionweb\coachessoccercompanionweb\areas\identity\pages\_viewstart.cshtml
+++appsettings.json
+i:{d8cbeb4a-8e80-49b5-9358-6b3ffc4f3ec6}:c:\users\aaron\source\repos\coachessoccercompanionweb\coachessoccercompanionweb\appsettings.json
+i:{d8cbeb4a-8e80-49b5-9358-6b3ffc4f3ec6}:c:\users\aaron\source\repos\coachessoccercompanionweb\coachessoccercompanionweb\bin\debug\net6.0\appsettings.json
+++appsettings.Development.json
+i:{d8cbeb4a-8e80-49b5-9358-6b3ffc4f3ec6}:c:\users\aaron\source\repos\coachessoccercompanionweb\coachessoccercompanionweb\appsettings.development.json
+i:{d8cbeb4a-8e80-49b5-9358-6b3ffc4f3ec6}:c:\users\aaron\source\repos\coachessoccercompanionweb\coachessoccercompanionweb\bin\debug\net6.0\appsettings.development.json
+++Program.cs
+i:{d8cbeb4a-8e80-49b5-9358-6b3ffc4f3ec6}:c:\users\aaron\source\repos\coachessoccercompanionweb\coachessoccercompanionweb\program.cs
+++SQL Server Express LocalDB (Local) (ConnectionStrings:DefaultConnection)
+i:{d8cbeb4a-8e80-49b5-9358-6b3ffc4f3ec6}:>1189
+++Analyzers
+i:{d8cbeb4a-8e80-49b5-9358-6b3ffc4f3ec6}:analyzers
+++Frameworks
+i:{d8cbeb4a-8e80-49b5-9358-6b3ffc4f3ec6}:frameworks
+++Packages
+i:{d8cbeb4a-8e80-49b5-9358-6b3ffc4f3ec6}:packages
+++Sdk.props
+i:{d8cbeb4a-8e80-49b5-9358-6b3ffc4f3ec6}:c:\program files\dotnet\sdk\6.0.107\sdks\microsoft.net.sdk.web\sdk\sdk.props
+i:{d8cbeb4a-8e80-49b5-9358-6b3ffc4f3ec6}:c:\program files\dotnet\sdk\6.0.107\sdks\microsoft.net.illink.tasks\sdk\sdk.props
+++Sdk.targets
+i:{d8cbeb4a-8e80-49b5-9358-6b3ffc4f3ec6}:c:\program files\dotnet\sdk\6.0.107\sdks\microsoft.net.sdk.web\sdk\sdk.targets
+++serviceDependencies.local.json
+i:{d8cbeb4a-8e80-49b5-9358-6b3ffc4f3ec6}:c:\users\aaron\source\repos\coachessoccercompanionweb\coachessoccercompanionweb\properties\servicedependencies.local.json
+++site.css
+i:{d8cbeb4a-8e80-49b5-9358-6b3ffc4f3ec6}:c:\users\aaron\source\repos\coachessoccercompanionweb\coachessoccercompanionweb\wwwroot\css\site.css
+++site.js
+i:{d8cbeb4a-8e80-49b5-9358-6b3ffc4f3ec6}:c:\users\aaron\source\repos\coachessoccercompanionweb\coachessoccercompanionweb\wwwroot\js\site.js
+++bootstrap
+i:{d8cbeb4a-8e80-49b5-9358-6b3ffc4f3ec6}:c:\users\aaron\source\repos\coachessoccercompanionweb\coachessoccercompanionweb\wwwroot\lib\bootstrap\
+++jquery
+i:{d8cbeb4a-8e80-49b5-9358-6b3ffc4f3ec6}:c:\users\aaron\source\repos\coachessoccercompanionweb\coachessoccercompanionweb\wwwroot\lib\jquery\
+++jquery-validation
+i:{d8cbeb4a-8e80-49b5-9358-6b3ffc4f3ec6}:c:\users\aaron\source\repos\coachessoccercompanionweb\coachessoccercompanionweb\wwwroot\lib\jquery-validation\
+++jquery-validation-unobtrusive
+i:{d8cbeb4a-8e80-49b5-9358-6b3ffc4f3ec6}:c:\users\aaron\source\repos\coachessoccercompanionweb\coachessoccercompanionweb\wwwroot\lib\jquery-validation-unobtrusive\
+++Debug
+i:{d8cbeb4a-8e80-49b5-9358-6b3ffc4f3ec6}:c:\users\aaron\source\repos\coachessoccercompanionweb\coachessoccercompanionweb\bin\debug\
+i:{d8cbeb4a-8e80-49b5-9358-6b3ffc4f3ec6}:c:\users\aaron\source\repos\coachessoccercompanionweb\coachessoccercompanionweb\obj\debug\
+++00000000000000_CreateIdentitySchema.Designer.cs
+i:{d8cbeb4a-8e80-49b5-9358-6b3ffc4f3ec6}:c:\users\aaron\source\repos\coachessoccercompanionweb\coachessoccercompanionweb\data\migrations\00000000000000_createidentityschema.designer.cs
+++20220618013448_Participant.Designer.cs
+i:{d8cbeb4a-8e80-49b5-9358-6b3ffc4f3ec6}:c:\users\aaron\source\repos\coachessoccercompanionweb\coachessoccercompanionweb\data\migrations\20220618013448_participant.designer.cs
+++20220618014953_Coach.seed.Designer.cs
+i:{d8cbeb4a-8e80-49b5-9358-6b3ffc4f3ec6}:c:\users\aaron\source\repos\coachessoccercompanionweb\coachessoccercompanionweb\data\migrations\20220618014953_coach.seed.designer.cs
+++20220704173348_2207040133.Designer.cs
+i:{d8cbeb4a-8e80-49b5-9358-6b3ffc4f3ec6}:c:\users\aaron\source\repos\coachessoccercompanionweb\coachessoccercompanionweb\data\migrations\20220704173348_2207040133.designer.cs
+++20220704174213_2207040142.Designer.cs
+i:{d8cbeb4a-8e80-49b5-9358-6b3ffc4f3ec6}:c:\users\aaron\source\repos\coachessoccercompanionweb\coachessoccercompanionweb\data\migrations\20220704174213_2207040142.designer.cs
+++20220705030902_2207041108.Designer.cs
+i:{d8cbeb4a-8e80-49b5-9358-6b3ffc4f3ec6}:c:\users\aaron\source\repos\coachessoccercompanionweb\coachessoccercompanionweb\data\migrations\20220705030902_2207041108.designer.cs
+++20220705034927_2207041149.Designer.cs
+i:{d8cbeb4a-8e80-49b5-9358-6b3ffc4f3ec6}:c:\users\aaron\source\repos\coachessoccercompanionweb\coachessoccercompanionweb\data\migrations\20220705034927_2207041149.designer.cs
+++20220705035312_2207041153.Designer.cs
+i:{d8cbeb4a-8e80-49b5-9358-6b3ffc4f3ec6}:c:\users\aaron\source\repos\coachessoccercompanionweb\coachessoccercompanionweb\data\migrations\20220705035312_2207041153.designer.cs
+++20220705035947_2207041159.Designer.cs
+i:{d8cbeb4a-8e80-49b5-9358-6b3ffc4f3ec6}:c:\users\aaron\source\repos\coachessoccercompanionweb\coachessoccercompanionweb\data\migrations\20220705035947_2207041159.designer.cs
+++20220705041750_2207051217.Designer.cs
+i:{d8cbeb4a-8e80-49b5-9358-6b3ffc4f3ec6}:c:\users\aaron\source\repos\coachessoccercompanionweb\coachessoccercompanionweb\data\migrations\20220705041750_2207051217.designer.cs
+++CoachesSoccerCompanionWeb.csproj.nuget.dgspec.json
+i:{d8cbeb4a-8e80-49b5-9358-6b3ffc4f3ec6}:c:\users\aaron\source\repos\coachessoccercompanionweb\coachessoccercompanionweb\obj\coachessoccercompanionweb.csproj.nuget.dgspec.json
+++CoachesSoccerCompanionWeb.csproj.nuget.g.props
+i:{d8cbeb4a-8e80-49b5-9358-6b3ffc4f3ec6}:c:\users\aaron\source\repos\coachessoccercompanionweb\coachessoccercompanionweb\obj\coachessoccercompanionweb.csproj.nuget.g.props
+i:{d8cbeb4a-8e80-49b5-9358-6b3ffc4f3ec6}:c:\users\aaron\source\repos\coachessoccercompanionweb\coachessoccercompanionweb\obj\coachessoccercompanionweb.csproj.nuget.g.props
+++CoachesSoccerCompanionWeb.csproj.nuget.g.targets
+i:{d8cbeb4a-8e80-49b5-9358-6b3ffc4f3ec6}:c:\users\aaron\source\repos\coachessoccercompanionweb\coachessoccercompanionweb\obj\coachessoccercompanionweb.csproj.nuget.g.targets
+i:{d8cbeb4a-8e80-49b5-9358-6b3ffc4f3ec6}:c:\users\aaron\source\repos\coachessoccercompanionweb\coachessoccercompanionweb\obj\coachessoccercompanionweb.csproj.nuget.g.targets
+++project.assets.json
+i:{d8cbeb4a-8e80-49b5-9358-6b3ffc4f3ec6}:c:\users\aaron\source\repos\coachessoccercompanionweb\coachessoccercompanionweb\obj\project.assets.json
+++project.nuget.cache
+i:{d8cbeb4a-8e80-49b5-9358-6b3ffc4f3ec6}:c:\users\aaron\source\repos\coachessoccercompanionweb\coachessoccercompanionweb\obj\project.nuget.cache
+++staticwebassets.pack.sentinel
+i:{d8cbeb4a-8e80-49b5-9358-6b3ffc4f3ec6}:c:\users\aaron\source\repos\coachessoccercompanionweb\coachessoccercompanionweb\obj\staticwebassets.pack.sentinel
+++_Layout.cshtml.css
+i:{d8cbeb4a-8e80-49b5-9358-6b3ffc4f3ec6}:c:\users\aaron\source\repos\coachessoccercompanionweb\coachessoccercompanionweb\views\shared\_layout.cshtml.css
+++MessagePackAnalyzer
+i:{d8cbeb4a-8e80-49b5-9358-6b3ffc4f3ec6}:c:\users\aaron\.nuget\packages\messagepackanalyzer\2.1.152\analyzers\dotnet\messagepackanalyzer.dll
+++Microsoft.AspNetCore.Analyzers
+i:{d8cbeb4a-8e80-49b5-9358-6b3ffc4f3ec6}:c:\program files\dotnet\sdk\6.0.107\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.analyzers.dll
+++Microsoft.AspNetCore.App.Analyzers
+i:{d8cbeb4a-8e80-49b5-9358-6b3ffc4f3ec6}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.7\analyzers\dotnet\cs\microsoft.aspnetcore.app.analyzers.dll
+++Microsoft.AspNetCore.App.CodeFixes
+i:{d8cbeb4a-8e80-49b5-9358-6b3ffc4f3ec6}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.7\analyzers\dotnet\cs\microsoft.aspnetcore.app.codefixes.dll
+++Microsoft.AspNetCore.Components.Analyzers
+i:{d8cbeb4a-8e80-49b5-9358-6b3ffc4f3ec6}:c:\program files\dotnet\sdk\6.0.107\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.components.analyzers.dll
+++Microsoft.AspNetCore.Mvc.Analyzers
+i:{d8cbeb4a-8e80-49b5-9358-6b3ffc4f3ec6}:c:\program files\dotnet\sdk\6.0.107\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.mvc.analyzers.dll
+++Microsoft.AspNetCore.Razor.Internal.SourceGenerator.Transport
+i:{d8cbeb4a-8e80-49b5-9358-6b3ffc4f3ec6}:c:\program files\dotnet\sdk\6.0.107\sdks\microsoft.net.sdk.razor\source-generators\microsoft.aspnetcore.razor.internal.sourcegenerator.transport.dll
+++Microsoft.CodeAnalysis.Analyzers
+i:{d8cbeb4a-8e80-49b5-9358-6b3ffc4f3ec6}:c:\users\aaron\.nuget\packages\microsoft.codeanalysis.analyzers\3.3.2\analyzers\dotnet\cs\microsoft.codeanalysis.analyzers.dll
+++Microsoft.CodeAnalysis.CSharp.Analyzers
+i:{d8cbeb4a-8e80-49b5-9358-6b3ffc4f3ec6}:c:\users\aaron\.nuget\packages\microsoft.codeanalysis.analyzers\3.3.2\analyzers\dotnet\cs\microsoft.codeanalysis.csharp.analyzers.dll
+++Microsoft.CodeAnalysis.CSharp.NetAnalyzers
+i:{d8cbeb4a-8e80-49b5-9358-6b3ffc4f3ec6}:c:\program files\dotnet\sdk\6.0.107\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+++Microsoft.CodeAnalysis.NetAnalyzers
+i:{d8cbeb4a-8e80-49b5-9358-6b3ffc4f3ec6}:c:\program files\dotnet\sdk\6.0.107\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+++Microsoft.EntityFrameworkCore.Analyzers
+i:{d8cbeb4a-8e80-49b5-9358-6b3ffc4f3ec6}:c:\users\aaron\.nuget\packages\microsoft.entityframeworkcore.analyzers\6.0.6\analyzers\dotnet\cs\microsoft.entityframeworkcore.analyzers.dll
+++Microsoft.Extensions.Logging.Generators
+i:{d8cbeb4a-8e80-49b5-9358-6b3ffc4f3ec6}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.7\analyzers\dotnet\roslyn4.0\cs\microsoft.extensions.logging.generators.dll
+++Microsoft.NET.Sdk.Razor.SourceGenerators
+i:{d8cbeb4a-8e80-49b5-9358-6b3ffc4f3ec6}:c:\program files\dotnet\sdk\6.0.107\sdks\microsoft.net.sdk.razor\source-generators\microsoft.net.sdk.razor.sourcegenerators.dll
+++System.Text.Json.SourceGeneration
+i:{d8cbeb4a-8e80-49b5-9358-6b3ffc4f3ec6}:c:\program files\dotnet\packs\microsoft.netcore.app.ref\6.0.7\analyzers\dotnet\cs\system.text.json.sourcegeneration.dll
+++Microsoft.AspNetCore.App
+i:{d8cbeb4a-8e80-49b5-9358-6b3ffc4f3ec6}:c:\users\aaron\source\repos\coachessoccercompanionweb\coachessoccercompanionweb\microsoft.aspnetcore.app
+++Microsoft.NETCore.App
+i:{d8cbeb4a-8e80-49b5-9358-6b3ffc4f3ec6}:c:\users\aaron\source\repos\coachessoccercompanionweb\coachessoccercompanionweb\microsoft.netcore.app
+++Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore (6.0.5)
+i:{d8cbeb4a-8e80-49b5-9358-6b3ffc4f3ec6}:>1168
+++Microsoft.AspNetCore.Identity.EntityFrameworkCore (6.0.5)
+i:{d8cbeb4a-8e80-49b5-9358-6b3ffc4f3ec6}:>1169
+++Microsoft.AspNetCore.Identity.UI (6.0.5)
+i:{d8cbeb4a-8e80-49b5-9358-6b3ffc4f3ec6}:>1172
+++Microsoft.EntityFrameworkCore.SqlServer (6.0.6)
+i:{d8cbeb4a-8e80-49b5-9358-6b3ffc4f3ec6}:>1166
+++Microsoft.EntityFrameworkCore.Tools (6.0.6)
+i:{d8cbeb4a-8e80-49b5-9358-6b3ffc4f3ec6}:>1170
+++Microsoft.VisualStudio.Web.CodeGeneration.Design (6.0.6)
+i:{d8cbeb4a-8e80-49b5-9358-6b3ffc4f3ec6}:>1171
+++Swashbuckle.AspNetCore (6.3.0)
+i:{d8cbeb4a-8e80-49b5-9358-6b3ffc4f3ec6}:>1167
+++Sdk.props (C:\Program Files\dotnet\sdk\6.0.107\Sdks\Microsoft.NET.Sdk\Sdk)
+i:{d8cbeb4a-8e80-49b5-9358-6b3ffc4f3ec6}:c:\program files\dotnet\sdk\6.0.107\sdks\microsoft.net.sdk\sdk\sdk.props
+++Sdk.props (C:\Program Files\dotnet\sdk\6.0.107\Sdks\Microsoft.NET.Sdk.Razor\Sdk)
+i:{d8cbeb4a-8e80-49b5-9358-6b3ffc4f3ec6}:c:\program files\dotnet\sdk\6.0.107\sdks\microsoft.net.sdk.razor\sdk\sdk.props
+++Sdk.props (C:\Program Files\dotnet\sdk\6.0.107\Sdks\Microsoft.NET.Sdk.Web.ProjectSystem\Sdk)
+i:{d8cbeb4a-8e80-49b5-9358-6b3ffc4f3ec6}:c:\program files\dotnet\sdk\6.0.107\sdks\microsoft.net.sdk.web.projectsystem\sdk\sdk.props
+++Sdk.props (C:\Program Files\dotnet\sdk\6.0.107\Sdks\Microsoft.NET.Sdk.Publish\Sdk)
+i:{d8cbeb4a-8e80-49b5-9358-6b3ffc4f3ec6}:c:\program files\dotnet\sdk\6.0.107\sdks\microsoft.net.sdk.publish\sdk\sdk.props
+++Sdk.targets (C:\Program Files\dotnet\sdk\6.0.107\Sdks\Microsoft.NET.Sdk\Sdk)
+i:{d8cbeb4a-8e80-49b5-9358-6b3ffc4f3ec6}:c:\program files\dotnet\sdk\6.0.107\sdks\microsoft.net.sdk\sdk\sdk.targets
+++Sdk.targets (C:\Program Files\dotnet\sdk\6.0.107\Sdks\Microsoft.NET.Sdk.Razor\Sdk)
+i:{d8cbeb4a-8e80-49b5-9358-6b3ffc4f3ec6}:c:\program files\dotnet\sdk\6.0.107\sdks\microsoft.net.sdk.razor\sdk\sdk.targets
+++Sdk.targets (C:\Program Files\dotnet\sdk\6.0.107\Sdks\Microsoft.NET.Sdk.Web.ProjectSystem\Sdk)
+i:{d8cbeb4a-8e80-49b5-9358-6b3ffc4f3ec6}:c:\program files\dotnet\sdk\6.0.107\sdks\microsoft.net.sdk.web.projectsystem\sdk\sdk.targets
+++Sdk.targets (C:\Program Files\dotnet\sdk\6.0.107\Sdks\Microsoft.NET.Sdk.Publish\Sdk)
+i:{d8cbeb4a-8e80-49b5-9358-6b3ffc4f3ec6}:c:\program files\dotnet\sdk\6.0.107\sdks\microsoft.net.sdk.publish\sdk\sdk.targets
+++dist
+i:{d8cbeb4a-8e80-49b5-9358-6b3ffc4f3ec6}:c:\users\aaron\source\repos\coachessoccercompanionweb\coachessoccercompanionweb\wwwroot\lib\bootstrap\dist\
+i:{d8cbeb4a-8e80-49b5-9358-6b3ffc4f3ec6}:c:\users\aaron\source\repos\coachessoccercompanionweb\coachessoccercompanionweb\wwwroot\lib\jquery\dist\
+i:{d8cbeb4a-8e80-49b5-9358-6b3ffc4f3ec6}:c:\users\aaron\source\repos\coachessoccercompanionweb\coachessoccercompanionweb\wwwroot\lib\jquery-validation\dist\
+++LICENSE
+i:{d8cbeb4a-8e80-49b5-9358-6b3ffc4f3ec6}:c:\users\aaron\source\repos\coachessoccercompanionweb\coachessoccercompanionweb\wwwroot\lib\bootstrap\license
+++LICENSE.txt
+i:{d8cbeb4a-8e80-49b5-9358-6b3ffc4f3ec6}:c:\users\aaron\source\repos\coachessoccercompanionweb\coachessoccercompanionweb\wwwroot\lib\jquery\license.txt
+i:{d8cbeb4a-8e80-49b5-9358-6b3ffc4f3ec6}:c:\users\aaron\source\repos\coachessoccercompanionweb\coachessoccercompanionweb\wwwroot\lib\jquery-validation-unobtrusive\license.txt
+++LICENSE.md
+i:{d8cbeb4a-8e80-49b5-9358-6b3ffc4f3ec6}:c:\users\aaron\source\repos\coachessoccercompanionweb\coachessoccercompanionweb\wwwroot\lib\jquery-validation\license.md
+++jquery.validate.unobtrusive.js
+i:{d8cbeb4a-8e80-49b5-9358-6b3ffc4f3ec6}:c:\users\aaron\source\repos\coachessoccercompanionweb\coachessoccercompanionweb\wwwroot\lib\jquery-validation-unobtrusive\jquery.validate.unobtrusive.js
+++net6.0
+i:{d8cbeb4a-8e80-49b5-9358-6b3ffc4f3ec6}:c:\users\aaron\source\repos\coachessoccercompanionweb\coachessoccercompanionweb\bin\debug\net6.0\
+i:{d8cbeb4a-8e80-49b5-9358-6b3ffc4f3ec6}:c:\users\aaron\source\repos\coachessoccercompanionweb\coachessoccercompanionweb\obj\debug\net6.0\
+i:{d8cbeb4a-8e80-49b5-9358-6b3ffc4f3ec6}:c:\users\aaron\source\repos\coachessoccercompanionweb\coachessoccercompanionweb\bin\debug\net6.0\runtimes\unix\lib\net6.0\
+i:{d8cbeb4a-8e80-49b5-9358-6b3ffc4f3ec6}:c:\users\aaron\source\repos\coachessoccercompanionweb\coachessoccercompanionweb\bin\debug\net6.0\runtimes\win\lib\net6.0\
+i:{d8cbeb4a-8e80-49b5-9358-6b3ffc4f3ec6}:c:\users\aaron\source\repos\coachessoccercompanionweb\coachessoccercompanionweb\bin\debug\net6.0\runtimes\win-arm\lib\net6.0\
+i:{d8cbeb4a-8e80-49b5-9358-6b3ffc4f3ec6}:c:\users\aaron\source\repos\coachessoccercompanionweb\coachessoccercompanionweb\bin\debug\net6.0\runtimes\win-arm64\lib\net6.0\
+++Microsoft.Common.props
+i:{d8cbeb4a-8e80-49b5-9358-6b3ffc4f3ec6}:c:\program files\microsoft visual studio\2022\community\msbuild\current\microsoft.common.props
+++Microsoft.NET.Sdk.props
+i:{d8cbeb4a-8e80-49b5-9358-6b3ffc4f3ec6}:c:\program files\dotnet\sdk\6.0.107\sdks\microsoft.net.sdk\targets\microsoft.net.sdk.props
+++Sdk.Razor.CurrentVersion.props
+i:{d8cbeb4a-8e80-49b5-9358-6b3ffc4f3ec6}:c:\program files\dotnet\sdk\6.0.107\sdks\microsoft.net.sdk.razor\targets\sdk.razor.currentversion.props
+++Microsoft.NET.Sdk.Web.ProjectSystem.props
+i:{d8cbeb4a-8e80-49b5-9358-6b3ffc4f3ec6}:c:\program files\dotnet\sdk\6.0.107\sdks\microsoft.net.sdk.web.projectsystem\targets\microsoft.net.sdk.web.projectsystem.props
+++Microsoft.NET.Sdk.Publish.props
+i:{d8cbeb4a-8e80-49b5-9358-6b3ffc4f3ec6}:c:\program files\dotnet\sdk\6.0.107\sdks\microsoft.net.sdk.publish\targets\microsoft.net.sdk.publish.props
+++Microsoft.NET.Sdk.BeforeCommon.targets
+i:{d8cbeb4a-8e80-49b5-9358-6b3ffc4f3ec6}:c:\program files\dotnet\sdk\6.0.107\sdks\microsoft.net.sdk\targets\microsoft.net.sdk.beforecommon.targets
+++Microsoft.CSharp.targets
+i:{d8cbeb4a-8e80-49b5-9358-6b3ffc4f3ec6}:c:\program files\microsoft visual studio\2022\community\msbuild\current\bin\amd64\microsoft.csharp.targets
+++Microsoft.NET.Sdk.targets
+i:{d8cbeb4a-8e80-49b5-9358-6b3ffc4f3ec6}:c:\program files\dotnet\sdk\6.0.107\sdks\microsoft.net.sdk\targets\microsoft.net.sdk.targets
+++Microsoft.NET.Compatibility.targets
+i:{d8cbeb4a-8e80-49b5-9358-6b3ffc4f3ec6}:c:\program files\dotnet\sdk\6.0.107\sdks\microsoft.net.sdk\targets\microsoft.net.compatibility.targets
+++NuGet.Build.Tasks.Pack.targets
+i:{d8cbeb4a-8e80-49b5-9358-6b3ffc4f3ec6}:c:\program files\dotnet\sdk\6.0.107\sdks\nuget.build.tasks.pack\build\nuget.build.tasks.pack.targets
+++Sdk.Razor.CurrentVersion.targets
+i:{d8cbeb4a-8e80-49b5-9358-6b3ffc4f3ec6}:c:\program files\dotnet\sdk\6.0.107\sdks\microsoft.net.sdk.razor\targets\sdk.razor.currentversion.targets
+++Microsoft.NET.Sdk.Web.ProjectSystem.targets
+i:{d8cbeb4a-8e80-49b5-9358-6b3ffc4f3ec6}:c:\program files\dotnet\sdk\6.0.107\sdks\microsoft.net.sdk.web.projectsystem\targets\microsoft.net.sdk.web.projectsystem.targets
+++Microsoft.NET.Sdk.Publish.targets
+i:{d8cbeb4a-8e80-49b5-9358-6b3ffc4f3ec6}:c:\program files\dotnet\sdk\6.0.107\sdks\microsoft.net.sdk.publish\targets\microsoft.net.sdk.publish.targets
+++jquery.js
+i:{d8cbeb4a-8e80-49b5-9358-6b3ffc4f3ec6}:c:\users\aaron\source\repos\coachessoccercompanionweb\coachessoccercompanionweb\wwwroot\lib\jquery\dist\jquery.js
+++additional-methods.js
+i:{d8cbeb4a-8e80-49b5-9358-6b3ffc4f3ec6}:c:\users\aaron\source\repos\coachessoccercompanionweb\coachessoccercompanionweb\wwwroot\lib\jquery-validation\dist\additional-methods.js
+++jquery.validate.js
+i:{d8cbeb4a-8e80-49b5-9358-6b3ffc4f3ec6}:c:\users\aaron\source\repos\coachessoccercompanionweb\coachessoccercompanionweb\wwwroot\lib\jquery-validation\dist\jquery.validate.js
+++jquery.validate.unobtrusive.min.js
+i:{d8cbeb4a-8e80-49b5-9358-6b3ffc4f3ec6}:c:\users\aaron\source\repos\coachessoccercompanionweb\coachessoccercompanionweb\wwwroot\lib\jquery-validation-unobtrusive\jquery.validate.unobtrusive.min.js
+++cs
+i:{d8cbeb4a-8e80-49b5-9358-6b3ffc4f3ec6}:c:\users\aaron\source\repos\coachessoccercompanionweb\coachessoccercompanionweb\bin\debug\net6.0\cs\
+++de
+i:{d8cbeb4a-8e80-49b5-9358-6b3ffc4f3ec6}:c:\users\aaron\source\repos\coachessoccercompanionweb\coachessoccercompanionweb\bin\debug\net6.0\de\
+++es
+i:{d8cbeb4a-8e80-49b5-9358-6b3ffc4f3ec6}:c:\users\aaron\source\repos\coachessoccercompanionweb\coachessoccercompanionweb\bin\debug\net6.0\es\
+++fr
+i:{d8cbeb4a-8e80-49b5-9358-6b3ffc4f3ec6}:c:\users\aaron\source\repos\coachessoccercompanionweb\coachessoccercompanionweb\bin\debug\net6.0\fr\
+++it
+i:{d8cbeb4a-8e80-49b5-9358-6b3ffc4f3ec6}:c:\users\aaron\source\repos\coachessoccercompanionweb\coachessoccercompanionweb\bin\debug\net6.0\it\
+++ja
+i:{d8cbeb4a-8e80-49b5-9358-6b3ffc4f3ec6}:c:\users\aaron\source\repos\coachessoccercompanionweb\coachessoccercompanionweb\bin\debug\net6.0\ja\
+++ko
+i:{d8cbeb4a-8e80-49b5-9358-6b3ffc4f3ec6}:c:\users\aaron\source\repos\coachessoccercompanionweb\coachessoccercompanionweb\bin\debug\net6.0\ko\
+++pl
+i:{d8cbeb4a-8e80-49b5-9358-6b3ffc4f3ec6}:c:\users\aaron\source\repos\coachessoccercompanionweb\coachessoccercompanionweb\bin\debug\net6.0\pl\
+++pt-BR
+i:{d8cbeb4a-8e80-49b5-9358-6b3ffc4f3ec6}:c:\users\aaron\source\repos\coachessoccercompanionweb\coachessoccercompanionweb\bin\debug\net6.0\pt-br\
+++ref
+i:{d8cbeb4a-8e80-49b5-9358-6b3ffc4f3ec6}:c:\users\aaron\source\repos\coachessoccercompanionweb\coachessoccercompanionweb\bin\debug\net6.0\ref\
+i:{d8cbeb4a-8e80-49b5-9358-6b3ffc4f3ec6}:c:\users\aaron\source\repos\coachessoccercompanionweb\coachessoccercompanionweb\obj\debug\net6.0\ref\
+++ru
+i:{d8cbeb4a-8e80-49b5-9358-6b3ffc4f3ec6}:c:\users\aaron\source\repos\coachessoccercompanionweb\coachessoccercompanionweb\bin\debug\net6.0\ru\
+++runtimes
+i:{d8cbeb4a-8e80-49b5-9358-6b3ffc4f3ec6}:c:\users\aaron\source\repos\coachessoccercompanionweb\coachessoccercompanionweb\bin\debug\net6.0\runtimes\
+++tr
+i:{d8cbeb4a-8e80-49b5-9358-6b3ffc4f3ec6}:c:\users\aaron\source\repos\coachessoccercompanionweb\coachessoccercompanionweb\bin\debug\net6.0\tr\
+++zh-Hans
+i:{d8cbeb4a-8e80-49b5-9358-6b3ffc4f3ec6}:c:\users\aaron\source\repos\coachessoccercompanionweb\coachessoccercompanionweb\bin\debug\net6.0\zh-hans\
+++zh-Hant
+i:{d8cbeb4a-8e80-49b5-9358-6b3ffc4f3ec6}:c:\users\aaron\source\repos\coachessoccercompanionweb\coachessoccercompanionweb\bin\debug\net6.0\zh-hant\
+++CoachesSoccerCompanionWeb.deps.json
+i:{d8cbeb4a-8e80-49b5-9358-6b3ffc4f3ec6}:c:\users\aaron\source\repos\coachessoccercompanionweb\coachessoccercompanionweb\bin\debug\net6.0\coachessoccercompanionweb.deps.json
+++CoachesSoccerCompanionWeb.dll
+i:{d8cbeb4a-8e80-49b5-9358-6b3ffc4f3ec6}:c:\users\aaron\source\repos\coachessoccercompanionweb\coachessoccercompanionweb\bin\debug\net6.0\coachessoccercompanionweb.dll
+i:{d8cbeb4a-8e80-49b5-9358-6b3ffc4f3ec6}:c:\users\aaron\source\repos\coachessoccercompanionweb\coachessoccercompanionweb\obj\debug\net6.0\coachessoccercompanionweb.dll
+i:{d8cbeb4a-8e80-49b5-9358-6b3ffc4f3ec6}:c:\users\aaron\source\repos\coachessoccercompanionweb\coachessoccercompanionweb\bin\debug\net6.0\ref\coachessoccercompanionweb.dll
+i:{d8cbeb4a-8e80-49b5-9358-6b3ffc4f3ec6}:c:\users\aaron\source\repos\coachessoccercompanionweb\coachessoccercompanionweb\obj\debug\net6.0\ref\coachessoccercompanionweb.dll
+++CoachesSoccerCompanionWeb.exe
+i:{d8cbeb4a-8e80-49b5-9358-6b3ffc4f3ec6}:c:\users\aaron\source\repos\coachessoccercompanionweb\coachessoccercompanionweb\bin\debug\net6.0\coachessoccercompanionweb.exe
+++CoachesSoccerCompanionWeb.pdb
+i:{d8cbeb4a-8e80-49b5-9358-6b3ffc4f3ec6}:c:\users\aaron\source\repos\coachessoccercompanionweb\coachessoccercompanionweb\bin\debug\net6.0\coachessoccercompanionweb.pdb
+i:{d8cbeb4a-8e80-49b5-9358-6b3ffc4f3ec6}:c:\users\aaron\source\repos\coachessoccercompanionweb\coachessoccercompanionweb\obj\debug\net6.0\coachessoccercompanionweb.pdb
+++CoachesSoccerCompanionWeb.runtimeconfig.json
+i:{d8cbeb4a-8e80-49b5-9358-6b3ffc4f3ec6}:c:\users\aaron\source\repos\coachessoccercompanionweb\coachessoccercompanionweb\bin\debug\net6.0\coachessoccercompanionweb.runtimeconfig.json
+++CoachesSoccerCompanionWeb.staticwebassets.runtime.json
+i:{d8cbeb4a-8e80-49b5-9358-6b3ffc4f3ec6}:c:\users\aaron\source\repos\coachessoccercompanionweb\coachessoccercompanionweb\bin\debug\net6.0\coachessoccercompanionweb.staticwebassets.runtime.json
+++dotnet-aspnet-codegenerator-design.dll
+i:{d8cbeb4a-8e80-49b5-9358-6b3ffc4f3ec6}:c:\users\aaron\source\repos\coachessoccercompanionweb\coachessoccercompanionweb\bin\debug\net6.0\dotnet-aspnet-codegenerator-design.dll
+++Humanizer.dll
+i:{d8cbeb4a-8e80-49b5-9358-6b3ffc4f3ec6}:c:\users\aaron\source\repos\coachessoccercompanionweb\coachessoccercompanionweb\bin\debug\net6.0\humanizer.dll
+++MessagePack.Annotations.dll
+i:{d8cbeb4a-8e80-49b5-9358-6b3ffc4f3ec6}:c:\users\aaron\source\repos\coachessoccercompanionweb\coachessoccercompanionweb\bin\debug\net6.0\messagepack.annotations.dll
+++MessagePack.dll
+i:{d8cbeb4a-8e80-49b5-9358-6b3ffc4f3ec6}:c:\users\aaron\source\repos\coachessoccercompanionweb\coachessoccercompanionweb\bin\debug\net6.0\messagepack.dll
+++Microsoft.AspNetCore.Cryptography.Internal.dll
+i:{d8cbeb4a-8e80-49b5-9358-6b3ffc4f3ec6}:c:\users\aaron\source\repos\coachessoccercompanionweb\coachessoccercompanionweb\bin\debug\net6.0\microsoft.aspnetcore.cryptography.internal.dll
+++Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+i:{d8cbeb4a-8e80-49b5-9358-6b3ffc4f3ec6}:c:\users\aaron\source\repos\coachessoccercompanionweb\coachessoccercompanionweb\bin\debug\net6.0\microsoft.aspnetcore.cryptography.keyderivation.dll
+++Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+i:{d8cbeb4a-8e80-49b5-9358-6b3ffc4f3ec6}:c:\users\aaron\source\repos\coachessoccercompanionweb\coachessoccercompanionweb\bin\debug\net6.0\microsoft.aspnetcore.diagnostics.entityframeworkcore.dll
+++Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+i:{d8cbeb4a-8e80-49b5-9358-6b3ffc4f3ec6}:c:\users\aaron\source\repos\coachessoccercompanionweb\coachessoccercompanionweb\bin\debug\net6.0\microsoft.aspnetcore.identity.entityframeworkcore.dll
+++Microsoft.AspNetCore.Identity.UI.dll
+i:{d8cbeb4a-8e80-49b5-9358-6b3ffc4f3ec6}:c:\users\aaron\source\repos\coachessoccercompanionweb\coachessoccercompanionweb\bin\debug\net6.0\microsoft.aspnetcore.identity.ui.dll
+++Microsoft.AspNetCore.Razor.Language.dll
+i:{d8cbeb4a-8e80-49b5-9358-6b3ffc4f3ec6}:c:\users\aaron\source\repos\coachessoccercompanionweb\coachessoccercompanionweb\bin\debug\net6.0\microsoft.aspnetcore.razor.language.dll
+++Microsoft.Bcl.AsyncInterfaces.dll
+i:{d8cbeb4a-8e80-49b5-9358-6b3ffc4f3ec6}:c:\users\aaron\source\repos\coachessoccercompanionweb\coachessoccercompanionweb\bin\debug\net6.0\microsoft.bcl.asyncinterfaces.dll
+++Microsoft.Build.Locator.dll
+i:{d8cbeb4a-8e80-49b5-9358-6b3ffc4f3ec6}:c:\users\aaron\source\repos\coachessoccercompanionweb\coachessoccercompanionweb\bin\debug\net6.0\microsoft.build.locator.dll
+++Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+i:{d8cbeb4a-8e80-49b5-9358-6b3ffc4f3ec6}:c:\users\aaron\source\repos\coachessoccercompanionweb\coachessoccercompanionweb\bin\debug\net6.0\microsoft.codeanalysis.analyzerutilities.dll
+++Microsoft.CodeAnalysis.CSharp.dll
+i:{d8cbeb4a-8e80-49b5-9358-6b3ffc4f3ec6}:c:\users\aaron\source\repos\coachessoccercompanionweb\coachessoccercompanionweb\bin\debug\net6.0\microsoft.codeanalysis.csharp.dll
+++Microsoft.CodeAnalysis.CSharp.Features.dll
+i:{d8cbeb4a-8e80-49b5-9358-6b3ffc4f3ec6}:c:\users\aaron\source\repos\coachessoccercompanionweb\coachessoccercompanionweb\bin\debug\net6.0\microsoft.codeanalysis.csharp.features.dll
+++Microsoft.CodeAnalysis.CSharp.Scripting.dll
+i:{d8cbeb4a-8e80-49b5-9358-6b3ffc4f3ec6}:c:\users\aaron\source\repos\coachessoccercompanionweb\coachessoccercompanionweb\bin\debug\net6.0\microsoft.codeanalysis.csharp.scripting.dll
+++Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+i:{d8cbeb4a-8e80-49b5-9358-6b3ffc4f3ec6}:c:\users\aaron\source\repos\coachessoccercompanionweb\coachessoccercompanionweb\bin\debug\net6.0\microsoft.codeanalysis.csharp.workspaces.dll
+++Microsoft.CodeAnalysis.dll
+i:{d8cbeb4a-8e80-49b5-9358-6b3ffc4f3ec6}:c:\users\aaron\source\repos\coachessoccercompanionweb\coachessoccercompanionweb\bin\debug\net6.0\microsoft.codeanalysis.dll
+++Microsoft.CodeAnalysis.Features.dll
+i:{d8cbeb4a-8e80-49b5-9358-6b3ffc4f3ec6}:c:\users\aaron\source\repos\coachessoccercompanionweb\coachessoccercompanionweb\bin\debug\net6.0\microsoft.codeanalysis.features.dll
+++Microsoft.CodeAnalysis.Razor.dll
+i:{d8cbeb4a-8e80-49b5-9358-6b3ffc4f3ec6}:c:\users\aaron\source\repos\coachessoccercompanionweb\coachessoccercompanionweb\bin\debug\net6.0\microsoft.codeanalysis.razor.dll
+++Microsoft.CodeAnalysis.Scripting.dll
+i:{d8cbeb4a-8e80-49b5-9358-6b3ffc4f3ec6}:c:\users\aaron\source\repos\coachessoccercompanionweb\coachessoccercompanionweb\bin\debug\net6.0\microsoft.codeanalysis.scripting.dll
+++Microsoft.CodeAnalysis.VisualBasic.dll
+i:{d8cbeb4a-8e80-49b5-9358-6b3ffc4f3ec6}:c:\users\aaron\source\repos\coachessoccercompanionweb\coachessoccercompanionweb\bin\debug\net6.0\microsoft.codeanalysis.visualbasic.dll
+++Microsoft.CodeAnalysis.VisualBasic.Features.dll
+i:{d8cbeb4a-8e80-49b5-9358-6b3ffc4f3ec6}:c:\users\aaron\source\repos\coachessoccercompanionweb\coachessoccercompanionweb\bin\debug\net6.0\microsoft.codeanalysis.visualbasic.features.dll
+++Microsoft.CodeAnalysis.VisualBasic.Workspaces.dll
+i:{d8cbeb4a-8e80-49b5-9358-6b3ffc4f3ec6}:c:\users\aaron\source\repos\coachessoccercompanionweb\coachessoccercompanionweb\bin\debug\net6.0\microsoft.codeanalysis.visualbasic.workspaces.dll
+++Microsoft.CodeAnalysis.Workspaces.dll
+i:{d8cbeb4a-8e80-49b5-9358-6b3ffc4f3ec6}:c:\users\aaron\source\repos\coachessoccercompanionweb\coachessoccercompanionweb\bin\debug\net6.0\microsoft.codeanalysis.workspaces.dll
+++Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+i:{d8cbeb4a-8e80-49b5-9358-6b3ffc4f3ec6}:c:\users\aaron\source\repos\coachessoccercompanionweb\coachessoccercompanionweb\bin\debug\net6.0\microsoft.codeanalysis.workspaces.msbuild.dll
+++Microsoft.Data.SqlClient.dll
+i:{d8cbeb4a-8e80-49b5-9358-6b3ffc4f3ec6}:c:\users\aaron\source\repos\coachessoccercompanionweb\coachessoccercompanionweb\bin\debug\net6.0\microsoft.data.sqlclient.dll
+i:{d8cbeb4a-8e80-49b5-9358-6b3ffc4f3ec6}:c:\users\aaron\source\repos\coachessoccercompanionweb\coachessoccercompanionweb\bin\debug\net6.0\runtimes\unix\lib\netcoreapp3.1\microsoft.data.sqlclient.dll
+i:{d8cbeb4a-8e80-49b5-9358-6b3ffc4f3ec6}:c:\users\aaron\source\repos\coachessoccercompanionweb\coachessoccercompanionweb\bin\debug\net6.0\runtimes\win\lib\netcoreapp3.1\microsoft.data.sqlclient.dll
+++Microsoft.DiaSymReader.dll
+i:{d8cbeb4a-8e80-49b5-9358-6b3ffc4f3ec6}:c:\users\aaron\source\repos\coachessoccercompanionweb\coachessoccercompanionweb\bin\debug\net6.0\microsoft.diasymreader.dll
+++Microsoft.DotNet.Scaffolding.Shared.dll
+i:{d8cbeb4a-8e80-49b5-9358-6b3ffc4f3ec6}:c:\users\aaron\source\repos\coachessoccercompanionweb\coachessoccercompanionweb\bin\debug\net6.0\microsoft.dotnet.scaffolding.shared.dll
+++Microsoft.EntityFrameworkCore.Abstractions.dll
+i:{d8cbeb4a-8e80-49b5-9358-6b3ffc4f3ec6}:c:\users\aaron\source\repos\coachessoccercompanionweb\coachessoccercompanionweb\bin\debug\net6.0\microsoft.entityframeworkcore.abstractions.dll
+++Microsoft.EntityFrameworkCore.Design.dll
+i:{d8cbeb4a-8e80-49b5-9358-6b3ffc4f3ec6}:c:\users\aaron\source\repos\coachessoccercompanionweb\coachessoccercompanionweb\bin\debug\net6.0\microsoft.entityframeworkcore.design.dll
+++Microsoft.EntityFrameworkCore.dll
+i:{d8cbeb4a-8e80-49b5-9358-6b3ffc4f3ec6}:c:\users\aaron\source\repos\coachessoccercompanionweb\coachessoccercompanionweb\bin\debug\net6.0\microsoft.entityframeworkcore.dll
+++Microsoft.EntityFrameworkCore.Relational.dll
+i:{d8cbeb4a-8e80-49b5-9358-6b3ffc4f3ec6}:c:\users\aaron\source\repos\coachessoccercompanionweb\coachessoccercompanionweb\bin\debug\net6.0\microsoft.entityframeworkcore.relational.dll
+++Microsoft.EntityFrameworkCore.SqlServer.dll
+i:{d8cbeb4a-8e80-49b5-9358-6b3ffc4f3ec6}:c:\users\aaron\source\repos\coachessoccercompanionweb\coachessoccercompanionweb\bin\debug\net6.0\microsoft.entityframeworkcore.sqlserver.dll
+++Microsoft.Extensions.Caching.Memory.dll
+i:{d8cbeb4a-8e80-49b5-9358-6b3ffc4f3ec6}:c:\users\aaron\source\repos\coachessoccercompanionweb\coachessoccercompanionweb\bin\debug\net6.0\microsoft.extensions.caching.memory.dll
+++Microsoft.Extensions.FileProviders.Embedded.dll
+i:{d8cbeb4a-8e80-49b5-9358-6b3ffc4f3ec6}:c:\users\aaron\source\repos\coachessoccercompanionweb\coachessoccercompanionweb\bin\debug\net6.0\microsoft.extensions.fileproviders.embedded.dll
+++Microsoft.Extensions.Identity.Core.dll
+i:{d8cbeb4a-8e80-49b5-9358-6b3ffc4f3ec6}:c:\users\aaron\source\repos\coachessoccercompanionweb\coachessoccercompanionweb\bin\debug\net6.0\microsoft.extensions.identity.core.dll
+++Microsoft.Extensions.Identity.Stores.dll
+i:{d8cbeb4a-8e80-49b5-9358-6b3ffc4f3ec6}:c:\users\aaron\source\repos\coachessoccercompanionweb\coachessoccercompanionweb\bin\debug\net6.0\microsoft.extensions.identity.stores.dll
+++Microsoft.Identity.Client.dll
+i:{d8cbeb4a-8e80-49b5-9358-6b3ffc4f3ec6}:c:\users\aaron\source\repos\coachessoccercompanionweb\coachessoccercompanionweb\bin\debug\net6.0\microsoft.identity.client.dll
+++Microsoft.IdentityModel.JsonWebTokens.dll
+i:{d8cbeb4a-8e80-49b5-9358-6b3ffc4f3ec6}:c:\users\aaron\source\repos\coachessoccercompanionweb\coachessoccercompanionweb\bin\debug\net6.0\microsoft.identitymodel.jsonwebtokens.dll
+++Microsoft.IdentityModel.Logging.dll
+i:{d8cbeb4a-8e80-49b5-9358-6b3ffc4f3ec6}:c:\users\aaron\source\repos\coachessoccercompanionweb\coachessoccercompanionweb\bin\debug\net6.0\microsoft.identitymodel.logging.dll
+++Microsoft.IdentityModel.Protocols.dll
+i:{d8cbeb4a-8e80-49b5-9358-6b3ffc4f3ec6}:c:\users\aaron\source\repos\coachessoccercompanionweb\coachessoccercompanionweb\bin\debug\net6.0\microsoft.identitymodel.protocols.dll
+++Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+i:{d8cbeb4a-8e80-49b5-9358-6b3ffc4f3ec6}:c:\users\aaron\source\repos\coachessoccercompanionweb\coachessoccercompanionweb\bin\debug\net6.0\microsoft.identitymodel.protocols.openidconnect.dll
+++Microsoft.IdentityModel.Tokens.dll
+i:{d8cbeb4a-8e80-49b5-9358-6b3ffc4f3ec6}:c:\users\aaron\source\repos\coachessoccercompanionweb\coachessoccercompanionweb\bin\debug\net6.0\microsoft.identitymodel.tokens.dll
+++Microsoft.OpenApi.dll
+i:{d8cbeb4a-8e80-49b5-9358-6b3ffc4f3ec6}:c:\users\aaron\source\repos\coachessoccercompanionweb\coachessoccercompanionweb\bin\debug\net6.0\microsoft.openapi.dll
+++Microsoft.VisualStudio.Debugger.Contracts.dll
+i:{d8cbeb4a-8e80-49b5-9358-6b3ffc4f3ec6}:c:\users\aaron\source\repos\coachessoccercompanionweb\coachessoccercompanionweb\bin\debug\net6.0\microsoft.visualstudio.debugger.contracts.dll
+++Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+i:{d8cbeb4a-8e80-49b5-9358-6b3ffc4f3ec6}:c:\users\aaron\source\repos\coachessoccercompanionweb\coachessoccercompanionweb\bin\debug\net6.0\microsoft.visualstudio.web.codegeneration.core.dll
+++Microsoft.VisualStudio.Web.CodeGeneration.dll
+i:{d8cbeb4a-8e80-49b5-9358-6b3ffc4f3ec6}:c:\users\aaron\source\repos\coachessoccercompanionweb\coachessoccercompanionweb\bin\debug\net6.0\microsoft.visualstudio.web.codegeneration.dll
+++Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+i:{d8cbeb4a-8e80-49b5-9358-6b3ffc4f3ec6}:c:\users\aaron\source\repos\coachessoccercompanionweb\coachessoccercompanionweb\bin\debug\net6.0\microsoft.visualstudio.web.codegeneration.entityframeworkcore.dll
+++Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+i:{d8cbeb4a-8e80-49b5-9358-6b3ffc4f3ec6}:c:\users\aaron\source\repos\coachessoccercompanionweb\coachessoccercompanionweb\bin\debug\net6.0\microsoft.visualstudio.web.codegeneration.templating.dll
+++Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+i:{d8cbeb4a-8e80-49b5-9358-6b3ffc4f3ec6}:c:\users\aaron\source\repos\coachessoccercompanionweb\coachessoccercompanionweb\bin\debug\net6.0\microsoft.visualstudio.web.codegeneration.utils.dll
+++Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+i:{d8cbeb4a-8e80-49b5-9358-6b3ffc4f3ec6}:c:\users\aaron\source\repos\coachessoccercompanionweb\coachessoccercompanionweb\bin\debug\net6.0\microsoft.visualstudio.web.codegenerators.mvc.dll
+++Microsoft.Win32.SystemEvents.dll
+i:{d8cbeb4a-8e80-49b5-9358-6b3ffc4f3ec6}:c:\users\aaron\source\repos\coachessoccercompanionweb\coachessoccercompanionweb\bin\debug\net6.0\microsoft.win32.systemevents.dll
+i:{d8cbeb4a-8e80-49b5-9358-6b3ffc4f3ec6}:c:\users\aaron\source\repos\coachessoccercompanionweb\coachessoccercompanionweb\bin\debug\net6.0\runtimes\win\lib\net6.0\microsoft.win32.systemevents.dll
+++Newtonsoft.Json.dll
+i:{d8cbeb4a-8e80-49b5-9358-6b3ffc4f3ec6}:c:\users\aaron\source\repos\coachessoccercompanionweb\coachessoccercompanionweb\bin\debug\net6.0\newtonsoft.json.dll
+++NuGet.Common.dll
+i:{d8cbeb4a-8e80-49b5-9358-6b3ffc4f3ec6}:c:\users\aaron\source\repos\coachessoccercompanionweb\coachessoccercompanionweb\bin\debug\net6.0\nuget.common.dll
+++NuGet.Configuration.dll
+i:{d8cbeb4a-8e80-49b5-9358-6b3ffc4f3ec6}:c:\users\aaron\source\repos\coachessoccercompanionweb\coachessoccercompanionweb\bin\debug\net6.0\nuget.configuration.dll
+++NuGet.DependencyResolver.Core.dll
+i:{d8cbeb4a-8e80-49b5-9358-6b3ffc4f3ec6}:c:\users\aaron\source\repos\coachessoccercompanionweb\coachessoccercompanionweb\bin\debug\net6.0\nuget.dependencyresolver.core.dll
+++NuGet.Frameworks.dll
+i:{d8cbeb4a-8e80-49b5-9358-6b3ffc4f3ec6}:c:\users\aaron\source\repos\coachessoccercompanionweb\coachessoccercompanionweb\bin\debug\net6.0\nuget.frameworks.dll
+++NuGet.LibraryModel.dll
+i:{d8cbeb4a-8e80-49b5-9358-6b3ffc4f3ec6}:c:\users\aaron\source\repos\coachessoccercompanionweb\coachessoccercompanionweb\bin\debug\net6.0\nuget.librarymodel.dll
+++NuGet.Packaging.dll
+i:{d8cbeb4a-8e80-49b5-9358-6b3ffc4f3ec6}:c:\users\aaron\source\repos\coachessoccercompanionweb\coachessoccercompanionweb\bin\debug\net6.0\nuget.packaging.dll
+++NuGet.ProjectModel.dll
+i:{d8cbeb4a-8e80-49b5-9358-6b3ffc4f3ec6}:c:\users\aaron\source\repos\coachessoccercompanionweb\coachessoccercompanionweb\bin\debug\net6.0\nuget.projectmodel.dll
+++NuGet.Protocol.dll
+i:{d8cbeb4a-8e80-49b5-9358-6b3ffc4f3ec6}:c:\users\aaron\source\repos\coachessoccercompanionweb\coachessoccercompanionweb\bin\debug\net6.0\nuget.protocol.dll
+++NuGet.Versioning.dll
+i:{d8cbeb4a-8e80-49b5-9358-6b3ffc4f3ec6}:c:\users\aaron\source\repos\coachessoccercompanionweb\coachessoccercompanionweb\bin\debug\net6.0\nuget.versioning.dll
+++Swashbuckle.AspNetCore.Swagger.dll
+i:{d8cbeb4a-8e80-49b5-9358-6b3ffc4f3ec6}:c:\users\aaron\source\repos\coachessoccercompanionweb\coachessoccercompanionweb\bin\debug\net6.0\swashbuckle.aspnetcore.swagger.dll
+++Swashbuckle.AspNetCore.SwaggerGen.dll
+i:{d8cbeb4a-8e80-49b5-9358-6b3ffc4f3ec6}:c:\users\aaron\source\repos\coachessoccercompanionweb\coachessoccercompanionweb\bin\debug\net6.0\swashbuckle.aspnetcore.swaggergen.dll
+++Swashbuckle.AspNetCore.SwaggerUI.dll
+i:{d8cbeb4a-8e80-49b5-9358-6b3ffc4f3ec6}:c:\users\aaron\source\repos\coachessoccercompanionweb\coachessoccercompanionweb\bin\debug\net6.0\swashbuckle.aspnetcore.swaggerui.dll
+++System.Composition.AttributedModel.dll
+i:{d8cbeb4a-8e80-49b5-9358-6b3ffc4f3ec6}:c:\users\aaron\source\repos\coachessoccercompanionweb\coachessoccercompanionweb\bin\debug\net6.0\system.composition.attributedmodel.dll
+++System.Composition.Convention.dll
+i:{d8cbeb4a-8e80-49b5-9358-6b3ffc4f3ec6}:c:\users\aaron\source\repos\coachessoccercompanionweb\coachessoccercompanionweb\bin\debug\net6.0\system.composition.convention.dll
+++System.Composition.Hosting.dll
+i:{d8cbeb4a-8e80-49b5-9358-6b3ffc4f3ec6}:c:\users\aaron\source\repos\coachessoccercompanionweb\coachessoccercompanionweb\bin\debug\net6.0\system.composition.hosting.dll
+++System.Composition.Runtime.dll
+i:{d8cbeb4a-8e80-49b5-9358-6b3ffc4f3ec6}:c:\users\aaron\source\repos\coachessoccercompanionweb\coachessoccercompanionweb\bin\debug\net6.0\system.composition.runtime.dll
+++System.Composition.TypedParts.dll
+i:{d8cbeb4a-8e80-49b5-9358-6b3ffc4f3ec6}:c:\users\aaron\source\repos\coachessoccercompanionweb\coachessoccercompanionweb\bin\debug\net6.0\system.composition.typedparts.dll
+++System.Configuration.ConfigurationManager.dll
+i:{d8cbeb4a-8e80-49b5-9358-6b3ffc4f3ec6}:c:\users\aaron\source\repos\coachessoccercompanionweb\coachessoccercompanionweb\bin\debug\net6.0\system.configuration.configurationmanager.dll
+++System.Drawing.Common.dll
+i:{d8cbeb4a-8e80-49b5-9358-6b3ffc4f3ec6}:c:\users\aaron\source\repos\coachessoccercompanionweb\coachessoccercompanionweb\bin\debug\net6.0\system.drawing.common.dll
+i:{d8cbeb4a-8e80-49b5-9358-6b3ffc4f3ec6}:c:\users\aaron\source\repos\coachessoccercompanionweb\coachessoccercompanionweb\bin\debug\net6.0\runtimes\unix\lib\net6.0\system.drawing.common.dll
+i:{d8cbeb4a-8e80-49b5-9358-6b3ffc4f3ec6}:c:\users\aaron\source\repos\coachessoccercompanionweb\coachessoccercompanionweb\bin\debug\net6.0\runtimes\win\lib\net6.0\system.drawing.common.dll
+++System.IdentityModel.Tokens.Jwt.dll
+i:{d8cbeb4a-8e80-49b5-9358-6b3ffc4f3ec6}:c:\users\aaron\source\repos\coachessoccercompanionweb\coachessoccercompanionweb\bin\debug\net6.0\system.identitymodel.tokens.jwt.dll
+++System.Runtime.Caching.dll
+i:{d8cbeb4a-8e80-49b5-9358-6b3ffc4f3ec6}:c:\users\aaron\source\repos\coachessoccercompanionweb\coachessoccercompanionweb\bin\debug\net6.0\system.runtime.caching.dll
+i:{d8cbeb4a-8e80-49b5-9358-6b3ffc4f3ec6}:c:\users\aaron\source\repos\coachessoccercompanionweb\coachessoccercompanionweb\bin\debug\net6.0\runtimes\win\lib\netstandard2.0\system.runtime.caching.dll
+++System.Security.Cryptography.ProtectedData.dll
+i:{d8cbeb4a-8e80-49b5-9358-6b3ffc4f3ec6}:c:\users\aaron\source\repos\coachessoccercompanionweb\coachessoccercompanionweb\bin\debug\net6.0\system.security.cryptography.protecteddata.dll
+i:{d8cbeb4a-8e80-49b5-9358-6b3ffc4f3ec6}:c:\users\aaron\source\repos\coachessoccercompanionweb\coachessoccercompanionweb\bin\debug\net6.0\runtimes\win\lib\net6.0\system.security.cryptography.protecteddata.dll
+++System.Security.Permissions.dll
+i:{d8cbeb4a-8e80-49b5-9358-6b3ffc4f3ec6}:c:\users\aaron\source\repos\coachessoccercompanionweb\coachessoccercompanionweb\bin\debug\net6.0\system.security.permissions.dll
+++System.Windows.Extensions.dll
+i:{d8cbeb4a-8e80-49b5-9358-6b3ffc4f3ec6}:c:\users\aaron\source\repos\coachessoccercompanionweb\coachessoccercompanionweb\bin\debug\net6.0\system.windows.extensions.dll
+i:{d8cbeb4a-8e80-49b5-9358-6b3ffc4f3ec6}:c:\users\aaron\source\repos\coachessoccercompanionweb\coachessoccercompanionweb\bin\debug\net6.0\runtimes\win\lib\net6.0\system.windows.extensions.dll
+++scopedcss
+i:{d8cbeb4a-8e80-49b5-9358-6b3ffc4f3ec6}:c:\users\aaron\source\repos\coachessoccercompanionweb\coachessoccercompanionweb\obj\debug\net6.0\scopedcss\
+++staticwebassets
+i:{d8cbeb4a-8e80-49b5-9358-6b3ffc4f3ec6}:c:\users\aaron\source\repos\coachessoccercompanionweb\coachessoccercompanionweb\obj\debug\net6.0\staticwebassets\
+++.NETCoreApp,Version=v6.0.AssemblyAttributes.cs
+i:{d8cbeb4a-8e80-49b5-9358-6b3ffc4f3ec6}:c:\users\aaron\source\repos\coachessoccercompanionweb\coachessoccercompanionweb\obj\debug\net6.0\.netcoreapp,version=v6.0.assemblyattributes.cs
+++apphost.exe
+i:{d8cbeb4a-8e80-49b5-9358-6b3ffc4f3ec6}:c:\users\aaron\source\repos\coachessoccercompanionweb\coachessoccercompanionweb\obj\debug\net6.0\apphost.exe
+++CoachesSoccerCompanionWeb.AssemblyInfo.cs
+i:{d8cbeb4a-8e80-49b5-9358-6b3ffc4f3ec6}:c:\users\aaron\source\repos\coachessoccercompanionweb\coachessoccercompanionweb\obj\debug\net6.0\coachessoccercompanionweb.assemblyinfo.cs
+++CoachesSoccerCompanionWeb.AssemblyInfoInputs.cache
+i:{d8cbeb4a-8e80-49b5-9358-6b3ffc4f3ec6}:c:\users\aaron\source\repos\coachessoccercompanionweb\coachessoccercompanionweb\obj\debug\net6.0\coachessoccercompanionweb.assemblyinfoinputs.cache
+++CoachesSoccerCompanionWeb.assets.cache
+i:{d8cbeb4a-8e80-49b5-9358-6b3ffc4f3ec6}:c:\users\aaron\source\repos\coachessoccercompanionweb\coachessoccercompanionweb\obj\debug\net6.0\coachessoccercompanionweb.assets.cache
+++CoachesSoccerCompanionWeb.csproj.AssemblyReference.cache
+i:{d8cbeb4a-8e80-49b5-9358-6b3ffc4f3ec6}:c:\users\aaron\source\repos\coachessoccercompanionweb\coachessoccercompanionweb\obj\debug\net6.0\coachessoccercompanionweb.csproj.assemblyreference.cache
+++CoachesSoccerCompanionWeb.csproj.CopyComplete
+i:{d8cbeb4a-8e80-49b5-9358-6b3ffc4f3ec6}:c:\users\aaron\source\repos\coachessoccercompanionweb\coachessoccercompanionweb\obj\debug\net6.0\coachessoccercompanionweb.csproj.copycomplete
+++CoachesSoccerCompanionWeb.csproj.CoreCompileInputs.cache
+i:{d8cbeb4a-8e80-49b5-9358-6b3ffc4f3ec6}:c:\users\aaron\source\repos\coachessoccercompanionweb\coachessoccercompanionweb\obj\debug\net6.0\coachessoccercompanionweb.csproj.corecompileinputs.cache
+++CoachesSoccerCompanionWeb.csproj.FileListAbsolute.txt
+i:{d8cbeb4a-8e80-49b5-9358-6b3ffc4f3ec6}:c:\users\aaron\source\repos\coachessoccercompanionweb\coachessoccercompanionweb\obj\debug\net6.0\coachessoccercompanionweb.csproj.filelistabsolute.txt
+++CoachesSoccerCompanionWeb.GeneratedMSBuildEditorConfig.editorconfig
+i:{d8cbeb4a-8e80-49b5-9358-6b3ffc4f3ec6}:c:\users\aaron\source\repos\coachessoccercompanionweb\coachessoccercompanionweb\obj\debug\net6.0\coachessoccercompanionweb.generatedmsbuildeditorconfig.editorconfig
+++CoachesSoccerCompanionWeb.genruntimeconfig.cache
+i:{d8cbeb4a-8e80-49b5-9358-6b3ffc4f3ec6}:c:\users\aaron\source\repos\coachessoccercompanionweb\coachessoccercompanionweb\obj\debug\net6.0\coachessoccercompanionweb.genruntimeconfig.cache
+++CoachesSoccerCompanionWeb.GlobalUsings.g.cs
+i:{d8cbeb4a-8e80-49b5-9358-6b3ffc4f3ec6}:c:\users\aaron\source\repos\coachessoccercompanionweb\coachessoccercompanionweb\obj\debug\net6.0\coachessoccercompanionweb.globalusings.g.cs
+++CoachesSoccerCompanionWeb.MvcApplicationPartsAssemblyInfo.cache
+i:{d8cbeb4a-8e80-49b5-9358-6b3ffc4f3ec6}:c:\users\aaron\source\repos\coachessoccercompanionweb\coachessoccercompanionweb\obj\debug\net6.0\coachessoccercompanionweb.mvcapplicationpartsassemblyinfo.cache
+++CoachesSoccerCompanionWeb.MvcApplicationPartsAssemblyInfo.cs
+i:{d8cbeb4a-8e80-49b5-9358-6b3ffc4f3ec6}:c:\users\aaron\source\repos\coachessoccercompanionweb\coachessoccercompanionweb\obj\debug\net6.0\coachessoccercompanionweb.mvcapplicationpartsassemblyinfo.cs
+++CoachesSoccerCompanionWeb.RazorAssemblyInfo.cache
+i:{d8cbeb4a-8e80-49b5-9358-6b3ffc4f3ec6}:c:\users\aaron\source\repos\coachessoccercompanionweb\coachessoccercompanionweb\obj\debug\net6.0\coachessoccercompanionweb.razorassemblyinfo.cache
+++CoachesSoccerCompanionWeb.RazorAssemblyInfo.cs
+i:{d8cbeb4a-8e80-49b5-9358-6b3ffc4f3ec6}:c:\users\aaron\source\repos\coachessoccercompanionweb\coachessoccercompanionweb\obj\debug\net6.0\coachessoccercompanionweb.razorassemblyinfo.cs
+++project.razor.json
+i:{d8cbeb4a-8e80-49b5-9358-6b3ffc4f3ec6}:c:\users\aaron\source\repos\coachessoccercompanionweb\coachessoccercompanionweb\obj\debug\net6.0\project.razor.json
+++staticwebassets.build.json
+i:{d8cbeb4a-8e80-49b5-9358-6b3ffc4f3ec6}:c:\users\aaron\source\repos\coachessoccercompanionweb\coachessoccercompanionweb\obj\debug\net6.0\staticwebassets.build.json
+++staticwebassets.development.json
+i:{d8cbeb4a-8e80-49b5-9358-6b3ffc4f3ec6}:c:\users\aaron\source\repos\coachessoccercompanionweb\coachessoccercompanionweb\obj\debug\net6.0\staticwebassets.development.json
+++Microsoft.NuGet.ImportBefore.props
+i:{d8cbeb4a-8e80-49b5-9358-6b3ffc4f3ec6}:c:\program files\microsoft visual studio\2022\community\msbuild\current\imports\microsoft.common.props\importbefore\microsoft.nuget.importbefore.props
+++NuGet.props
+i:{d8cbeb4a-8e80-49b5-9358-6b3ffc4f3ec6}:c:\program files\microsoft visual studio\2022\community\common7\ide\commonextensions\microsoft\nuget\nuget.props
+++Microsoft.NET.Sdk.DefaultItems.props
+i:{d8cbeb4a-8e80-49b5-9358-6b3ffc4f3ec6}:c:\program files\dotnet\sdk\6.0.107\sdks\microsoft.net.sdk\targets\microsoft.net.sdk.defaultitems.props
+++Microsoft.NET.Sdk.ImportWorkloads.props
+i:{d8cbeb4a-8e80-49b5-9358-6b3ffc4f3ec6}:c:\program files\dotnet\sdk\6.0.107\sdks\microsoft.net.sdk\targets\microsoft.net.sdk.importworkloads.props
+++Microsoft.NET.SupportedTargetFrameworks.props
+i:{d8cbeb4a-8e80-49b5-9358-6b3ffc4f3ec6}:c:\program files\dotnet\sdk\6.0.107\sdks\microsoft.net.sdk\targets\microsoft.net.supportedtargetframeworks.props
+++Microsoft.NET.SupportedPlatforms.props
+i:{d8cbeb4a-8e80-49b5-9358-6b3ffc4f3ec6}:c:\program files\dotnet\sdk\6.0.107\sdks\microsoft.net.sdk\targets\microsoft.net.supportedplatforms.props
+++Microsoft.NET.WindowsSdkSupportedTargetPlatforms.props
+i:{d8cbeb4a-8e80-49b5-9358-6b3ffc4f3ec6}:c:\program files\dotnet\sdk\6.0.107\sdks\microsoft.net.sdk\targets\microsoft.net.windowssdksupportedtargetplatforms.props
+++Microsoft.NET.Sdk.CSharp.props
+i:{d8cbeb4a-8e80-49b5-9358-6b3ffc4f3ec6}:c:\program files\dotnet\sdk\6.0.107\sdks\microsoft.net.sdk\targets\microsoft.net.sdk.csharp.props
+++Microsoft.NET.ILLink.props
+i:{d8cbeb4a-8e80-49b5-9358-6b3ffc4f3ec6}:c:\program files\dotnet\sdk\6.0.107\sdks\microsoft.net.sdk\targets\microsoft.net.illink.props
+++Microsoft.NET.Compatibility.props
+i:{d8cbeb4a-8e80-49b5-9358-6b3ffc4f3ec6}:c:\program files\dotnet\sdk\6.0.107\sdks\microsoft.net.sdk\targets\microsoft.net.compatibility.props
+++Microsoft.NET.PackTool.props
+i:{d8cbeb4a-8e80-49b5-9358-6b3ffc4f3ec6}:c:\program files\dotnet\sdk\6.0.107\sdks\microsoft.net.sdk\targets\microsoft.net.packtool.props
+++Microsoft.NET.PackProjectTool.props
+i:{d8cbeb4a-8e80-49b5-9358-6b3ffc4f3ec6}:c:\program files\dotnet\sdk\6.0.107\sdks\microsoft.net.sdk\targets\microsoft.net.packprojecttool.props
+++Microsoft.NET.Sdk.WindowsDesktop.props
+i:{d8cbeb4a-8e80-49b5-9358-6b3ffc4f3ec6}:c:\program files\dotnet\sdk\6.0.107\sdks\microsoft.net.sdk.windowsdesktop\targets\microsoft.net.sdk.windowsdesktop.props
+++Microsoft.NET.Windows.props
+i:{d8cbeb4a-8e80-49b5-9358-6b3ffc4f3ec6}:c:\program files\dotnet\sdk\6.0.107\sdks\microsoft.net.sdk\targets\microsoft.net.windows.props
+++Sdk.Razor.StaticAssets.ProjectSystem.props
+i:{d8cbeb4a-8e80-49b5-9358-6b3ffc4f3ec6}:c:\program files\dotnet\sdk\6.0.107\sdks\microsoft.net.sdk.razor\sdk\sdk.razor.staticassets.projectsystem.props
+++Microsoft.TypeScript.Default.props
+i:{d8cbeb4a-8e80-49b5-9358-6b3ffc4f3ec6}:c:\program files\microsoft visual studio\2022\community\msbuild\microsoft\visualstudio\v17.0\typescript\microsoft.typescript.default.props
+++Microsoft.NET.Sdk.Web.DefaultItems.props
+i:{d8cbeb4a-8e80-49b5-9358-6b3ffc4f3ec6}:c:\program files\dotnet\sdk\6.0.107\sdks\microsoft.net.sdk.web.projectsystem\targets\microsoft.net.sdk.web.defaultitems.props
+++Microsoft.NET.DefaultAssemblyInfo.targets
+i:{d8cbeb4a-8e80-49b5-9358-6b3ffc4f3ec6}:c:\program files\dotnet\sdk\6.0.107\sdks\microsoft.net.sdk\targets\microsoft.net.defaultassemblyinfo.targets
+++Microsoft.NET.DefaultOutputPaths.targets
+i:{d8cbeb4a-8e80-49b5-9358-6b3ffc4f3ec6}:c:\program files\dotnet\sdk\6.0.107\sdks\microsoft.net.sdk\targets\microsoft.net.defaultoutputpaths.targets
+++Microsoft.NET.Sdk.ImportPublishProfile.targets
+i:{d8cbeb4a-8e80-49b5-9358-6b3ffc4f3ec6}:c:\program files\dotnet\sdk\6.0.107\sdks\microsoft.net.sdk\targets\microsoft.net.sdk.importpublishprofile.targets
+++Microsoft.NET.TargetFrameworkInference.targets
+i:{d8cbeb4a-8e80-49b5-9358-6b3ffc4f3ec6}:c:\program files\dotnet\sdk\6.0.107\sdks\microsoft.net.sdk\targets\microsoft.net.targetframeworkinference.targets
+++Microsoft.NET.Sdk.Razor.BeforeCommon.targets
+i:{d8cbeb4a-8e80-49b5-9358-6b3ffc4f3ec6}:c:\program files\dotnet\sdk\6.0.107\sdks\microsoft.net.sdk.razor\targets\microsoft.net.sdk.razor.beforecommon.targets
+++Microsoft.NET.Sdk.ImportWorkloads.targets
+i:{d8cbeb4a-8e80-49b5-9358-6b3ffc4f3ec6}:c:\program files\dotnet\sdk\6.0.107\sdks\microsoft.net.sdk\targets\microsoft.net.sdk.importworkloads.targets
+++Microsoft.NET.RuntimeIdentifierInference.targets
+i:{d8cbeb4a-8e80-49b5-9358-6b3ffc4f3ec6}:c:\program files\dotnet\sdk\6.0.107\sdks\microsoft.net.sdk\targets\microsoft.net.runtimeidentifierinference.targets
+++Microsoft.NET.EolTargetFrameworks.targets
+i:{d8cbeb4a-8e80-49b5-9358-6b3ffc4f3ec6}:c:\program files\dotnet\sdk\6.0.107\sdks\microsoft.net.sdk\targets\microsoft.net.eoltargetframeworks.targets
+++Microsoft.NET.NuGetOfflineCache.targets
+i:{d8cbeb4a-8e80-49b5-9358-6b3ffc4f3ec6}:c:\program files\dotnet\sdk\6.0.107\sdks\microsoft.net.sdk\targets\microsoft.net.nugetofflinecache.targets
+++Microsoft.Managed.Before.targets
+i:{d8cbeb4a-8e80-49b5-9358-6b3ffc4f3ec6}:c:\program files\microsoft visual studio\2022\community\msbuild\current\bin\amd64\microsoft.managed.before.targets
+++Microsoft.CSharp.CurrentVersion.targets
+i:{d8cbeb4a-8e80-49b5-9358-6b3ffc4f3ec6}:c:\program files\microsoft visual studio\2022\community\msbuild\current\bin\amd64\microsoft.csharp.currentversion.targets
+++Microsoft.Managed.After.targets
+i:{d8cbeb4a-8e80-49b5-9358-6b3ffc4f3ec6}:c:\program files\microsoft visual studio\2022\community\msbuild\current\bin\amd64\microsoft.managed.after.targets
+++Microsoft.NET.Sdk.Common.targets
+i:{d8cbeb4a-8e80-49b5-9358-6b3ffc4f3ec6}:c:\program files\dotnet\sdk\6.0.107\sdks\microsoft.net.sdk\targets\microsoft.net.sdk.common.targets
+++Microsoft.PackageDependencyResolution.targets
+i:{d8cbeb4a-8e80-49b5-9358-6b3ffc4f3ec6}:c:\program files\dotnet\sdk\6.0.107\sdks\microsoft.net.sdk\targets\microsoft.packagedependencyresolution.targets
+++Microsoft.NET.Sdk.DefaultItems.targets
+i:{d8cbeb4a-8e80-49b5-9358-6b3ffc4f3ec6}:c:\program files\dotnet\sdk\6.0.107\sdks\microsoft.net.sdk\targets\microsoft.net.sdk.defaultitems.targets
+++Microsoft.NET.Sdk.FrameworkReferenceResolution.targets
+i:{d8cbeb4a-8e80-49b5-9358-6b3ffc4f3ec6}:c:\program files\dotnet\sdk\6.0.107\sdks\microsoft.net.sdk\targets\microsoft.net.sdk.frameworkreferenceresolution.targets
+++Microsoft.NET.Sdk.Shared.targets
+i:{d8cbeb4a-8e80-49b5-9358-6b3ffc4f3ec6}:c:\program files\dotnet\sdk\6.0.107\sdks\microsoft.net.sdk\targets\microsoft.net.sdk.shared.targets
+++Microsoft.NET.DisableStandardFrameworkResolution.targets
+i:{d8cbeb4a-8e80-49b5-9358-6b3ffc4f3ec6}:c:\program files\dotnet\sdk\6.0.107\sdks\microsoft.net.sdk\targets\microsoft.net.disablestandardframeworkresolution.targets
+++Microsoft.NET.DesignerSupport.targets
+i:{d8cbeb4a-8e80-49b5-9358-6b3ffc4f3ec6}:c:\program files\dotnet\sdk\6.0.107\sdks\microsoft.net.sdk\targets\microsoft.net.designersupport.targets
+++Microsoft.NET.GenerateAssemblyInfo.targets
+i:{d8cbeb4a-8e80-49b5-9358-6b3ffc4f3ec6}:c:\program files\dotnet\sdk\6.0.107\sdks\microsoft.net.sdk\targets\microsoft.net.generateassemblyinfo.targets
+++Microsoft.NET.GenerateGlobalUsings.targets
+i:{d8cbeb4a-8e80-49b5-9358-6b3ffc4f3ec6}:c:\program files\dotnet\sdk\6.0.107\sdks\microsoft.net.sdk\targets\microsoft.net.generateglobalusings.targets
+++Microsoft.NET.GenerateSupportedRuntime.targets
+i:{d8cbeb4a-8e80-49b5-9358-6b3ffc4f3ec6}:c:\program files\dotnet\sdk\6.0.107\sdks\microsoft.net.sdk\targets\microsoft.net.generatesupportedruntime.targets
+++Microsoft.NET.ComposeStore.targets
+i:{d8cbeb4a-8e80-49b5-9358-6b3ffc4f3ec6}:c:\program files\dotnet\sdk\6.0.107\sdks\microsoft.net.sdk\targets\microsoft.net.composestore.targets
+++Microsoft.NET.CrossGen.targets
+i:{d8cbeb4a-8e80-49b5-9358-6b3ffc4f3ec6}:c:\program files\dotnet\sdk\6.0.107\sdks\microsoft.net.sdk\targets\microsoft.net.crossgen.targets
+++Microsoft.NET.ObsoleteReferences.targets
+i:{d8cbeb4a-8e80-49b5-9358-6b3ffc4f3ec6}:c:\program files\dotnet\sdk\6.0.107\sdks\microsoft.net.sdk\targets\microsoft.net.obsoletereferences.targets
+++Microsoft.NET.Publish.targets
+i:{d8cbeb4a-8e80-49b5-9358-6b3ffc4f3ec6}:c:\program files\dotnet\sdk\6.0.107\sdks\microsoft.net.sdk\targets\microsoft.net.publish.targets
+++Microsoft.NET.PackTool.targets
+i:{d8cbeb4a-8e80-49b5-9358-6b3ffc4f3ec6}:c:\program files\dotnet\sdk\6.0.107\sdks\microsoft.net.sdk\targets\microsoft.net.packtool.targets
+++Microsoft.NET.PackProjectTool.targets
+i:{d8cbeb4a-8e80-49b5-9358-6b3ffc4f3ec6}:c:\program files\dotnet\sdk\6.0.107\sdks\microsoft.net.sdk\targets\microsoft.net.packprojecttool.targets
+++Microsoft.NET.PreserveCompilationContext.targets
+i:{d8cbeb4a-8e80-49b5-9358-6b3ffc4f3ec6}:c:\program files\dotnet\sdk\6.0.107\sdks\microsoft.net.sdk\targets\microsoft.net.preservecompilationcontext.targets
+++Microsoft.NET.ConflictResolution.targets
+i:{d8cbeb4a-8e80-49b5-9358-6b3ffc4f3ec6}:c:\program files\dotnet\sdk\6.0.107\sdks\microsoft.net.sdk\targets\microsoft.net.conflictresolution.targets
+++Microsoft.NET.Sdk.CSharp.targets
+i:{d8cbeb4a-8e80-49b5-9358-6b3ffc4f3ec6}:c:\program files\dotnet\sdk\6.0.107\sdks\microsoft.net.sdk\targets\microsoft.net.sdk.csharp.targets
+++Microsoft.NET.ILLink.targets
+i:{d8cbeb4a-8e80-49b5-9358-6b3ffc4f3ec6}:c:\program files\dotnet\sdk\6.0.107\sdks\microsoft.net.sdk\targets\microsoft.net.illink.targets
+++Microsoft.NET.Sdk.Analyzers.targets
+i:{d8cbeb4a-8e80-49b5-9358-6b3ffc4f3ec6}:c:\program files\dotnet\sdk\6.0.107\sdks\microsoft.net.sdk\targets\microsoft.net.sdk.analyzers.targets
+++Microsoft.NET.Compatibility.Common.targets
+i:{d8cbeb4a-8e80-49b5-9358-6b3ffc4f3ec6}:c:\program files\dotnet\sdk\6.0.107\sdks\microsoft.net.sdk\targets\microsoft.net.compatibility.common.targets
+++Microsoft.NET.Sdk.Razor.Configuration.targets
+i:{d8cbeb4a-8e80-49b5-9358-6b3ffc4f3ec6}:c:\program files\dotnet\sdk\6.0.107\sdks\microsoft.net.sdk.razor\targets\microsoft.net.sdk.razor.configuration.targets
+++Microsoft.NET.Sdk.Razor.CodeGeneration.targets
+i:{d8cbeb4a-8e80-49b5-9358-6b3ffc4f3ec6}:c:\program files\dotnet\sdk\6.0.107\sdks\microsoft.net.sdk.razor\targets\microsoft.net.sdk.razor.codegeneration.targets
+++Microsoft.NET.Sdk.Razor.SourceGenerators.targets
+i:{d8cbeb4a-8e80-49b5-9358-6b3ffc4f3ec6}:c:\program files\dotnet\sdk\6.0.107\sdks\microsoft.net.sdk.razor\targets\microsoft.net.sdk.razor.sourcegenerators.targets
+++Microsoft.NET.Sdk.Razor.StaticWebAssets.targets
+i:{d8cbeb4a-8e80-49b5-9358-6b3ffc4f3ec6}:c:\program files\dotnet\sdk\6.0.107\sdks\microsoft.net.sdk.razor\targets\microsoft.net.sdk.razor.staticwebassets.targets
+++Microsoft.NET.Sdk.Razor.ScopedCss.targets
+i:{d8cbeb4a-8e80-49b5-9358-6b3ffc4f3ec6}:c:\program files\dotnet\sdk\6.0.107\sdks\microsoft.net.sdk.razor\targets\microsoft.net.sdk.razor.scopedcss.targets
+++Microsoft.NET.Sdk.Razor.JSModules.targets
+i:{d8cbeb4a-8e80-49b5-9358-6b3ffc4f3ec6}:c:\program files\dotnet\sdk\6.0.107\sdks\microsoft.net.sdk.razor\targets\microsoft.net.sdk.razor.jsmodules.targets
+++Microsoft.NET.Sdk.Razor.GenerateAssemblyInfo.targets
+i:{d8cbeb4a-8e80-49b5-9358-6b3ffc4f3ec6}:c:\program files\dotnet\sdk\6.0.107\sdks\microsoft.net.sdk.razor\targets\microsoft.net.sdk.razor.generateassemblyinfo.targets
+++Microsoft.NET.Sdk.Razor.MvcApplicationPartsDiscovery.targets
+i:{d8cbeb4a-8e80-49b5-9358-6b3ffc4f3ec6}:c:\program files\dotnet\sdk\6.0.107\sdks\microsoft.net.sdk.razor\targets\microsoft.net.sdk.razor.mvcapplicationpartsdiscovery.targets
+++Microsoft.NET.Sdk.Razor.DesignTime.targets
+i:{d8cbeb4a-8e80-49b5-9358-6b3ffc4f3ec6}:c:\program files\microsoft visual studio\2022\community\msbuild\microsoft\visualstudio\razor\microsoft.net.sdk.razor.designtime.targets
+++Microsoft.TypeScript.targets
+i:{d8cbeb4a-8e80-49b5-9358-6b3ffc4f3ec6}:c:\program files\microsoft visual studio\2022\community\msbuild\microsoft\visualstudio\v17.0\typescript\microsoft.typescript.targets
+++Microsoft.TypeScript.DotNetCore.targets
+i:{d8cbeb4a-8e80-49b5-9358-6b3ffc4f3ec6}:c:\program files\microsoft visual studio\2022\community\msbuild\microsoft\visualstudio\v17.0\typescript\microsoft.typescript.dotnetcore.targets
+++Microsoft.Web.Designtime.targets
+i:{d8cbeb4a-8e80-49b5-9358-6b3ffc4f3ec6}:c:\program files\microsoft visual studio\2022\community\msbuild\microsoft\visualstudio\managed.web\microsoft.web.designtime.targets
+++Default.pubxml
+i:{d8cbeb4a-8e80-49b5-9358-6b3ffc4f3ec6}:c:\program files\dotnet\sdk\6.0.107\sdks\microsoft.net.sdk.publish\targets\publishprofiles\default.pubxml
+++Microsoft.NET.Sdk.Publish.ComputeFiles.targets
+i:{d8cbeb4a-8e80-49b5-9358-6b3ffc4f3ec6}:c:\program files\dotnet\sdk\6.0.107\sdks\microsoft.net.sdk.publish\targets\computetargets\microsoft.net.sdk.publish.computefiles.targets
+++Microsoft.NET.Sdk.Publish.FilterFiles.targets
+i:{d8cbeb4a-8e80-49b5-9358-6b3ffc4f3ec6}:c:\program files\dotnet\sdk\6.0.107\sdks\microsoft.net.sdk.publish\targets\copytargets\microsoft.net.sdk.publish.filterfiles.targets
+++Microsoft.NET.Sdk.Publish.CopyFiles.targets
+i:{d8cbeb4a-8e80-49b5-9358-6b3ffc4f3ec6}:c:\program files\dotnet\sdk\6.0.107\sdks\microsoft.net.sdk.publish\targets\copytargets\microsoft.net.sdk.publish.copyfiles.targets
+++Microsoft.NET.Sdk.Publish.TransformFiles.targets
+i:{d8cbeb4a-8e80-49b5-9358-6b3ffc4f3ec6}:c:\program files\dotnet\sdk\6.0.107\sdks\microsoft.net.sdk.publish\targets\transformtargets\microsoft.net.sdk.publish.transformfiles.targets
+++Microsoft.NET.Sdk.Publish.FileSystem.targets
+i:{d8cbeb4a-8e80-49b5-9358-6b3ffc4f3ec6}:c:\program files\dotnet\sdk\6.0.107\sdks\microsoft.net.sdk.publish\targets\publishtargets\microsoft.net.sdk.publish.filesystem.targets
+++Microsoft.NET.Sdk.DotNetCLITool.targets
+i:{d8cbeb4a-8e80-49b5-9358-6b3ffc4f3ec6}:c:\program files\dotnet\sdk\6.0.107\sdks\microsoft.net.sdk.publish\targets\dotnetclitooltargets\microsoft.net.sdk.dotnetclitool.targets
+++bootstrap.css
+i:{d8cbeb4a-8e80-49b5-9358-6b3ffc4f3ec6}:c:\users\aaron\source\repos\coachessoccercompanionweb\coachessoccercompanionweb\wwwroot\lib\bootstrap\dist\css\bootstrap.css
+++bootstrap-grid.css
+i:{d8cbeb4a-8e80-49b5-9358-6b3ffc4f3ec6}:c:\users\aaron\source\repos\coachessoccercompanionweb\coachessoccercompanionweb\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css
+++bootstrap-reboot.css
+i:{d8cbeb4a-8e80-49b5-9358-6b3ffc4f3ec6}:c:\users\aaron\source\repos\coachessoccercompanionweb\coachessoccercompanionweb\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.css
+++bootstrap-utilities.css
+i:{d8cbeb4a-8e80-49b5-9358-6b3ffc4f3ec6}:c:\users\aaron\source\repos\coachessoccercompanionweb\coachessoccercompanionweb\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.css
+++bootstrap.js
+i:{d8cbeb4a-8e80-49b5-9358-6b3ffc4f3ec6}:c:\users\aaron\source\repos\coachessoccercompanionweb\coachessoccercompanionweb\wwwroot\lib\bootstrap\dist\js\bootstrap.js
+++jquery.min.js
+i:{d8cbeb4a-8e80-49b5-9358-6b3ffc4f3ec6}:c:\users\aaron\source\repos\coachessoccercompanionweb\coachessoccercompanionweb\wwwroot\lib\jquery\dist\jquery.min.js
+++additional-methods.min.js
+i:{d8cbeb4a-8e80-49b5-9358-6b3ffc4f3ec6}:c:\users\aaron\source\repos\coachessoccercompanionweb\coachessoccercompanionweb\wwwroot\lib\jquery-validation\dist\additional-methods.min.js
+++jquery.validate.min.js
+i:{d8cbeb4a-8e80-49b5-9358-6b3ffc4f3ec6}:c:\users\aaron\source\repos\coachessoccercompanionweb\coachessoccercompanionweb\wwwroot\lib\jquery-validation\dist\jquery.validate.min.js
+++Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+i:{d8cbeb4a-8e80-49b5-9358-6b3ffc4f3ec6}:c:\users\aaron\source\repos\coachessoccercompanionweb\coachessoccercompanionweb\bin\debug\net6.0\cs\microsoft.codeanalysis.csharp.features.resources.dll
+i:{d8cbeb4a-8e80-49b5-9358-6b3ffc4f3ec6}:c:\users\aaron\source\repos\coachessoccercompanionweb\coachessoccercompanionweb\bin\debug\net6.0\de\microsoft.codeanalysis.csharp.features.resources.dll
+i:{d8cbeb4a-8e80-49b5-9358-6b3ffc4f3ec6}:c:\users\aaron\source\repos\coachessoccercompanionweb\coachessoccercompanionweb\bin\debug\net6.0\es\microsoft.codeanalysis.csharp.features.resources.dll
+i:{d8cbeb4a-8e80-49b5-9358-6b3ffc4f3ec6}:c:\users\aaron\source\repos\coachessoccercompanionweb\coachessoccercompanionweb\bin\debug\net6.0\fr\microsoft.codeanalysis.csharp.features.resources.dll
+i:{d8cbeb4a-8e80-49b5-9358-6b3ffc4f3ec6}:c:\users\aaron\source\repos\coachessoccercompanionweb\coachessoccercompanionweb\bin\debug\net6.0\it\microsoft.codeanalysis.csharp.features.resources.dll
+i:{d8cbeb4a-8e80-49b5-9358-6b3ffc4f3ec6}:c:\users\aaron\source\repos\coachessoccercompanionweb\coachessoccercompanionweb\bin\debug\net6.0\ja\microsoft.codeanalysis.csharp.features.resources.dll
+i:{d8cbeb4a-8e80-49b5-9358-6b3ffc4f3ec6}:c:\users\aaron\source\repos\coachessoccercompanionweb\coachessoccercompanionweb\bin\debug\net6.0\ko\microsoft.codeanalysis.csharp.features.resources.dll
+i:{d8cbeb4a-8e80-49b5-9358-6b3ffc4f3ec6}:c:\users\aaron\source\repos\coachessoccercompanionweb\coachessoccercompanionweb\bin\debug\net6.0\pl\microsoft.codeanalysis.csharp.features.resources.dll
+i:{d8cbeb4a-8e80-49b5-9358-6b3ffc4f3ec6}:c:\users\aaron\source\repos\coachessoccercompanionweb\coachessoccercompanionweb\bin\debug\net6.0\pt-br\microsoft.codeanalysis.csharp.features.resources.dll
+i:{d8cbeb4a-8e80-49b5-9358-6b3ffc4f3ec6}:c:\users\aaron\source\repos\coachessoccercompanionweb\coachessoccercompanionweb\bin\debug\net6.0\ru\microsoft.codeanalysis.csharp.features.resources.dll
+i:{d8cbeb4a-8e80-49b5-9358-6b3ffc4f3ec6}:c:\users\aaron\source\repos\coachessoccercompanionweb\coachessoccercompanionweb\bin\debug\net6.0\tr\microsoft.codeanalysis.csharp.features.resources.dll
+i:{d8cbeb4a-8e80-49b5-9358-6b3ffc4f3ec6}:c:\users\aaron\source\repos\coachessoccercompanionweb\coachessoccercompanionweb\bin\debug\net6.0\zh-hans\microsoft.codeanalysis.csharp.features.resources.dll
+i:{d8cbeb4a-8e80-49b5-9358-6b3ffc4f3ec6}:c:\users\aaron\source\repos\coachessoccercompanionweb\coachessoccercompanionweb\bin\debug\net6.0\zh-hant\microsoft.codeanalysis.csharp.features.resources.dll
+++Microsoft.CodeAnalysis.CSharp.resources.dll
+i:{d8cbeb4a-8e80-49b5-9358-6b3ffc4f3ec6}:c:\users\aaron\source\repos\coachessoccercompanionweb\coachessoccercompanionweb\bin\debug\net6.0\cs\microsoft.codeanalysis.csharp.resources.dll
+i:{d8cbeb4a-8e80-49b5-9358-6b3ffc4f3ec6}:c:\users\aaron\source\repos\coachessoccercompanionweb\coachessoccercompanionweb\bin\debug\net6.0\de\microsoft.codeanalysis.csharp.resources.dll
+i:{d8cbeb4a-8e80-49b5-9358-6b3ffc4f3ec6}:c:\users\aaron\source\repos\coachessoccercompanionweb\coachessoccercompanionweb\bin\debug\net6.0\es\microsoft.codeanalysis.csharp.resources.dll
+i:{d8cbeb4a-8e80-49b5-9358-6b3ffc4f3ec6}:c:\users\aaron\source\repos\coachessoccercompanionweb\coachessoccercompanionweb\bin\debug\net6.0\fr\microsoft.codeanalysis.csharp.resources.dll
+i:{d8cbeb4a-8e80-49b5-9358-6b3ffc4f3ec6}:c:\users\aaron\source\repos\coachessoccercompanionweb\coachessoccercompanionweb\bin\debug\net6.0\it\microsoft.codeanalysis.csharp.resources.dll
+i:{d8cbeb4a-8e80-49b5-9358-6b3ffc4f3ec6}:c:\users\aaron\source\repos\coachessoccercompanionweb\coachessoccercompanionweb\bin\debug\net6.0\ja\microsoft.codeanalysis.csharp.resources.dll
+i:{d8cbeb4a-8e80-49b5-9358-6b3ffc4f3ec6}:c:\users\aaron\source\repos\coachessoccercompanionweb\coachessoccercompanionweb\bin\debug\net6.0\ko\microsoft.codeanalysis.csharp.resources.dll
+i:{d8cbeb4a-8e80-49b5-9358-6b3ffc4f3ec6}:c:\users\aaron\source\repos\coachessoccercompanionweb\coachessoccercompanionweb\bin\debug\net6.0\pl\microsoft.codeanalysis.csharp.resources.dll
+i:{d8cbeb4a-8e80-49b5-9358-6b3ffc4f3ec6}:c:\users\aaron\source\repos\coachessoccercompanionweb\coachessoccercompanionweb\bin\debug\net6.0\pt-br\microsoft.codeanalysis.csharp.resources.dll
+i:{d8cbeb4a-8e80-49b5-9358-6b3ffc4f3ec6}:c:\users\aaron\source\repos\coachessoccercompanionweb\coachessoccercompanionweb\bin\debug\net6.0\ru\microsoft.codeanalysis.csharp.resources.dll
+i:{d8cbeb4a-8e80-49b5-9358-6b3ffc4f3ec6}:c:\users\aaron\source\repos\coachessoccercompanionweb\coachessoccercompanionweb\bin\debug\net6.0\tr\microsoft.codeanalysis.csharp.resources.dll
+i:{d8cbeb4a-8e80-49b5-9358-6b3ffc4f3ec6}:c:\users\aaron\source\repos\coachessoccercompanionweb\coachessoccercompanionweb\bin\debug\net6.0\zh-hans\microsoft.codeanalysis.csharp.resources.dll
+i:{d8cbeb4a-8e80-49b5-9358-6b3ffc4f3ec6}:c:\users\aaron\source\repos\coachessoccercompanionweb\coachessoccercompanionweb\bin\debug\net6.0\zh-hant\microsoft.codeanalysis.csharp.resources.dll
+++Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+i:{d8cbeb4a-8e80-49b5-9358-6b3ffc4f3ec6}:c:\users\aaron\source\repos\coachessoccercompanionweb\coachessoccercompanionweb\bin\debug\net6.0\cs\microsoft.codeanalysis.csharp.scripting.resources.dll
+i:{d8cbeb4a-8e80-49b5-9358-6b3ffc4f3ec6}:c:\users\aaron\source\repos\coachessoccercompanionweb\coachessoccercompanionweb\bin\debug\net6.0\de\microsoft.codeanalysis.csharp.scripting.resources.dll
+i:{d8cbeb4a-8e80-49b5-9358-6b3ffc4f3ec6}:c:\users\aaron\source\repos\coachessoccercompanionweb\coachessoccercompanionweb\bin\debug\net6.0\es\microsoft.codeanalysis.csharp.scripting.resources.dll
+i:{d8cbeb4a-8e80-49b5-9358-6b3ffc4f3ec6}:c:\users\aaron\source\repos\coachessoccercompanionweb\coachessoccercompanionweb\bin\debug\net6.0\fr\microsoft.codeanalysis.csharp.scripting.resources.dll
+i:{d8cbeb4a-8e80-49b5-9358-6b3ffc4f3ec6}:c:\users\aaron\source\repos\coachessoccercompanionweb\coachessoccercompanionweb\bin\debug\net6.0\it\microsoft.codeanalysis.csharp.scripting.resources.dll
+i:{d8cbeb4a-8e80-49b5-9358-6b3ffc4f3ec6}:c:\users\aaron\source\repos\coachessoccercompanionweb\coachessoccercompanionweb\bin\debug\net6.0\ja\microsoft.codeanalysis.csharp.scripting.resources.dll
+i:{d8cbeb4a-8e80-49b5-9358-6b3ffc4f3ec6}:c:\users\aaron\source\repos\coachessoccercompanionweb\coachessoccercompanionweb\bin\debug\net6.0\ko\microsoft.codeanalysis.csharp.scripting.resources.dll
+i:{d8cbeb4a-8e80-49b5-9358-6b3ffc4f3ec6}:c:\users\aaron\source\repos\coachessoccercompanionweb\coachessoccercompanionweb\bin\debug\net6.0\pl\microsoft.codeanalysis.csharp.scripting.resources.dll
+i:{d8cbeb4a-8e80-49b5-9358-6b3ffc4f3ec6}:c:\users\aaron\source\repos\coachessoccercompanionweb\coachessoccercompanionweb\bin\debug\net6.0\pt-br\microsoft.codeanalysis.csharp.scripting.resources.dll
+i:{d8cbeb4a-8e80-49b5-9358-6b3ffc4f3ec6}:c:\users\aaron\source\repos\coachessoccercompanionweb\coachessoccercompanionweb\bin\debug\net6.0\ru\microsoft.codeanalysis.csharp.scripting.resources.dll
+i:{d8cbeb4a-8e80-49b5-9358-6b3ffc4f3ec6}:c:\users\aaron\source\repos\coachessoccercompanionweb\coachessoccercompanionweb\bin\debug\net6.0\tr\microsoft.codeanalysis.csharp.scripting.resources.dll
+i:{d8cbeb4a-8e80-49b5-9358-6b3ffc4f3ec6}:c:\users\aaron\source\repos\coachessoccercompanionweb\coachessoccercompanionweb\bin\debug\net6.0\zh-hans\microsoft.codeanalysis.csharp.scripting.resources.dll
+i:{d8cbeb4a-8e80-49b5-9358-6b3ffc4f3ec6}:c:\users\aaron\source\repos\coachessoccercompanionweb\coachessoccercompanionweb\bin\debug\net6.0\zh-hant\microsoft.codeanalysis.csharp.scripting.resources.dll
+++Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+i:{d8cbeb4a-8e80-49b5-9358-6b3ffc4f3ec6}:c:\users\aaron\source\repos\coachessoccercompanionweb\coachessoccercompanionweb\bin\debug\net6.0\cs\microsoft.codeanalysis.csharp.workspaces.resources.dll
+i:{d8cbeb4a-8e80-49b5-9358-6b3ffc4f3ec6}:c:\users\aaron\source\repos\coachessoccercompanionweb\coachessoccercompanionweb\bin\debug\net6.0\de\microsoft.codeanalysis.csharp.workspaces.resources.dll
+i:{d8cbeb4a-8e80-49b5-9358-6b3ffc4f3ec6}:c:\users\aaron\source\repos\coachessoccercompanionweb\coachessoccercompanionweb\bin\debug\net6.0\es\microsoft.codeanalysis.csharp.workspaces.resources.dll
+i:{d8cbeb4a-8e80-49b5-9358-6b3ffc4f3ec6}:c:\users\aaron\source\repos\coachessoccercompanionweb\coachessoccercompanionweb\bin\debug\net6.0\fr\microsoft.codeanalysis.csharp.workspaces.resources.dll
+i:{d8cbeb4a-8e80-49b5-9358-6b3ffc4f3ec6}:c:\users\aaron\source\repos\coachessoccercompanionweb\coachessoccercompanionweb\bin\debug\net6.0\it\microsoft.codeanalysis.csharp.workspaces.resources.dll
+i:{d8cbeb4a-8e80-49b5-9358-6b3ffc4f3ec6}:c:\users\aaron\source\repos\coachessoccercompanionweb\coachessoccercompanionweb\bin\debug\net6.0\ja\microsoft.codeanalysis.csharp.workspaces.resources.dll
+i:{d8cbeb4a-8e80-49b5-9358-6b3ffc4f3ec6}:c:\users\aaron\source\repos\coachessoccercompanionweb\coachessoccercompanionweb\bin\debug\net6.0\ko\microsoft.codeanalysis.csharp.workspaces.resources.dll
+i:{d8cbeb4a-8e80-49b5-9358-6b3ffc4f3ec6}:c:\users\aaron\source\repos\coachessoccercompanionweb\coachessoccercompanionweb\bin\debug\net6.0\pl\microsoft.codeanalysis.csharp.workspaces.resources.dll
+i:{d8cbeb4a-8e80-49b5-9358-6b3ffc4f3ec6}:c:\users\aaron\source\repos\coachessoccercompanionweb\coachessoccercompanionweb\bin\debug\net6.0\pt-br\microsoft.codeanalysis.csharp.workspaces.resources.dll
+i:{d8cbeb4a-8e80-49b5-9358-6b3ffc4f3ec6}:c:\users\aaron\source\repos\coachessoccercompanionweb\coachessoccercompanionweb\bin\debug\net6.0\ru\microsoft.codeanalysis.csharp.workspaces.resources.dll
+i:{d8cbeb4a-8e80-49b5-9358-6b3ffc4f3ec6}:c:\users\aaron\source\repos\coachessoccercompanionweb\coachessoccercompanionweb\bin\debug\net6.0\tr\microsoft.codeanalysis.csharp.workspaces.resources.dll
+i:{d8cbeb4a-8e80-49b5-9358-6b3ffc4f3ec6}:c:\users\aaron\source\repos\coachessoccercompanionweb\coachessoccercompanionweb\bin\debug\net6.0\zh-hans\microsoft.codeanalysis.csharp.workspaces.resources.dll
+i:{d8cbeb4a-8e80-49b5-9358-6b3ffc4f3ec6}:c:\users\aaron\source\repos\coachessoccercompanionweb\coachessoccercompanionweb\bin\debug\net6.0\zh-hant\microsoft.codeanalysis.csharp.workspaces.resources.dll
+++Microsoft.CodeAnalysis.Features.resources.dll
+i:{d8cbeb4a-8e80-49b5-9358-6b3ffc4f3ec6}:c:\users\aaron\source\repos\coachessoccercompanionweb\coachessoccercompanionweb\bin\debug\net6.0\cs\microsoft.codeanalysis.features.resources.dll
+i:{d8cbeb4a-8e80-49b5-9358-6b3ffc4f3ec6}:c:\users\aaron\source\repos\coachessoccercompanionweb\coachessoccercompanionweb\bin\debug\net6.0\de\microsoft.codeanalysis.features.resources.dll
+i:{d8cbeb4a-8e80-49b5-9358-6b3ffc4f3ec6}:c:\users\aaron\source\repos\coachessoccercompanionweb\coachessoccercompanionweb\bin\debug\net6.0\es\microsoft.codeanalysis.features.resources.dll
+i:{d8cbeb4a-8e80-49b5-9358-6b3ffc4f3ec6}:c:\users\aaron\source\repos\coachessoccercompanionweb\coachessoccercompanionweb\bin\debug\net6.0\fr\microsoft.codeanalysis.features.resources.dll
+i:{d8cbeb4a-8e80-49b5-9358-6b3ffc4f3ec6}:c:\users\aaron\source\repos\coachessoccercompanionweb\coachessoccercompanionweb\bin\debug\net6.0\it\microsoft.codeanalysis.features.resources.dll
+i:{d8cbeb4a-8e80-49b5-9358-6b3ffc4f3ec6}:c:\users\aaron\source\repos\coachessoccercompanionweb\coachessoccercompanionweb\bin\debug\net6.0\ja\microsoft.codeanalysis.features.resources.dll
+i:{d8cbeb4a-8e80-49b5-9358-6b3ffc4f3ec6}:c:\users\aaron\source\repos\coachessoccercompanionweb\coachessoccercompanionweb\bin\debug\net6.0\ko\microsoft.codeanalysis.features.resources.dll
+i:{d8cbeb4a-8e80-49b5-9358-6b3ffc4f3ec6}:c:\users\aaron\source\repos\coachessoccercompanionweb\coachessoccercompanionweb\bin\debug\net6.0\pl\microsoft.codeanalysis.features.resources.dll
+i:{d8cbeb4a-8e80-49b5-9358-6b3ffc4f3ec6}:c:\users\aaron\source\repos\coachessoccercompanionweb\coachessoccercompanionweb\bin\debug\net6.0\pt-br\microsoft.codeanalysis.features.resources.dll
+i:{d8cbeb4a-8e80-49b5-9358-6b3ffc4f3ec6}:c:\users\aaron\source\repos\coachessoccercompanionweb\coachessoccercompanionweb\bin\debug\net6.0\ru\microsoft.codeanalysis.features.resources.dll
+i:{d8cbeb4a-8e80-49b5-9358-6b3ffc4f3ec6}:c:\users\aaron\source\repos\coachessoccercompanionweb\coachessoccercompanionweb\bin\debug\net6.0\tr\microsoft.codeanalysis.features.resources.dll
+i:{d8cbeb4a-8e80-49b5-9358-6b3ffc4f3ec6}:c:\users\aaron\source\repos\coachessoccercompanionweb\coachessoccercompanionweb\bin\debug\net6.0\zh-hans\microsoft.codeanalysis.features.resources.dll
+i:{d8cbeb4a-8e80-49b5-9358-6b3ffc4f3ec6}:c:\users\aaron\source\repos\coachessoccercompanionweb\coachessoccercompanionweb\bin\debug\net6.0\zh-hant\microsoft.codeanalysis.features.resources.dll
+++Microsoft.CodeAnalysis.resources.dll
+i:{d8cbeb4a-8e80-49b5-9358-6b3ffc4f3ec6}:c:\users\aaron\source\repos\coachessoccercompanionweb\coachessoccercompanionweb\bin\debug\net6.0\cs\microsoft.codeanalysis.resources.dll
+i:{d8cbeb4a-8e80-49b5-9358-6b3ffc4f3ec6}:c:\users\aaron\source\repos\coachessoccercompanionweb\coachessoccercompanionweb\bin\debug\net6.0\de\microsoft.codeanalysis.resources.dll
+i:{d8cbeb4a-8e80-49b5-9358-6b3ffc4f3ec6}:c:\users\aaron\source\repos\coachessoccercompanionweb\coachessoccercompanionweb\bin\debug\net6.0\es\microsoft.codeanalysis.resources.dll
+i:{d8cbeb4a-8e80-49b5-9358-6b3ffc4f3ec6}:c:\users\aaron\source\repos\coachessoccercompanionweb\coachessoccercompanionweb\bin\debug\net6.0\fr\microsoft.codeanalysis.resources.dll
+i:{d8cbeb4a-8e80-49b5-9358-6b3ffc4f3ec6}:c:\users\aaron\source\repos\coachessoccercompanionweb\coachessoccercompanionweb\bin\debug\net6.0\it\microsoft.codeanalysis.resources.dll
+i:{d8cbeb4a-8e80-49b5-9358-6b3ffc4f3ec6}:c:\users\aaron\source\repos\coachessoccercompanionweb\coachessoccercompanionweb\bin\debug\net6.0\ja\microsoft.codeanalysis.resources.dll
+i:{d8cbeb4a-8e80-49b5-9358-6b3ffc4f3ec6}:c:\users\aaron\source\repos\coachessoccercompanionweb\coachessoccercompanionweb\bin\debug\net6.0\ko\microsoft.codeanalysis.resources.dll
+i:{d8cbeb4a-8e80-49b5-9358-6b3ffc4f3ec6}:c:\users\aaron\source\repos\coachessoccercompanionweb\coachessoccercompanionweb\bin\debug\net6.0\pl\microsoft.codeanalysis.resources.dll
+i:{d8cbeb4a-8e80-49b5-9358-6b3ffc4f3ec6}:c:\users\aaron\source\repos\coachessoccercompanionweb\coachessoccercompanionweb\bin\debug\net6.0\pt-br\microsoft.codeanalysis.resources.dll
+i:{d8cbeb4a-8e80-49b5-9358-6b3ffc4f3ec6}:c:\users\aaron\source\repos\coachessoccercompanionweb\coachessoccercompanionweb\bin\debug\net6.0\ru\microsoft.codeanalysis.resources.dll
+i:{d8cbeb4a-8e80-49b5-9358-6b3ffc4f3ec6}:c:\users\aaron\source\repos\coachessoccercompanionweb\coachessoccercompanionweb\bin\debug\net6.0\tr\microsoft.codeanalysis.resources.dll
+i:{d8cbeb4a-8e80-49b5-9358-6b3ffc4f3ec6}:c:\users\aaron\source\repos\coachessoccercompanionweb\coachessoccercompanionweb\bin\debug\net6.0\zh-hans\microsoft.codeanalysis.resources.dll
+i:{d8cbeb4a-8e80-49b5-9358-6b3ffc4f3ec6}:c:\users\aaron\source\repos\coachessoccercompanionweb\coachessoccercompanionweb\bin\debug\net6.0\zh-hant\microsoft.codeanalysis.resources.dll
+++Microsoft.CodeAnalysis.Scripting.resources.dll
+i:{d8cbeb4a-8e80-49b5-9358-6b3ffc4f3ec6}:c:\users\aaron\source\repos\coachessoccercompanionweb\coachessoccercompanionweb\bin\debug\net6.0\cs\microsoft.codeanalysis.scripting.resources.dll
+i:{d8cbeb4a-8e80-49b5-9358-6b3ffc4f3ec6}:c:\users\aaron\source\repos\coachessoccercompanionweb\coachessoccercompanionweb\bin\debug\net6.0\de\microsoft.codeanalysis.scripting.resources.dll
+i:{d8cbeb4a-8e80-49b5-9358-6b3ffc4f3ec6}:c:\users\aaron\source\repos\coachessoccercompanionweb\coachessoccercompanionweb\bin\debug\net6.0\es\microsoft.codeanalysis.scripting.resources.dll
+i:{d8cbeb4a-8e80-49b5-9358-6b3ffc4f3ec6}:c:\users\aaron\source\repos\coachessoccercompanionweb\coachessoccercompanionweb\bin\debug\net6.0\fr\microsoft.codeanalysis.scripting.resources.dll
+i:{d8cbeb4a-8e80-49b5-9358-6b3ffc4f3ec6}:c:\users\aaron\source\repos\coachessoccercompanionweb\coachessoccercompanionweb\bin\debug\net6.0\it\microsoft.codeanalysis.scripting.resources.dll
+i:{d8cbeb4a-8e80-49b5-9358-6b3ffc4f3ec6}:c:\users\aaron\source\repos\coachessoccercompanionweb\coachessoccercompanionweb\bin\debug\net6.0\ja\microsoft.codeanalysis.scripting.resources.dll
+i:{d8cbeb4a-8e80-49b5-9358-6b3ffc4f3ec6}:c:\users\aaron\source\repos\coachessoccercompanionweb\coachessoccercompanionweb\bin\debug\net6.0\ko\microsoft.codeanalysis.scripting.resources.dll
+i:{d8cbeb4a-8e80-49b5-9358-6b3ffc4f3ec6}:c:\users\aaron\source\repos\coachessoccercompanionweb\coachessoccercompanionweb\bin\debug\net6.0\pl\microsoft.codeanalysis.scripting.resources.dll
+i:{d8cbeb4a-8e80-49b5-9358-6b3ffc4f3ec6}:c:\users\aaron\source\repos\coachessoccercompanionweb\coachessoccercompanionweb\bin\debug\net6.0\pt-br\microsoft.codeanalysis.scripting.resources.dll
+i:{d8cbeb4a-8e80-49b5-9358-6b3ffc4f3ec6}:c:\users\aaron\source\repos\coachessoccercompanionweb\coachessoccercompanionweb\bin\debug\net6.0\ru\microsoft.codeanalysis.scripting.resources.dll
+i:{d8cbeb4a-8e80-49b5-9358-6b3ffc4f3ec6}:c:\users\aaron\source\repos\coachessoccercompanionweb\coachessoccercompanionweb\bin\debug\net6.0\tr\microsoft.codeanalysis.scripting.resources.dll
+i:{d8cbeb4a-8e80-49b5-9358-6b3ffc4f3ec6}:c:\users\aaron\source\repos\coachessoccercompanionweb\coachessoccercompanionweb\bin\debug\net6.0\zh-hans\microsoft.codeanalysis.scripting.resources.dll
+i:{d8cbeb4a-8e80-49b5-9358-6b3ffc4f3ec6}:c:\users\aaron\source\repos\coachessoccercompanionweb\coachessoccercompanionweb\bin\debug\net6.0\zh-hant\microsoft.codeanalysis.scripting.resources.dll
+++Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+i:{d8cbeb4a-8e80-49b5-9358-6b3ffc4f3ec6}:c:\users\aaron\source\repos\coachessoccercompanionweb\coachessoccercompanionweb\bin\debug\net6.0\cs\microsoft.codeanalysis.visualbasic.features.resources.dll
+i:{d8cbeb4a-8e80-49b5-9358-6b3ffc4f3ec6}:c:\users\aaron\source\repos\coachessoccercompanionweb\coachessoccercompanionweb\bin\debug\net6.0\de\microsoft.codeanalysis.visualbasic.features.resources.dll
+i:{d8cbeb4a-8e80-49b5-9358-6b3ffc4f3ec6}:c:\users\aaron\source\repos\coachessoccercompanionweb\coachessoccercompanionweb\bin\debug\net6.0\es\microsoft.codeanalysis.visualbasic.features.resources.dll
+i:{d8cbeb4a-8e80-49b5-9358-6b3ffc4f3ec6}:c:\users\aaron\source\repos\coachessoccercompanionweb\coachessoccercompanionweb\bin\debug\net6.0\fr\microsoft.codeanalysis.visualbasic.features.resources.dll
+i:{d8cbeb4a-8e80-49b5-9358-6b3ffc4f3ec6}:c:\users\aaron\source\repos\coachessoccercompanionweb\coachessoccercompanionweb\bin\debug\net6.0\it\microsoft.codeanalysis.visualbasic.features.resources.dll
+i:{d8cbeb4a-8e80-49b5-9358-6b3ffc4f3ec6}:c:\users\aaron\source\repos\coachessoccercompanionweb\coachessoccercompanionweb\bin\debug\net6.0\ja\microsoft.codeanalysis.visualbasic.features.resources.dll
+i:{d8cbeb4a-8e80-49b5-9358-6b3ffc4f3ec6}:c:\users\aaron\source\repos\coachessoccercompanionweb\coachessoccercompanionweb\bin\debug\net6.0\ko\microsoft.codeanalysis.visualbasic.features.resources.dll
+i:{d8cbeb4a-8e80-49b5-9358-6b3ffc4f3ec6}:c:\users\aaron\source\repos\coachessoccercompanionweb\coachessoccercompanionweb\bin\debug\net6.0\pl\microsoft.codeanalysis.visualbasic.features.resources.dll
+i:{d8cbeb4a-8e80-49b5-9358-6b3ffc4f3ec6}:c:\users\aaron\source\repos\coachessoccercompanionweb\coachessoccercompanionweb\bin\debug\net6.0\pt-br\microsoft.codeanalysis.visualbasic.features.resources.dll
+i:{d8cbeb4a-8e80-49b5-9358-6b3ffc4f3ec6}:c:\users\aaron\source\repos\coachessoccercompanionweb\coachessoccercompanionweb\bin\debug\net6.0\ru\microsoft.codeanalysis.visualbasic.features.resources.dll
+i:{d8cbeb4a-8e80-49b5-9358-6b3ffc4f3ec6}:c:\users\aaron\source\repos\coachessoccercompanionweb\coachessoccercompanionweb\bin\debug\net6.0\tr\microsoft.codeanalysis.visualbasic.features.resources.dll
+i:{d8cbeb4a-8e80-49b5-9358-6b3ffc4f3ec6}:c:\users\aaron\source\repos\coachessoccercompanionweb\coachessoccercompanionweb\bin\debug\net6.0\zh-hans\microsoft.codeanalysis.visualbasic.features.resources.dll
+i:{d8cbeb4a-8e80-49b5-9358-6b3ffc4f3ec6}:c:\users\aaron\source\repos\coachessoccercompanionweb\coachessoccercompanionweb\bin\debug\net6.0\zh-hant\microsoft.codeanalysis.visualbasic.features.resources.dll
+++Microsoft.CodeAnalysis.VisualBasic.resources.dll
+i:{d8cbeb4a-8e80-49b5-9358-6b3ffc4f3ec6}:c:\users\aaron\source\repos\coachessoccercompanionweb\coachessoccercompanionweb\bin\debug\net6.0\cs\microsoft.codeanalysis.visualbasic.resources.dll
+i:{d8cbeb4a-8e80-49b5-9358-6b3ffc4f3ec6}:c:\users\aaron\source\repos\coachessoccercompanionweb\coachessoccercompanionweb\bin\debug\net6.0\de\microsoft.codeanalysis.visualbasic.resources.dll
+i:{d8cbeb4a-8e80-49b5-9358-6b3ffc4f3ec6}:c:\users\aaron\source\repos\coachessoccercompanionweb\coachessoccercompanionweb\bin\debug\net6.0\es\microsoft.codeanalysis.visualbasic.resources.dll
+i:{d8cbeb4a-8e80-49b5-9358-6b3ffc4f3ec6}:c:\users\aaron\source\repos\coachessoccercompanionweb\coachessoccercompanionweb\bin\debug\net6.0\fr\microsoft.codeanalysis.visualbasic.resources.dll
+i:{d8cbeb4a-8e80-49b5-9358-6b3ffc4f3ec6}:c:\users\aaron\source\repos\coachessoccercompanionweb\coachessoccercompanionweb\bin\debug\net6.0\it\microsoft.codeanalysis.visualbasic.resources.dll
+i:{d8cbeb4a-8e80-49b5-9358-6b3ffc4f3ec6}:c:\users\aaron\source\repos\coachessoccercompanionweb\coachessoccercompanionweb\bin\debug\net6.0\ja\microsoft.codeanalysis.visualbasic.resources.dll
+i:{d8cbeb4a-8e80-49b5-9358-6b3ffc4f3ec6}:c:\users\aaron\source\repos\coachessoccercompanionweb\coachessoccercompanionweb\bin\debug\net6.0\ko\microsoft.codeanalysis.visualbasic.resources.dll
+i:{d8cbeb4a-8e80-49b5-9358-6b3ffc4f3ec6}:c:\users\aaron\source\repos\coachessoccercompanionweb\coachessoccercompanionweb\bin\debug\net6.0\pl\microsoft.codeanalysis.visualbasic.resources.dll
+i:{d8cbeb4a-8e80-49b5-9358-6b3ffc4f3ec6}:c:\users\aaron\source\repos\coachessoccercompanionweb\coachessoccercompanionweb\bin\debug\net6.0\pt-br\microsoft.codeanalysis.visualbasic.resources.dll
+i:{d8cbeb4a-8e80-49b5-9358-6b3ffc4f3ec6}:c:\users\aaron\source\repos\coachessoccercompanionweb\coachessoccercompanionweb\bin\debug\net6.0\ru\microsoft.codeanalysis.visualbasic.resources.dll
+i:{d8cbeb4a-8e80-49b5-9358-6b3ffc4f3ec6}:c:\users\aaron\source\repos\coachessoccercompanionweb\coachessoccercompanionweb\bin\debug\net6.0\tr\microsoft.codeanalysis.visualbasic.resources.dll
+i:{d8cbeb4a-8e80-49b5-9358-6b3ffc4f3ec6}:c:\users\aaron\source\repos\coachessoccercompanionweb\coachessoccercompanionweb\bin\debug\net6.0\zh-hans\microsoft.codeanalysis.visualbasic.resources.dll
+i:{d8cbeb4a-8e80-49b5-9358-6b3ffc4f3ec6}:c:\users\aaron\source\repos\coachessoccercompanionweb\coachessoccercompanionweb\bin\debug\net6.0\zh-hant\microsoft.codeanalysis.visualbasic.resources.dll
+++Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+i:{d8cbeb4a-8e80-49b5-9358-6b3ffc4f3ec6}:c:\users\aaron\source\repos\coachessoccercompanionweb\coachessoccercompanionweb\bin\debug\net6.0\cs\microsoft.codeanalysis.visualbasic.workspaces.resources.dll
+i:{d8cbeb4a-8e80-49b5-9358-6b3ffc4f3ec6}:c:\users\aaron\source\repos\coachessoccercompanionweb\coachessoccercompanionweb\bin\debug\net6.0\de\microsoft.codeanalysis.visualbasic.workspaces.resources.dll
+i:{d8cbeb4a-8e80-49b5-9358-6b3ffc4f3ec6}:c:\users\aaron\source\repos\coachessoccercompanionweb\coachessoccercompanionweb\bin\debug\net6.0\es\microsoft.codeanalysis.visualbasic.workspaces.resources.dll
+i:{d8cbeb4a-8e80-49b5-9358-6b3ffc4f3ec6}:c:\users\aaron\source\repos\coachessoccercompanionweb\coachessoccercompanionweb\bin\debug\net6.0\fr\microsoft.codeanalysis.visualbasic.workspaces.resources.dll
+i:{d8cbeb4a-8e80-49b5-9358-6b3ffc4f3ec6}:c:\users\aaron\source\repos\coachessoccercompanionweb\coachessoccercompanionweb\bin\debug\net6.0\it\microsoft.codeanalysis.visualbasic.workspaces.resources.dll
+i:{d8cbeb4a-8e80-49b5-9358-6b3ffc4f3ec6}:c:\users\aaron\source\repos\coachessoccercompanionweb\coachessoccercompanionweb\bin\debug\net6.0\ja\microsoft.codeanalysis.visualbasic.workspaces.resources.dll
+i:{d8cbeb4a-8e80-49b5-9358-6b3ffc4f3ec6}:c:\users\aaron\source\repos\coachessoccercompanionweb\coachessoccercompanionweb\bin\debug\net6.0\ko\microsoft.codeanalysis.visualbasic.workspaces.resources.dll
+i:{d8cbeb4a-8e80-49b5-9358-6b3ffc4f3ec6}:c:\users\aaron\source\repos\coachessoccercompanionweb\coachessoccercompanionweb\bin\debug\net6.0\pl\microsoft.codeanalysis.visualbasic.workspaces.resources.dll
+i:{d8cbeb4a-8e80-49b5-9358-6b3ffc4f3ec6}:c:\users\aaron\source\repos\coachessoccercompanionweb\coachessoccercompanionweb\bin\debug\net6.0\pt-br\microsoft.codeanalysis.visualbasic.workspaces.resources.dll
+i:{d8cbeb4a-8e80-49b5-9358-6b3ffc4f3ec6}:c:\users\aaron\source\repos\coachessoccercompanionweb\coachessoccercompanionweb\bin\debug\net6.0\ru\microsoft.codeanalysis.visualbasic.workspaces.resources.dll
+i:{d8cbeb4a-8e80-49b5-9358-6b3ffc4f3ec6}:c:\users\aaron\source\repos\coachessoccercompanionweb\coachessoccercompanionweb\bin\debug\net6.0\tr\microsoft.codeanalysis.visualbasic.workspaces.resources.dll
+i:{d8cbeb4a-8e80-49b5-9358-6b3ffc4f3ec6}:c:\users\aaron\source\repos\coachessoccercompanionweb\coachessoccercompanionweb\bin\debug\net6.0\zh-hans\microsoft.codeanalysis.visualbasic.workspaces.resources.dll
+i:{d8cbeb4a-8e80-49b5-9358-6b3ffc4f3ec6}:c:\users\aaron\source\repos\coachessoccercompanionweb\coachessoccercompanionweb\bin\debug\net6.0\zh-hant\microsoft.codeanalysis.visualbasic.workspaces.resources.dll
+++Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+i:{d8cbeb4a-8e80-49b5-9358-6b3ffc4f3ec6}:c:\users\aaron\source\repos\coachessoccercompanionweb\coachessoccercompanionweb\bin\debug\net6.0\cs\microsoft.codeanalysis.workspaces.msbuild.resources.dll
+i:{d8cbeb4a-8e80-49b5-9358-6b3ffc4f3ec6}:c:\users\aaron\source\repos\coachessoccercompanionweb\coachessoccercompanionweb\bin\debug\net6.0\de\microsoft.codeanalysis.workspaces.msbuild.resources.dll
+i:{d8cbeb4a-8e80-49b5-9358-6b3ffc4f3ec6}:c:\users\aaron\source\repos\coachessoccercompanionweb\coachessoccercompanionweb\bin\debug\net6.0\es\microsoft.codeanalysis.workspaces.msbuild.resources.dll
+i:{d8cbeb4a-8e80-49b5-9358-6b3ffc4f3ec6}:c:\users\aaron\source\repos\coachessoccercompanionweb\coachessoccercompanionweb\bin\debug\net6.0\fr\microsoft.codeanalysis.workspaces.msbuild.resources.dll
+i:{d8cbeb4a-8e80-49b5-9358-6b3ffc4f3ec6}:c:\users\aaron\source\repos\coachessoccercompanionweb\coachessoccercompanionweb\bin\debug\net6.0\it\microsoft.codeanalysis.workspaces.msbuild.resources.dll
+i:{d8cbeb4a-8e80-49b5-9358-6b3ffc4f3ec6}:c:\users\aaron\source\repos\coachessoccercompanionweb\coachessoccercompanionweb\bin\debug\net6.0\ja\microsoft.codeanalysis.workspaces.msbuild.resources.dll
+i:{d8cbeb4a-8e80-49b5-9358-6b3ffc4f3ec6}:c:\users\aaron\source\repos\coachessoccercompanionweb\coachessoccercompanionweb\bin\debug\net6.0\ko\microsoft.codeanalysis.workspaces.msbuild.resources.dll
+i:{d8cbeb4a-8e80-49b5-9358-6b3ffc4f3ec6}:c:\users\aaron\source\repos\coachessoccercompanionweb\coachessoccercompanionweb\bin\debug\net6.0\pl\microsoft.codeanalysis.workspaces.msbuild.resources.dll
+i:{d8cbeb4a-8e80-49b5-9358-6b3ffc4f3ec6}:c:\users\aaron\source\repos\coachessoccercompanionweb\coachessoccercompanionweb\bin\debug\net6.0\pt-br\microsoft.codeanalysis.workspaces.msbuild.resources.dll
+i:{d8cbeb4a-8e80-49b5-9358-6b3ffc4f3ec6}:c:\users\aaron\source\repos\coachessoccercompanionweb\coachessoccercompanionweb\bin\debug\net6.0\ru\microsoft.codeanalysis.workspaces.msbuild.resources.dll
+i:{d8cbeb4a-8e80-49b5-9358-6b3ffc4f3ec6}:c:\users\aaron\source\repos\coachessoccercompanionweb\coachessoccercompanionweb\bin\debug\net6.0\tr\microsoft.codeanalysis.workspaces.msbuild.resources.dll
+i:{d8cbeb4a-8e80-49b5-9358-6b3ffc4f3ec6}:c:\users\aaron\source\repos\coachessoccercompanionweb\coachessoccercompanionweb\bin\debug\net6.0\zh-hans\microsoft.codeanalysis.workspaces.msbuild.resources.dll
+i:{d8cbeb4a-8e80-49b5-9358-6b3ffc4f3ec6}:c:\users\aaron\source\repos\coachessoccercompanionweb\coachessoccercompanionweb\bin\debug\net6.0\zh-hant\microsoft.codeanalysis.workspaces.msbuild.resources.dll
+++Microsoft.CodeAnalysis.Workspaces.resources.dll
+i:{d8cbeb4a-8e80-49b5-9358-6b3ffc4f3ec6}:c:\users\aaron\source\repos\coachessoccercompanionweb\coachessoccercompanionweb\bin\debug\net6.0\cs\microsoft.codeanalysis.workspaces.resources.dll
+i:{d8cbeb4a-8e80-49b5-9358-6b3ffc4f3ec6}:c:\users\aaron\source\repos\coachessoccercompanionweb\coachessoccercompanionweb\bin\debug\net6.0\de\microsoft.codeanalysis.workspaces.resources.dll
+i:{d8cbeb4a-8e80-49b5-9358-6b3ffc4f3ec6}:c:\users\aaron\source\repos\coachessoccercompanionweb\coachessoccercompanionweb\bin\debug\net6.0\es\microsoft.codeanalysis.workspaces.resources.dll
+i:{d8cbeb4a-8e80-49b5-9358-6b3ffc4f3ec6}:c:\users\aaron\source\repos\coachessoccercompanionweb\coachessoccercompanionweb\bin\debug\net6.0\fr\microsoft.codeanalysis.workspaces.resources.dll
+i:{d8cbeb4a-8e80-49b5-9358-6b3ffc4f3ec6}:c:\users\aaron\source\repos\coachessoccercompanionweb\coachessoccercompanionweb\bin\debug\net6.0\it\microsoft.codeanalysis.workspaces.resources.dll
+i:{d8cbeb4a-8e80-49b5-9358-6b3ffc4f3ec6}:c:\users\aaron\source\repos\coachessoccercompanionweb\coachessoccercompanionweb\bin\debug\net6.0\ja\microsoft.codeanalysis.workspaces.resources.dll
+i:{d8cbeb4a-8e80-49b5-9358-6b3ffc4f3ec6}:c:\users\aaron\source\repos\coachessoccercompanionweb\coachessoccercompanionweb\bin\debug\net6.0\ko\microsoft.codeanalysis.workspaces.resources.dll
+i:{d8cbeb4a-8e80-49b5-9358-6b3ffc4f3ec6}:c:\users\aaron\source\repos\coachessoccercompanionweb\coachessoccercompanionweb\bin\debug\net6.0\pl\microsoft.codeanalysis.workspaces.resources.dll
+i:{d8cbeb4a-8e80-49b5-9358-6b3ffc4f3ec6}:c:\users\aaron\source\repos\coachessoccercompanionweb\coachessoccercompanionweb\bin\debug\net6.0\pt-br\microsoft.codeanalysis.workspaces.resources.dll
+i:{d8cbeb4a-8e80-49b5-9358-6b3ffc4f3ec6}:c:\users\aaron\source\repos\coachessoccercompanionweb\coachessoccercompanionweb\bin\debug\net6.0\ru\microsoft.codeanalysis.workspaces.resources.dll
+i:{d8cbeb4a-8e80-49b5-9358-6b3ffc4f3ec6}:c:\users\aaron\source\repos\coachessoccercompanionweb\coachessoccercompanionweb\bin\debug\net6.0\tr\microsoft.codeanalysis.workspaces.resources.dll
+i:{d8cbeb4a-8e80-49b5-9358-6b3ffc4f3ec6}:c:\users\aaron\source\repos\coachessoccercompanionweb\coachessoccercompanionweb\bin\debug\net6.0\zh-hans\microsoft.codeanalysis.workspaces.resources.dll
+i:{d8cbeb4a-8e80-49b5-9358-6b3ffc4f3ec6}:c:\users\aaron\source\repos\coachessoccercompanionweb\coachessoccercompanionweb\bin\debug\net6.0\zh-hant\microsoft.codeanalysis.workspaces.resources.dll
+++unix
+i:{d8cbeb4a-8e80-49b5-9358-6b3ffc4f3ec6}:c:\users\aaron\source\repos\coachessoccercompanionweb\coachessoccercompanionweb\bin\debug\net6.0\runtimes\unix\
+++win
+i:{d8cbeb4a-8e80-49b5-9358-6b3ffc4f3ec6}:c:\users\aaron\source\repos\coachessoccercompanionweb\coachessoccercompanionweb\bin\debug\net6.0\runtimes\win\
+++win-arm
+i:{d8cbeb4a-8e80-49b5-9358-6b3ffc4f3ec6}:c:\users\aaron\source\repos\coachessoccercompanionweb\coachessoccercompanionweb\bin\debug\net6.0\runtimes\win-arm\
+++win-arm64
+i:{d8cbeb4a-8e80-49b5-9358-6b3ffc4f3ec6}:c:\users\aaron\source\repos\coachessoccercompanionweb\coachessoccercompanionweb\bin\debug\net6.0\runtimes\win-arm64\
+++win-x64
+i:{d8cbeb4a-8e80-49b5-9358-6b3ffc4f3ec6}:c:\users\aaron\source\repos\coachessoccercompanionweb\coachessoccercompanionweb\bin\debug\net6.0\runtimes\win-x64\
+++win-x86
+i:{d8cbeb4a-8e80-49b5-9358-6b3ffc4f3ec6}:c:\users\aaron\source\repos\coachessoccercompanionweb\coachessoccercompanionweb\bin\debug\net6.0\runtimes\win-x86\
+++bundle
+i:{d8cbeb4a-8e80-49b5-9358-6b3ffc4f3ec6}:c:\users\aaron\source\repos\coachessoccercompanionweb\coachessoccercompanionweb\obj\debug\net6.0\scopedcss\bundle\
+++projectbundle
+i:{d8cbeb4a-8e80-49b5-9358-6b3ffc4f3ec6}:c:\users\aaron\source\repos\coachessoccercompanionweb\coachessoccercompanionweb\obj\debug\net6.0\scopedcss\projectbundle\
+++Microsoft.Extensions.ApiDescription.Server.props
+i:{d8cbeb4a-8e80-49b5-9358-6b3ffc4f3ec6}:c:\users\aaron\.nuget\packages\microsoft.extensions.apidescription.server\3.0.0\build\microsoft.extensions.apidescription.server.props
+++Swashbuckle.AspNetCore.props
+i:{d8cbeb4a-8e80-49b5-9358-6b3ffc4f3ec6}:c:\users\aaron\.nuget\packages\swashbuckle.aspnetcore\6.3.0\build\swashbuckle.aspnetcore.props
+++Microsoft.EntityFrameworkCore.props
+i:{d8cbeb4a-8e80-49b5-9358-6b3ffc4f3ec6}:c:\users\aaron\.nuget\packages\microsoft.entityframeworkcore\6.0.6\buildtransitive\net6.0\microsoft.entityframeworkcore.props
+++Microsoft.EntityFrameworkCore.Design.props
+i:{d8cbeb4a-8e80-49b5-9358-6b3ffc4f3ec6}:c:\users\aaron\.nuget\packages\microsoft.entityframeworkcore.design\6.0.6\build\net6.0\microsoft.entityframeworkcore.design.props
+++Microsoft.AspNetCore.Identity.UI.props
+i:{d8cbeb4a-8e80-49b5-9358-6b3ffc4f3ec6}:c:\users\aaron\.nuget\packages\microsoft.aspnetcore.identity.ui\6.0.5\build\microsoft.aspnetcore.identity.ui.props
+++Microsoft.NuGet.props
+i:{d8cbeb4a-8e80-49b5-9358-6b3ffc4f3ec6}:c:\program files\microsoft visual studio\2022\community\msbuild\microsoft\nuget\17.0\microsoft.nuget.props
+++Microsoft.NETCoreSdk.BundledVersions.props
+i:{d8cbeb4a-8e80-49b5-9358-6b3ffc4f3ec6}:c:\program files\dotnet\sdk\6.0.107\microsoft.netcoresdk.bundledversions.props
+++Microsoft.NET.Sdk.WindowsDesktop.WindowsForms.props
+i:{d8cbeb4a-8e80-49b5-9358-6b3ffc4f3ec6}:c:\program files\dotnet\sdk\6.0.107\sdks\microsoft.net.sdk.windowsdesktop\targets\microsoft.net.sdk.windowsdesktop.windowsforms.props
+++Microsoft.NET.Sdk.WindowsDesktop.WPF.props
+i:{d8cbeb4a-8e80-49b5-9358-6b3ffc4f3ec6}:c:\program files\dotnet\sdk\6.0.107\sdks\microsoft.net.sdk.windowsdesktop\targets\microsoft.net.sdk.windowsdesktop.wpf.props
+++WorkloadManifest.targets (C:\Program Files\dotnet\sdk-manifests\6.0.100\microsoft.net.sdk.android)
+i:{d8cbeb4a-8e80-49b5-9358-6b3ffc4f3ec6}:c:\program files\dotnet\sdk-manifests\6.0.100\microsoft.net.sdk.android\workloadmanifest.targets
+++WorkloadManifest.targets (C:\Program Files\dotnet\sdk-manifests\6.0.100\microsoft.net.sdk.ios)
+i:{d8cbeb4a-8e80-49b5-9358-6b3ffc4f3ec6}:c:\program files\dotnet\sdk-manifests\6.0.100\microsoft.net.sdk.ios\workloadmanifest.targets
+++WorkloadManifest.targets (C:\Program Files\dotnet\sdk-manifests\6.0.100\microsoft.net.sdk.maccatalyst)
+i:{d8cbeb4a-8e80-49b5-9358-6b3ffc4f3ec6}:c:\program files\dotnet\sdk-manifests\6.0.100\microsoft.net.sdk.maccatalyst\workloadmanifest.targets
+++WorkloadManifest.targets (C:\Program Files\dotnet\sdk-manifests\6.0.100\microsoft.net.sdk.macos)
+i:{d8cbeb4a-8e80-49b5-9358-6b3ffc4f3ec6}:c:\program files\dotnet\sdk-manifests\6.0.100\microsoft.net.sdk.macos\workloadmanifest.targets
+++WorkloadManifest.targets (C:\Program Files\dotnet\sdk-manifests\6.0.100\microsoft.net.sdk.maui)
+i:{d8cbeb4a-8e80-49b5-9358-6b3ffc4f3ec6}:c:\program files\dotnet\sdk-manifests\6.0.100\microsoft.net.sdk.maui\workloadmanifest.targets
+++WorkloadManifest.targets (C:\Program Files\dotnet\sdk-manifests\6.0.100\microsoft.net.sdk.tvos)
+i:{d8cbeb4a-8e80-49b5-9358-6b3ffc4f3ec6}:c:\program files\dotnet\sdk-manifests\6.0.100\microsoft.net.sdk.tvos\workloadmanifest.targets
+++WorkloadManifest.targets (C:\Program Files\dotnet\sdk-manifests\6.0.100\microsoft.net.workload.emscripten)
+i:{d8cbeb4a-8e80-49b5-9358-6b3ffc4f3ec6}:c:\program files\dotnet\sdk-manifests\6.0.100\microsoft.net.workload.emscripten\workloadmanifest.targets
+++WorkloadManifest.targets (C:\Program Files\dotnet\sdk-manifests\6.0.100\microsoft.net.workload.mono.toolchain)
+i:{d8cbeb4a-8e80-49b5-9358-6b3ffc4f3ec6}:c:\program files\dotnet\sdk-manifests\6.0.100\microsoft.net.workload.mono.toolchain\workloadmanifest.targets
+++Microsoft.CSharp.Core.targets
+i:{d8cbeb4a-8e80-49b5-9358-6b3ffc4f3ec6}:c:\program files\microsoft visual studio\2022\community\msbuild\current\bin\roslyn\microsoft.csharp.core.targets
+++Microsoft.CSharp.DesignTime.targets
+i:{d8cbeb4a-8e80-49b5-9358-6b3ffc4f3ec6}:c:\program files\microsoft visual studio\2022\community\msbuild\microsoft\visualstudio\managed\microsoft.csharp.designtime.targets
+++Microsoft.Common.targets
+i:{d8cbeb4a-8e80-49b5-9358-6b3ffc4f3ec6}:c:\program files\microsoft visual studio\2022\community\msbuild\current\bin\amd64\microsoft.common.targets
+++Microsoft.ServiceModel.targets
+i:{d8cbeb4a-8e80-49b5-9358-6b3ffc4f3ec6}:c:\program files\microsoft visual studio\2022\community\msbuild\current\bin\amd64\microsoft.servicemodel.targets
+i:{d8cbeb4a-8e80-49b5-9358-6b3ffc4f3ec6}:c:\windows\microsoft.net\framework\v4.0.30319\microsoft.servicemodel.targets
+++Microsoft.NET.Sdk.DefaultItems.Shared.targets
+i:{d8cbeb4a-8e80-49b5-9358-6b3ffc4f3ec6}:c:\program files\dotnet\sdk\6.0.107\sdks\microsoft.net.sdk\targets\microsoft.net.sdk.defaultitems.shared.targets
+++Microsoft.NETCoreSdk.BundledCliTools.props
+i:{d8cbeb4a-8e80-49b5-9358-6b3ffc4f3ec6}:c:\program files\dotnet\sdk\6.0.107\microsoft.netcoresdk.bundledclitools.props
+++Microsoft.NET.DefaultPackageConflictOverrides.targets
+i:{d8cbeb4a-8e80-49b5-9358-6b3ffc4f3ec6}:c:\program files\dotnet\sdk\6.0.107\sdks\microsoft.net.sdk\targets\microsoft.net.defaultpackageconflictoverrides.targets
+++Microsoft.CodeAnalysis.NetAnalyzers.props
+i:{d8cbeb4a-8e80-49b5-9358-6b3ffc4f3ec6}:c:\program files\dotnet\sdk\6.0.107\sdks\microsoft.net.sdk\analyzers\build\microsoft.codeanalysis.netanalyzers.props
+++Microsoft.CodeAnalysis.NetAnalyzers.targets
+i:{d8cbeb4a-8e80-49b5-9358-6b3ffc4f3ec6}:c:\program files\dotnet\sdk\6.0.107\sdks\microsoft.net.sdk\analyzers\build\microsoft.codeanalysis.netanalyzers.targets
+++bootstrap.css.map
+i:{d8cbeb4a-8e80-49b5-9358-6b3ffc4f3ec6}:c:\users\aaron\source\repos\coachessoccercompanionweb\coachessoccercompanionweb\wwwroot\lib\bootstrap\dist\css\bootstrap.css.map
+++bootstrap.min.css
+i:{d8cbeb4a-8e80-49b5-9358-6b3ffc4f3ec6}:c:\users\aaron\source\repos\coachessoccercompanionweb\coachessoccercompanionweb\wwwroot\lib\bootstrap\dist\css\bootstrap.min.css
+++bootstrap.rtl.css
+i:{d8cbeb4a-8e80-49b5-9358-6b3ffc4f3ec6}:c:\users\aaron\source\repos\coachessoccercompanionweb\coachessoccercompanionweb\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.css
+++bootstrap-grid.css.map
+i:{d8cbeb4a-8e80-49b5-9358-6b3ffc4f3ec6}:c:\users\aaron\source\repos\coachessoccercompanionweb\coachessoccercompanionweb\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css.map
+++bootstrap-grid.min.css
+i:{d8cbeb4a-8e80-49b5-9358-6b3ffc4f3ec6}:c:\users\aaron\source\repos\coachessoccercompanionweb\coachessoccercompanionweb\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.min.css
+++bootstrap-grid.rtl.css
+i:{d8cbeb4a-8e80-49b5-9358-6b3ffc4f3ec6}:c:\users\aaron\source\repos\coachessoccercompanionweb\coachessoccercompanionweb\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.css
+++bootstrap-reboot.css.map
+i:{d8cbeb4a-8e80-49b5-9358-6b3ffc4f3ec6}:c:\users\aaron\source\repos\coachessoccercompanionweb\coachessoccercompanionweb\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.css.map
+++bootstrap-reboot.min.css
+i:{d8cbeb4a-8e80-49b5-9358-6b3ffc4f3ec6}:c:\users\aaron\source\repos\coachessoccercompanionweb\coachessoccercompanionweb\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.min.css
+++bootstrap-reboot.rtl.css
+i:{d8cbeb4a-8e80-49b5-9358-6b3ffc4f3ec6}:c:\users\aaron\source\repos\coachessoccercompanionweb\coachessoccercompanionweb\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.css
+++bootstrap-utilities.css.map
+i:{d8cbeb4a-8e80-49b5-9358-6b3ffc4f3ec6}:c:\users\aaron\source\repos\coachessoccercompanionweb\coachessoccercompanionweb\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.css.map
+++bootstrap-utilities.min.css
+i:{d8cbeb4a-8e80-49b5-9358-6b3ffc4f3ec6}:c:\users\aaron\source\repos\coachessoccercompanionweb\coachessoccercompanionweb\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.min.css
+++bootstrap-utilities.rtl.css
+i:{d8cbeb4a-8e80-49b5-9358-6b3ffc4f3ec6}:c:\users\aaron\source\repos\coachessoccercompanionweb\coachessoccercompanionweb\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.css
+++bootstrap.bundle.js
+i:{d8cbeb4a-8e80-49b5-9358-6b3ffc4f3ec6}:c:\users\aaron\source\repos\coachessoccercompanionweb\coachessoccercompanionweb\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.js
+++bootstrap.esm.js
+i:{d8cbeb4a-8e80-49b5-9358-6b3ffc4f3ec6}:c:\users\aaron\source\repos\coachessoccercompanionweb\coachessoccercompanionweb\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.js
+++bootstrap.js.map
+i:{d8cbeb4a-8e80-49b5-9358-6b3ffc4f3ec6}:c:\users\aaron\source\repos\coachessoccercompanionweb\coachessoccercompanionweb\wwwroot\lib\bootstrap\dist\js\bootstrap.js.map
+++bootstrap.min.js
+i:{d8cbeb4a-8e80-49b5-9358-6b3ffc4f3ec6}:c:\users\aaron\source\repos\coachessoccercompanionweb\coachessoccercompanionweb\wwwroot\lib\bootstrap\dist\js\bootstrap.min.js
+++jquery.min.map
+i:{d8cbeb4a-8e80-49b5-9358-6b3ffc4f3ec6}:c:\users\aaron\source\repos\coachessoccercompanionweb\coachessoccercompanionweb\wwwroot\lib\jquery\dist\jquery.min.map
+++native
+i:{d8cbeb4a-8e80-49b5-9358-6b3ffc4f3ec6}:c:\users\aaron\source\repos\coachessoccercompanionweb\coachessoccercompanionweb\bin\debug\net6.0\runtimes\win-arm\native\
+i:{d8cbeb4a-8e80-49b5-9358-6b3ffc4f3ec6}:c:\users\aaron\source\repos\coachessoccercompanionweb\coachessoccercompanionweb\bin\debug\net6.0\runtimes\win-arm64\native\
+i:{d8cbeb4a-8e80-49b5-9358-6b3ffc4f3ec6}:c:\users\aaron\source\repos\coachessoccercompanionweb\coachessoccercompanionweb\bin\debug\net6.0\runtimes\win-x64\native\
+i:{d8cbeb4a-8e80-49b5-9358-6b3ffc4f3ec6}:c:\users\aaron\source\repos\coachessoccercompanionweb\coachessoccercompanionweb\bin\debug\net6.0\runtimes\win-x86\native\
+++CoachesSoccerCompanionWeb.styles.css
+i:{d8cbeb4a-8e80-49b5-9358-6b3ffc4f3ec6}:c:\users\aaron\source\repos\coachessoccercompanionweb\coachessoccercompanionweb\obj\debug\net6.0\scopedcss\bundle\coachessoccercompanionweb.styles.css
+++CoachesSoccerCompanionWeb.bundle.scp.css
+i:{d8cbeb4a-8e80-49b5-9358-6b3ffc4f3ec6}:c:\users\aaron\source\repos\coachessoccercompanionweb\coachessoccercompanionweb\obj\debug\net6.0\scopedcss\projectbundle\coachessoccercompanionweb.bundle.scp.css
+++Microsoft.NET.ILLink.Tasks.props
+i:{d8cbeb4a-8e80-49b5-9358-6b3ffc4f3ec6}:c:\program files\dotnet\sdk\6.0.107\sdks\microsoft.net.illink.tasks\build\microsoft.net.illink.tasks.props
+++System.Windows.Forms.Analyzers.props
+i:{d8cbeb4a-8e80-49b5-9358-6b3ffc4f3ec6}:c:\program files\dotnet\sdk\6.0.107\sdks\microsoft.net.sdk.windowsdesktop\targets\system.windows.forms.analyzers.props
+++Microsoft.Managed.Core.targets
+i:{d8cbeb4a-8e80-49b5-9358-6b3ffc4f3ec6}:c:\program files\microsoft visual studio\2022\community\msbuild\current\bin\roslyn\microsoft.managed.core.targets
+++Microsoft.Managed.DesignTime.targets
+i:{d8cbeb4a-8e80-49b5-9358-6b3ffc4f3ec6}:c:\program files\microsoft visual studio\2022\community\msbuild\microsoft\visualstudio\managed\microsoft.managed.designtime.targets
+++Microsoft.Common.CurrentVersion.targets
+i:{d8cbeb4a-8e80-49b5-9358-6b3ffc4f3ec6}:c:\program files\microsoft visual studio\2022\community\msbuild\current\bin\amd64\microsoft.common.currentversion.targets
+++bootstrap.min.css.map
+i:{d8cbeb4a-8e80-49b5-9358-6b3ffc4f3ec6}:c:\users\aaron\source\repos\coachessoccercompanionweb\coachessoccercompanionweb\wwwroot\lib\bootstrap\dist\css\bootstrap.min.css.map
+++bootstrap.rtl.css.map
+i:{d8cbeb4a-8e80-49b5-9358-6b3ffc4f3ec6}:c:\users\aaron\source\repos\coachessoccercompanionweb\coachessoccercompanionweb\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.css.map
+++bootstrap.rtl.min.css
+i:{d8cbeb4a-8e80-49b5-9358-6b3ffc4f3ec6}:c:\users\aaron\source\repos\coachessoccercompanionweb\coachessoccercompanionweb\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.min.css
+++bootstrap-grid.min.css.map
+i:{d8cbeb4a-8e80-49b5-9358-6b3ffc4f3ec6}:c:\users\aaron\source\repos\coachessoccercompanionweb\coachessoccercompanionweb\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.min.css.map
+++bootstrap-grid.rtl.css.map
+i:{d8cbeb4a-8e80-49b5-9358-6b3ffc4f3ec6}:c:\users\aaron\source\repos\coachessoccercompanionweb\coachessoccercompanionweb\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.css.map
+++bootstrap-grid.rtl.min.css
+i:{d8cbeb4a-8e80-49b5-9358-6b3ffc4f3ec6}:c:\users\aaron\source\repos\coachessoccercompanionweb\coachessoccercompanionweb\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.min.css
+++bootstrap-reboot.min.css.map
+i:{d8cbeb4a-8e80-49b5-9358-6b3ffc4f3ec6}:c:\users\aaron\source\repos\coachessoccercompanionweb\coachessoccercompanionweb\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.min.css.map
+++bootstrap-reboot.rtl.css.map
+i:{d8cbeb4a-8e80-49b5-9358-6b3ffc4f3ec6}:c:\users\aaron\source\repos\coachessoccercompanionweb\coachessoccercompanionweb\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.css.map
+++bootstrap-reboot.rtl.min.css
+i:{d8cbeb4a-8e80-49b5-9358-6b3ffc4f3ec6}:c:\users\aaron\source\repos\coachessoccercompanionweb\coachessoccercompanionweb\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.min.css
+++bootstrap-utilities.min.css.map
+i:{d8cbeb4a-8e80-49b5-9358-6b3ffc4f3ec6}:c:\users\aaron\source\repos\coachessoccercompanionweb\coachessoccercompanionweb\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.min.css.map
+++bootstrap-utilities.rtl.css.map
+i:{d8cbeb4a-8e80-49b5-9358-6b3ffc4f3ec6}:c:\users\aaron\source\repos\coachessoccercompanionweb\coachessoccercompanionweb\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.css.map
+++bootstrap-utilities.rtl.min.css
+i:{d8cbeb4a-8e80-49b5-9358-6b3ffc4f3ec6}:c:\users\aaron\source\repos\coachessoccercompanionweb\coachessoccercompanionweb\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.min.css
+++bootstrap.bundle.js.map
+i:{d8cbeb4a-8e80-49b5-9358-6b3ffc4f3ec6}:c:\users\aaron\source\repos\coachessoccercompanionweb\coachessoccercompanionweb\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.js.map
+++bootstrap.bundle.min.js
+i:{d8cbeb4a-8e80-49b5-9358-6b3ffc4f3ec6}:c:\users\aaron\source\repos\coachessoccercompanionweb\coachessoccercompanionweb\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.min.js
+++bootstrap.esm.js.map
+i:{d8cbeb4a-8e80-49b5-9358-6b3ffc4f3ec6}:c:\users\aaron\source\repos\coachessoccercompanionweb\coachessoccercompanionweb\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.js.map
+++bootstrap.esm.min.js
+i:{d8cbeb4a-8e80-49b5-9358-6b3ffc4f3ec6}:c:\users\aaron\source\repos\coachessoccercompanionweb\coachessoccercompanionweb\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.min.js
+++bootstrap.min.js.map
+i:{d8cbeb4a-8e80-49b5-9358-6b3ffc4f3ec6}:c:\users\aaron\source\repos\coachessoccercompanionweb\coachessoccercompanionweb\wwwroot\lib\bootstrap\dist\js\bootstrap.min.js.map
+++netcoreapp3.0
+i:{d8cbeb4a-8e80-49b5-9358-6b3ffc4f3ec6}:c:\users\aaron\source\repos\coachessoccercompanionweb\coachessoccercompanionweb\bin\debug\net6.0\runtimes\unix\lib\netcoreapp3.0\
+i:{d8cbeb4a-8e80-49b5-9358-6b3ffc4f3ec6}:c:\users\aaron\source\repos\coachessoccercompanionweb\coachessoccercompanionweb\bin\debug\net6.0\runtimes\win\lib\netcoreapp3.0\
+++netcoreapp3.1
+i:{d8cbeb4a-8e80-49b5-9358-6b3ffc4f3ec6}:c:\users\aaron\source\repos\coachessoccercompanionweb\coachessoccercompanionweb\bin\debug\net6.0\runtimes\unix\lib\netcoreapp3.1\
+i:{d8cbeb4a-8e80-49b5-9358-6b3ffc4f3ec6}:c:\users\aaron\source\repos\coachessoccercompanionweb\coachessoccercompanionweb\bin\debug\net6.0\runtimes\win\lib\netcoreapp3.1\
+++netstandard2.0
+i:{d8cbeb4a-8e80-49b5-9358-6b3ffc4f3ec6}:c:\users\aaron\source\repos\coachessoccercompanionweb\coachessoccercompanionweb\bin\debug\net6.0\runtimes\win\lib\netstandard2.0\
+++Microsoft.Data.SqlClient.SNI.dll
+i:{d8cbeb4a-8e80-49b5-9358-6b3ffc4f3ec6}:c:\users\aaron\source\repos\coachessoccercompanionweb\coachessoccercompanionweb\bin\debug\net6.0\runtimes\win-arm\native\microsoft.data.sqlclient.sni.dll
+i:{d8cbeb4a-8e80-49b5-9358-6b3ffc4f3ec6}:c:\users\aaron\source\repos\coachessoccercompanionweb\coachessoccercompanionweb\bin\debug\net6.0\runtimes\win-arm64\native\microsoft.data.sqlclient.sni.dll
+i:{d8cbeb4a-8e80-49b5-9358-6b3ffc4f3ec6}:c:\users\aaron\source\repos\coachessoccercompanionweb\coachessoccercompanionweb\bin\debug\net6.0\runtimes\win-x64\native\microsoft.data.sqlclient.sni.dll
+i:{d8cbeb4a-8e80-49b5-9358-6b3ffc4f3ec6}:c:\users\aaron\source\repos\coachessoccercompanionweb\coachessoccercompanionweb\bin\debug\net6.0\runtimes\win-x86\native\microsoft.data.sqlclient.sni.dll
+++_Layout.cshtml.rz.scp.css
+i:{d8cbeb4a-8e80-49b5-9358-6b3ffc4f3ec6}:c:\users\aaron\source\repos\coachessoccercompanionweb\coachessoccercompanionweb\obj\debug\net6.0\scopedcss\views\shared\_layout.cshtml.rz.scp.css
+++Microsoft.Managed.Core.CurrentVersions.targets
+i:{d8cbeb4a-8e80-49b5-9358-6b3ffc4f3ec6}:c:\program files\microsoft visual studio\2022\community\msbuild\current\bin\roslyn\microsoft.managed.core.currentversions.targets
+++Microsoft.Cpp.VCLibs120Universal.targets
+i:{d8cbeb4a-8e80-49b5-9358-6b3ffc4f3ec6}:c:\program files\microsoft visual studio\2022\community\msbuild\current\microsoft.common.targets\importbefore\microsoft.cpp.vclibs120universal.targets
+++Microsoft.Net.CoreRuntime.ImportBefore.targets
+i:{d8cbeb4a-8e80-49b5-9358-6b3ffc4f3ec6}:c:\program files\microsoft visual studio\2022\community\msbuild\current\microsoft.common.targets\importbefore\microsoft.net.coreruntime.importbefore.targets
+++Microsoft.NetNative.ImportBefore.targets
+i:{d8cbeb4a-8e80-49b5-9358-6b3ffc4f3ec6}:c:\program files\microsoft visual studio\2022\community\msbuild\current\microsoft.common.targets\importbefore\microsoft.netnative.importbefore.targets
+++CoachesSoccerCompanionWeb.csproj.user
+i:{d8cbeb4a-8e80-49b5-9358-6b3ffc4f3ec6}:c:\users\aaron\source\repos\coachessoccercompanionweb\coachessoccercompanionweb\coachessoccercompanionweb.csproj.user
+++Microsoft.NET.props
+i:{d8cbeb4a-8e80-49b5-9358-6b3ffc4f3ec6}:c:\program files\microsoft visual studio\2022\community\msbuild\current\bin\amd64\microsoft.net.props
+++Microsoft.CodeAnalysis.targets
+i:{d8cbeb4a-8e80-49b5-9358-6b3ffc4f3ec6}:c:\program files\microsoft visual studio\2022\community\msbuild\microsoft\visualstudio\v17.0\codeanalysis\microsoft.codeanalysis.targets
+++Microsoft.Xaml.targets
+i:{d8cbeb4a-8e80-49b5-9358-6b3ffc4f3ec6}:c:\program files\microsoft visual studio\2022\community\msbuild\current\bin\amd64\microsoft.xaml.targets
+i:{d8cbeb4a-8e80-49b5-9358-6b3ffc4f3ec6}:c:\windows\microsoft.net\framework\v4.0.30319\microsoft.xaml.targets
+++Microsoft.WorkflowBuildExtensions.targets
+i:{d8cbeb4a-8e80-49b5-9358-6b3ffc4f3ec6}:c:\program files\microsoft visual studio\2022\community\msbuild\current\bin\amd64\microsoft.workflowbuildextensions.targets
+i:{d8cbeb4a-8e80-49b5-9358-6b3ffc4f3ec6}:c:\windows\microsoft.net\framework\v4.0.30319\microsoft.workflowbuildextensions.targets
+++Microsoft.TeamTest.targets
+i:{d8cbeb4a-8e80-49b5-9358-6b3ffc4f3ec6}:c:\program files\microsoft visual studio\2022\community\msbuild\microsoft\visualstudio\v17.0\teamtest\microsoft.teamtest.targets
+++NuGet.targets
+i:{d8cbeb4a-8e80-49b5-9358-6b3ffc4f3ec6}:c:\program files\microsoft visual studio\2022\community\common7\ide\commonextensions\microsoft\nuget\nuget.targets
+++Microsoft.DesktopBridge.ImportAfter.targets
+i:{d8cbeb4a-8e80-49b5-9358-6b3ffc4f3ec6}:c:\program files\microsoft visual studio\2022\community\msbuild\current\microsoft.common.targets\importafter\microsoft.desktopbridge.importafter.targets
+++Microsoft.Docker.ImportAfter.targets
+i:{d8cbeb4a-8e80-49b5-9358-6b3ffc4f3ec6}:c:\program files\microsoft visual studio\2022\community\msbuild\current\microsoft.common.targets\importafter\microsoft.docker.importafter.targets
+++Microsoft.NET.Build.Extensions.targets
+i:{d8cbeb4a-8e80-49b5-9358-6b3ffc4f3ec6}:c:\program files\microsoft visual studio\2022\community\msbuild\current\microsoft.common.targets\importafter\microsoft.net.build.extensions.targets
+i:{d8cbeb4a-8e80-49b5-9358-6b3ffc4f3ec6}:c:\program files\microsoft visual studio\2022\community\msbuild\microsoft\microsoft.net.build.extensions\microsoft.net.build.extensions.targets
+++Microsoft.Net.CoreRuntime.ImportAfter.targets
+i:{d8cbeb4a-8e80-49b5-9358-6b3ffc4f3ec6}:c:\program files\microsoft visual studio\2022\community\msbuild\current\microsoft.common.targets\importafter\microsoft.net.coreruntime.importafter.targets
+++Microsoft.NetNative.ImportAfter.targets
+i:{d8cbeb4a-8e80-49b5-9358-6b3ffc4f3ec6}:c:\program files\microsoft visual studio\2022\community\msbuild\current\microsoft.common.targets\importafter\microsoft.netnative.importafter.targets
+++Microsoft.NuGet.ImportAfter.targets
+i:{d8cbeb4a-8e80-49b5-9358-6b3ffc4f3ec6}:c:\program files\microsoft visual studio\2022\community\msbuild\current\microsoft.common.targets\importafter\microsoft.nuget.importafter.targets
+++Microsoft.VisualStudio.Azure.Fabric.ServiceProject.ImportAfter.targets
+i:{d8cbeb4a-8e80-49b5-9358-6b3ffc4f3ec6}:c:\program files\microsoft visual studio\2022\community\msbuild\current\microsoft.common.targets\importafter\microsoft.visualstudio.azure.fabric.serviceproject.importafter.targets
+++Microsoft.Web.ImportAfter.targets
+i:{d8cbeb4a-8e80-49b5-9358-6b3ffc4f3ec6}:c:\program files\microsoft visual studio\2022\community\msbuild\current\microsoft.common.targets\importafter\microsoft.web.importafter.targets
+++Xamarin.Common.targets
+i:{d8cbeb4a-8e80-49b5-9358-6b3ffc4f3ec6}:c:\program files\microsoft visual studio\2022\community\msbuild\current\microsoft.common.targets\importafter\xamarin.common.targets
+++Microsoft.Extensions.ApiDescription.Server.targets
+i:{d8cbeb4a-8e80-49b5-9358-6b3ffc4f3ec6}:c:\users\aaron\.nuget\packages\microsoft.extensions.apidescription.server\3.0.0\build\microsoft.extensions.apidescription.server.targets
+++Microsoft.AspNetCore.Identity.UI.targets
+i:{d8cbeb4a-8e80-49b5-9358-6b3ffc4f3ec6}:c:\users\aaron\.nuget\packages\microsoft.aspnetcore.identity.ui\6.0.5\buildtransitive\microsoft.aspnetcore.identity.ui.targets
+i:{d8cbeb4a-8e80-49b5-9358-6b3ffc4f3ec6}:c:\users\aaron\.nuget\packages\microsoft.aspnetcore.identity.ui\6.0.5\build\microsoft.aspnetcore.identity.ui.targets
+++bootstrap.rtl.min.css.map
+i:{d8cbeb4a-8e80-49b5-9358-6b3ffc4f3ec6}:c:\users\aaron\source\repos\coachessoccercompanionweb\coachessoccercompanionweb\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.min.css.map
+++bootstrap-grid.rtl.min.css.map
+i:{d8cbeb4a-8e80-49b5-9358-6b3ffc4f3ec6}:c:\users\aaron\source\repos\coachessoccercompanionweb\coachessoccercompanionweb\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.min.css.map
+++bootstrap-reboot.rtl.min.css.map
+i:{d8cbeb4a-8e80-49b5-9358-6b3ffc4f3ec6}:c:\users\aaron\source\repos\coachessoccercompanionweb\coachessoccercompanionweb\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.min.css.map
+++bootstrap-utilities.rtl.min.css.map
+i:{d8cbeb4a-8e80-49b5-9358-6b3ffc4f3ec6}:c:\users\aaron\source\repos\coachessoccercompanionweb\coachessoccercompanionweb\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.min.css.map
+++bootstrap.bundle.min.js.map
+i:{d8cbeb4a-8e80-49b5-9358-6b3ffc4f3ec6}:c:\users\aaron\source\repos\coachessoccercompanionweb\coachessoccercompanionweb\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.min.js.map
+++bootstrap.esm.min.js.map
+i:{d8cbeb4a-8e80-49b5-9358-6b3ffc4f3ec6}:c:\users\aaron\source\repos\coachessoccercompanionweb\coachessoccercompanionweb\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.min.js.map
+++dotnet-aspnet-codegenerator-design.exe
+i:{d8cbeb4a-8e80-49b5-9358-6b3ffc4f3ec6}:c:\users\aaron\source\repos\coachessoccercompanionweb\coachessoccercompanionweb\bin\debug\net6.0\runtimes\win-arm\lib\net6.0\dotnet-aspnet-codegenerator-design.exe
+i:{d8cbeb4a-8e80-49b5-9358-6b3ffc4f3ec6}:c:\users\aaron\source\repos\coachessoccercompanionweb\coachessoccercompanionweb\bin\debug\net6.0\runtimes\win-arm64\lib\net6.0\dotnet-aspnet-codegenerator-design.exe
+++Microsoft.DesktopBridge.Common.targets
+i:{d8cbeb4a-8e80-49b5-9358-6b3ffc4f3ec6}:c:\program files\microsoft visual studio\2022\community\msbuild\microsoft\desktopbridge\microsoft.desktopbridge.common.targets
+++Microsoft.Docker.targets
+i:{d8cbeb4a-8e80-49b5-9358-6b3ffc4f3ec6}:c:\program files\microsoft visual studio\2022\community\msbuild\sdks\microsoft.docker.sdk\build\microsoft.docker.targets
+++Microsoft.VisualStudio.Azure.Fabric.ServiceProject.targets
+i:{d8cbeb4a-8e80-49b5-9358-6b3ffc4f3ec6}:c:\program files\microsoft visual studio\2022\community\msbuild\microsoft\visualstudio\v17.0\service fabric tools\microsoft.visualstudio.azure.fabric.serviceproject.targets
+++Microsoft.Web.IISSupport.targets
+i:{d8cbeb4a-8e80-49b5-9358-6b3ffc4f3ec6}:c:\program files\microsoft visual studio\2022\community\msbuild\microsoft\visualstudio\managed.web\microsoft.web.iissupport.targets
+++Microsoft.AspNetCore.StaticWebAssets.targets
+i:{d8cbeb4a-8e80-49b5-9358-6b3ffc4f3ec6}:c:\users\aaron\.nuget\packages\microsoft.aspnetcore.identity.ui\6.0.5\build\microsoft.aspnetcore.staticwebassets.targets
+++Microsoft.AspNetCore.StaticWebAssets.V5.targets
+i:{d8cbeb4a-8e80-49b5-9358-6b3ffc4f3ec6}:c:\users\aaron\.nuget\packages\microsoft.aspnetcore.identity.ui\6.0.5\build\microsoft.aspnetcore.staticwebassets.v5.targets
+++NewFolder
+++App_Start
+i:{d8cbeb4a-8e80-49b5-9358-6b3ffc4f3ec6}:c:\users\aaron\source\repos\coachessoccercompanionweb\coachessoccercompanionweb\app_start\
+++Class.cs
+++RouteConfig.cs
+i:{d8cbeb4a-8e80-49b5-9358-6b3ffc4f3ec6}:c:\users\aaron\source\repos\coachessoccercompanionweb\coachessoccercompanionweb\app_start\routeconfig.cs
+++Microsoft.AspNet.Mvc (5.2.9)
+++Microsoft.AspNet.WebPages (3.2.9)
+++Microsoft.AspNet.Razor (3.2.9)
+++Microsoft.CodeDom.Providers.DotNetCompilerPlatform (3.6.0)
+++Microsoft.CodeDom.Providers.DotNetCompilerPlatform.targets
+++Microsoft.CodeDom.Providers.DotNetCompilerPlatform.Extensions.targets
+++Microsoft.Web.Infrastructure (2.0.0)
+++ButtonController.cs
+i:{d8cbeb4a-8e80-49b5-9358-6b3ffc4f3ec6}:c:\users\aaron\source\repos\coachessoccercompanionweb\coachessoccercompanionweb\controllers\buttoncontroller.cs
+++ButtonModel.cs
+i:{d8cbeb4a-8e80-49b5-9358-6b3ffc4f3ec6}:c:\users\aaron\source\repos\coachessoccercompanionweb\coachessoccercompanionweb\models\buttonmodel.cs
+++Microsoft.Web.Infrastructure (1.0.0)
+i:{d8cbeb4a-8e80-49b5-9358-6b3ffc4f3ec6}:>1224
+++Microsoft.CodeDom.Providers.DotNetCompilerPlatform (2.0.1)
+i:{d8cbeb4a-8e80-49b5-9358-6b3ffc4f3ec6}:>1225
+++Microsoft.CodeDom.Providers.DotNetCompilerPlatform.props
+i:{d8cbeb4a-8e80-49b5-9358-6b3ffc4f3ec6}:c:\users\aaron\.nuget\packages\microsoft.codedom.providers.dotnetcompilerplatform\2.0.1\build\net46\microsoft.codedom.providers.dotnetcompilerplatform.props
+++Microsoft.CodeDom.Providers.DotNetCompilerPlatform.Extensions.props
+i:{d8cbeb4a-8e80-49b5-9358-6b3ffc4f3ec6}:c:\users\aaron\.nuget\packages\microsoft.codedom.providers.dotnetcompilerplatform\2.0.1\build\net46\microsoft.codedom.providers.dotnetcompilerplatform.extensions.props
+++Microsoft.AspNet.Mvc (5.2.7)
+i:{d8cbeb4a-8e80-49b5-9358-6b3ffc4f3ec6}:>1278
+++Microsoft.AspNet.Razor (3.2.7)
+i:{d8cbeb4a-8e80-49b5-9358-6b3ffc4f3ec6}:>1279
+++Microsoft.AspNet.WebPages (3.2.7)
+i:{d8cbeb4a-8e80-49b5-9358-6b3ffc4f3ec6}:>1280
+++Secrets.json (Local)
+i:{d8cbeb4a-8e80-49b5-9358-6b3ffc4f3ec6}:>1281
+++Secrets.json (Local) dependency is detected
+i:{d8cbeb4a-8e80-49b5-9358-6b3ffc4f3ec6}:>1282

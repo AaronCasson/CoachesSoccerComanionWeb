@@ -19,6 +19,10 @@ build_property._RazorSourceGeneratorDebug =
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
+[C:/Users/Aaron/source/repos/CoachesSoccerCompanionWeb/CoachesSoccerCompanionWeb/Views/Button/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQnV0dG9uXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/Aaron/source/repos/CoachesSoccerCompanionWeb/CoachesSoccerCompanionWeb/Views/Coaches/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29hY2hlc1xDcmVhdGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
@@ -45,6 +49,26 @@ build_metadata.AdditionalFiles.CssScope =
 
 [C:/Users/Aaron/source/repos/CoachesSoccerCompanionWeb/CoachesSoccerCompanionWeb/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Aaron/source/repos/CoachesSoccerCompanionWeb/CoachesSoccerCompanionWeb/Views/Players/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGxheWVyc1xDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Aaron/source/repos/CoachesSoccerCompanionWeb/CoachesSoccerCompanionWeb/Views/Players/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGxheWVyc1xEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Aaron/source/repos/CoachesSoccerCompanionWeb/CoachesSoccerCompanionWeb/Views/Players/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGxheWVyc1xEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Aaron/source/repos/CoachesSoccerCompanionWeb/CoachesSoccerCompanionWeb/Views/Players/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGxheWVyc1xFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Aaron/source/repos/CoachesSoccerCompanionWeb/CoachesSoccerCompanionWeb/Views/Players/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGxheWVyc1xJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/Aaron/source/repos/CoachesSoccerCompanionWeb/CoachesSoccerCompanionWeb/Views/PositionTimes/Create.cshtml]
