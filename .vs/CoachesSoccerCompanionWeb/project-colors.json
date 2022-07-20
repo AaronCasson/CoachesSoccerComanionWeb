@@ -10,7 +10,17 @@
       "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
       "DisplayName": "Miscellaneous Files",
       "ColorIndex": -1
+    },
+    "e39a8ef3-8a2c-4ff4-b910-ba8815fb9585": {
+      "ProjectGuid": "e39a8ef3-8a2c-4ff4-b910-ba8815fb9585",
+      "DisplayName": "CoachesSoccerWebCompanionWeb.UnitTest",
+      "ColorIndex": 1
+    },
+    "079de231-3463-46b0-82f4-af7ac43e7df4": {
+      "ProjectGuid": "079de231-3463-46b0-82f4-af7ac43e7df4",
+      "DisplayName": "CoachesSoccerCompanion.UnitTests",
+      "ColorIndex": 2
     }
   },
-  "NextColorIndex": 1
+  "NextColorIndex": 3
 }

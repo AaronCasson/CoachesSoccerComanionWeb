@@ -5,7 +5,7 @@
        
         public List<PositionTime>? PositionTimes { get; set; }
 
-        public string? DateOfBirth { get; set; }
+        public DateTime? DateOfBirth { get; set; }
        
         
         /*public Player(string? firstname, string? lastname, DateTime? dateofbirth) : base(firstname, lastname)
