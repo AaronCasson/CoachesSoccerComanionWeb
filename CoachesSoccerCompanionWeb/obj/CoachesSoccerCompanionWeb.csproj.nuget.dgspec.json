@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Aaron\\source\\repos\\CoachesSoccerCompanionWeb\\CoachesSoccerCompanionWeb-master\\CoachesSoccerCompanionWeb\\CoachesSoccerCompanionWeb.csproj": {}
+    "C:\\Users\\Aaron\\source\\repos\\CoachesSoccerCompanionWeb\\CoachesSoccerCompanionWeb\\CoachesSoccerCompanionWeb.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Aaron\\source\\repos\\CoachesSoccerCompanionWeb\\CoachesSoccerCompanionWeb-master\\CoachesSoccerCompanionWeb\\CoachesSoccerCompanionWeb.csproj": {
+    "C:\\Users\\Aaron\\source\\repos\\CoachesSoccerCompanionWeb\\CoachesSoccerCompanionWeb\\CoachesSoccerCompanionWeb.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Aaron\\source\\repos\\CoachesSoccerCompanionWeb\\CoachesSoccerCompanionWeb-master\\CoachesSoccerCompanionWeb\\CoachesSoccerCompanionWeb.csproj",
+        "projectUniqueName": "C:\\Users\\Aaron\\source\\repos\\CoachesSoccerCompanionWeb\\CoachesSoccerCompanionWeb\\CoachesSoccerCompanionWeb.csproj",
         "projectName": "CoachesSoccerCompanionWeb",
-        "projectPath": "C:\\Users\\Aaron\\source\\repos\\CoachesSoccerCompanionWeb\\CoachesSoccerCompanionWeb-master\\CoachesSoccerCompanionWeb\\CoachesSoccerCompanionWeb.csproj",
+        "projectPath": "C:\\Users\\Aaron\\source\\repos\\CoachesSoccerCompanionWeb\\CoachesSoccerCompanionWeb\\CoachesSoccerCompanionWeb.csproj",
         "packagesPath": "C:\\Users\\Aaron\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Aaron\\source\\repos\\CoachesSoccerCompanionWeb\\CoachesSoccerCompanionWeb-master\\CoachesSoccerCompanionWeb\\obj\\",
+        "outputPath": "C:\\Users\\Aaron\\source\\repos\\CoachesSoccerCompanionWeb\\CoachesSoccerCompanionWeb\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -44,37 +44,33 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "dependencies": {
-            "MSTest.TestAdapter": {
-              "target": "Package",
-              "version": "[2.2.10, )"
-            },
             "Microsoft.AspNet.Mvc": {
               "target": "Package",
-              "version": "[5.2.9, )"
+              "version": "[5.2.7, )"
             },
             "Microsoft.AspNet.Razor": {
               "target": "Package",
-              "version": "[3.2.9, )"
+              "version": "[3.2.7, )"
             },
             "Microsoft.AspNet.WebPages": {
               "target": "Package",
-              "version": "[3.2.9, )"
+              "version": "[3.2.7, )"
             },
             "Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore": {
               "target": "Package",
-              "version": "[6.0.7, )"
+              "version": "[6.0.5, )"
             },
             "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
               "target": "Package",
-              "version": "[6.0.7, )"
+              "version": "[6.0.5, )"
             },
             "Microsoft.AspNetCore.Identity.UI": {
               "target": "Package",
-              "version": "[6.0.7, )"
+              "version": "[6.0.5, )"
             },
             "Microsoft.CodeDom.Providers.DotNetCompilerPlatform": {
               "target": "Package",
-              "version": "[3.6.0, )"
+              "version": "[2.0.1, )"
             },
             "Microsoft.EntityFrameworkCore.SqlServer": {
               "target": "Package",
@@ -86,25 +82,17 @@
               "target": "Package",
               "version": "[6.0.7, )"
             },
-            "Microsoft.NET.Test.Sdk": {
-              "target": "Package",
-              "version": "[17.2.0, )"
-            },
-            "Microsoft.TestPlatform": {
-              "target": "Package",
-              "version": "[17.2.0, )"
-            },
             "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
               "target": "Package",
               "version": "[6.0.7, )"
             },
             "Microsoft.Web.Infrastructure": {
               "target": "Package",
-              "version": "[2.0.0, )"
+              "version": "[1.0.0, )"
             },
             "Swashbuckle.AspNetCore": {
               "target": "Package",
-              "version": "[6.4.0, )"
+              "version": "[6.3.0, )"
             }
           },
           "imports": [

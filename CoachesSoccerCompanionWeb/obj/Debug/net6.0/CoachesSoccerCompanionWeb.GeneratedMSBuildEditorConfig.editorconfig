@@ -8,105 +8,105 @@ build_property.PlatformNeutralAssembly =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = CoachesSoccerCompanionWeb
 build_property.RootNamespace = CoachesSoccerCompanionWeb
-build_property.ProjectDir = C:\Users\Aaron\source\repos\CoachesSoccerCompanionWeb\CoachesSoccerCompanionWeb-master\CoachesSoccerCompanionWeb\
+build_property.ProjectDir = C:\Users\Aaron\source\repos\CoachesSoccerCompanionWeb\CoachesSoccerCompanionWeb\
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\Aaron\source\repos\CoachesSoccerCompanionWeb\CoachesSoccerCompanionWeb-master\CoachesSoccerCompanionWeb
+build_property.MSBuildProjectDirectory = C:\Users\Aaron\source\repos\CoachesSoccerCompanionWeb\CoachesSoccerCompanionWeb
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/Aaron/source/repos/CoachesSoccerCompanionWeb/CoachesSoccerCompanionWeb-master/CoachesSoccerCompanionWeb/Areas/Identity/Pages/_ViewStart.cshtml]
+[C:/Users/Aaron/source/repos/CoachesSoccerCompanionWeb/CoachesSoccerCompanionWeb/Areas/Identity/Pages/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Aaron/source/repos/CoachesSoccerCompanionWeb/CoachesSoccerCompanionWeb-master/CoachesSoccerCompanionWeb/Views/Coaches/Create.cshtml]
+[C:/Users/Aaron/source/repos/CoachesSoccerCompanionWeb/CoachesSoccerCompanionWeb/Views/Coaches/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29hY2hlc1xDcmVhdGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Aaron/source/repos/CoachesSoccerCompanionWeb/CoachesSoccerCompanionWeb-master/CoachesSoccerCompanionWeb/Views/Coaches/Delete.cshtml]
+[C:/Users/Aaron/source/repos/CoachesSoccerCompanionWeb/CoachesSoccerCompanionWeb/Views/Coaches/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29hY2hlc1xEZWxldGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Aaron/source/repos/CoachesSoccerCompanionWeb/CoachesSoccerCompanionWeb-master/CoachesSoccerCompanionWeb/Views/Coaches/Details.cshtml]
+[C:/Users/Aaron/source/repos/CoachesSoccerCompanionWeb/CoachesSoccerCompanionWeb/Views/Coaches/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29hY2hlc1xEZXRhaWxzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Aaron/source/repos/CoachesSoccerCompanionWeb/CoachesSoccerCompanionWeb-master/CoachesSoccerCompanionWeb/Views/Coaches/Edit.cshtml]
+[C:/Users/Aaron/source/repos/CoachesSoccerCompanionWeb/CoachesSoccerCompanionWeb/Views/Coaches/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29hY2hlc1xFZGl0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Aaron/source/repos/CoachesSoccerCompanionWeb/CoachesSoccerCompanionWeb-master/CoachesSoccerCompanionWeb/Views/Coaches/Index.cshtml]
+[C:/Users/Aaron/source/repos/CoachesSoccerCompanionWeb/CoachesSoccerCompanionWeb/Views/Coaches/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29hY2hlc1xJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Aaron/source/repos/CoachesSoccerCompanionWeb/CoachesSoccerCompanionWeb-master/CoachesSoccerCompanionWeb/Views/Home/Index.cshtml]
+[C:/Users/Aaron/source/repos/CoachesSoccerCompanionWeb/CoachesSoccerCompanionWeb/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Aaron/source/repos/CoachesSoccerCompanionWeb/CoachesSoccerCompanionWeb-master/CoachesSoccerCompanionWeb/Views/Home/Privacy.cshtml]
+[C:/Users/Aaron/source/repos/CoachesSoccerCompanionWeb/CoachesSoccerCompanionWeb/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Aaron/source/repos/CoachesSoccerCompanionWeb/CoachesSoccerCompanionWeb-master/CoachesSoccerCompanionWeb/Views/Players/Create.cshtml]
+[C:/Users/Aaron/source/repos/CoachesSoccerCompanionWeb/CoachesSoccerCompanionWeb/Views/Players/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGxheWVyc1xDcmVhdGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Aaron/source/repos/CoachesSoccerCompanionWeb/CoachesSoccerCompanionWeb-master/CoachesSoccerCompanionWeb/Views/Players/Delete.cshtml]
+[C:/Users/Aaron/source/repos/CoachesSoccerCompanionWeb/CoachesSoccerCompanionWeb/Views/Players/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGxheWVyc1xEZWxldGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Aaron/source/repos/CoachesSoccerCompanionWeb/CoachesSoccerCompanionWeb-master/CoachesSoccerCompanionWeb/Views/Players/Details.cshtml]
+[C:/Users/Aaron/source/repos/CoachesSoccerCompanionWeb/CoachesSoccerCompanionWeb/Views/Players/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGxheWVyc1xEZXRhaWxzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Aaron/source/repos/CoachesSoccerCompanionWeb/CoachesSoccerCompanionWeb-master/CoachesSoccerCompanionWeb/Views/Players/Edit.cshtml]
+[C:/Users/Aaron/source/repos/CoachesSoccerCompanionWeb/CoachesSoccerCompanionWeb/Views/Players/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGxheWVyc1xFZGl0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Aaron/source/repos/CoachesSoccerCompanionWeb/CoachesSoccerCompanionWeb-master/CoachesSoccerCompanionWeb/Views/Players/Index.cshtml]
+[C:/Users/Aaron/source/repos/CoachesSoccerCompanionWeb/CoachesSoccerCompanionWeb/Views/Players/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGxheWVyc1xJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Aaron/source/repos/CoachesSoccerCompanionWeb/CoachesSoccerCompanionWeb-master/CoachesSoccerCompanionWeb/Views/Shared/Error.cshtml]
+[C:/Users/Aaron/source/repos/CoachesSoccerCompanionWeb/CoachesSoccerCompanionWeb/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Aaron/source/repos/CoachesSoccerCompanionWeb/CoachesSoccerCompanionWeb-master/CoachesSoccerCompanionWeb/Views/Shared/_LoginPartial.cshtml]
+[C:/Users/Aaron/source/repos/CoachesSoccerCompanionWeb/CoachesSoccerCompanionWeb/Views/Shared/_LoginPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9Mb2dpblBhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Aaron/source/repos/CoachesSoccerCompanionWeb/CoachesSoccerCompanionWeb-master/CoachesSoccerCompanionWeb/Views/Shared/_ValidationScriptsPartial.cshtml]
+[C:/Users/Aaron/source/repos/CoachesSoccerCompanionWeb/CoachesSoccerCompanionWeb/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Aaron/source/repos/CoachesSoccerCompanionWeb/CoachesSoccerCompanionWeb-master/CoachesSoccerCompanionWeb/Views/Teams/Create.cshtml]
+[C:/Users/Aaron/source/repos/CoachesSoccerCompanionWeb/CoachesSoccerCompanionWeb/Views/Teams/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGVhbXNcQ3JlYXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Aaron/source/repos/CoachesSoccerCompanionWeb/CoachesSoccerCompanionWeb-master/CoachesSoccerCompanionWeb/Views/Teams/Delete.cshtml]
+[C:/Users/Aaron/source/repos/CoachesSoccerCompanionWeb/CoachesSoccerCompanionWeb/Views/Teams/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGVhbXNcRGVsZXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Aaron/source/repos/CoachesSoccerCompanionWeb/CoachesSoccerCompanionWeb-master/CoachesSoccerCompanionWeb/Views/Teams/Details.cshtml]
+[C:/Users/Aaron/source/repos/CoachesSoccerCompanionWeb/CoachesSoccerCompanionWeb/Views/Teams/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGVhbXNcRGV0YWlscy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Aaron/source/repos/CoachesSoccerCompanionWeb/CoachesSoccerCompanionWeb-master/CoachesSoccerCompanionWeb/Views/Teams/Edit.cshtml]
+[C:/Users/Aaron/source/repos/CoachesSoccerCompanionWeb/CoachesSoccerCompanionWeb/Views/Teams/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGVhbXNcRWRpdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Aaron/source/repos/CoachesSoccerCompanionWeb/CoachesSoccerCompanionWeb-master/CoachesSoccerCompanionWeb/Views/Teams/Index.cshtml]
+[C:/Users/Aaron/source/repos/CoachesSoccerCompanionWeb/CoachesSoccerCompanionWeb/Views/Teams/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGVhbXNcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Aaron/source/repos/CoachesSoccerCompanionWeb/CoachesSoccerCompanionWeb-master/CoachesSoccerCompanionWeb/Views/_ViewImports.cshtml]
+[C:/Users/Aaron/source/repos/CoachesSoccerCompanionWeb/CoachesSoccerCompanionWeb/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Aaron/source/repos/CoachesSoccerCompanionWeb/CoachesSoccerCompanionWeb-master/CoachesSoccerCompanionWeb/Views/_ViewStart.cshtml]
+[C:/Users/Aaron/source/repos/CoachesSoccerCompanionWeb/CoachesSoccerCompanionWeb/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Aaron/source/repos/CoachesSoccerCompanionWeb/CoachesSoccerCompanionWeb-master/CoachesSoccerCompanionWeb/Views/Shared/_Layout.cshtml]
+[C:/Users/Aaron/source/repos/CoachesSoccerCompanionWeb/CoachesSoccerCompanionWeb/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-lgy3u2mew4

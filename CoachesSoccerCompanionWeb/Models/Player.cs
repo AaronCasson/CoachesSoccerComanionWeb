@@ -1,10 +1,13 @@
-﻿namespace CoachesSoccerCompanionWeb.Models
+﻿using System.ComponentModel.DataAnnotations;
+
+namespace CoachesSoccerCompanionWeb.Models
 {
     public class Player : Participant
     {
        
         public List<PositionTime>? PositionTimes { get; set; }
 
+        [DataType(DataType.Date)]
         public DateTime? DateOfBirth { get; set; }
        
         
