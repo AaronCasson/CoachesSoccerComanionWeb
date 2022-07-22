@@ -17,7 +17,7 @@ namespace CoachesSoccerCompanionWeb.Data.Migrations
         {
 #pragma warning disable 612, 618
             modelBuilder
-                .HasAnnotation("ProductVersion", "6.0.6")
+                .HasAnnotation("ProductVersion", "6.0.7")
                 .HasAnnotation("Relational:MaxIdentifierLength", 128);
 
             SqlServerModelBuilderExtensions.UseIdentityColumns(modelBuilder, 1L, 1);
@@ -302,6 +302,15 @@ namespace CoachesSoccerCompanionWeb.Data.Migrations
                         .HasColumnType("nvarchar(max)");
 
                     b.HasDiscriminator().HasValue("Coach");
+
+                    b.HasData(
+                        new
+                        {
+                            Id = new Guid("c7012bd4-79ae-4835-be3f-3bf3fc43c60e"),
+                            FirstName = "SeedFirstName",
+                            LastName = "SeedLastName",
+                            PhoneNumber = "555-555-5555"
+                        });
                 });
 
             modelBuilder.Entity("CoachesSoccerCompanionWeb.Models.Player", b =>

@@ -23,13 +23,37 @@ namespace CoachesSoccerCompanionWeb.Controllers
 
         // GET: api/PlayersAPI
         [HttpGet]
+        [Route("random")]
+        public async Task<ActionResult<Player>> GetRandomPlayer()
+        {
+            if (_context.Players == null)
+            {
+                return NotFound();
+            }
+            var players = await _context.Players.ToListAsync();
+            var playerCount = players.Count();
+            var rand = new Random();
+            var randNum = rand.Next(0, playerCount - 1);
+            var randPlayer = players[randNum];
+            
+            if(randPlayer == null)
+            {
+                return NotFound();
+            }
+
+            return randPlayer;
+        }
+
+        // GET: api/PlayersAPI
+        [HttpGet]
+        
         public async Task<ActionResult<IEnumerable<Player>>> GetPlayers()
         {
           if (_context.Players == null)
           {
               return NotFound();
           }
-            return await _context.Players.ToListAsync();
+          return await _context.Players.ToListAsync();
         }
 
         // GET: api/PlayersAPI/5
