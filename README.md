@@ -15,3 +15,5 @@ Additionally I've added an API controller for the players class and customized i
 There are of couse many other things that I'd like to explore - like the integration of playtime and position (PositionTime) tracking found in my console app, and the integration and use of buttons to trigger this functionality.
 
 I hope to continue building on this knowledge in future projects.
+
+Notes for Testing: You will need to add "/Home" to the base URL to get the website to load properly.  You will also need to run 'update-database' in the package manager console before using the first time.
